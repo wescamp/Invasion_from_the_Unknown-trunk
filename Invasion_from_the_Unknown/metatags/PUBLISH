@@ -1,0 +1,7 @@
+# "Invasion from the Unknown" package automatically generated on 2008-12-24 - 13:17:35 (UTC)
+# running /home/shadowm/bin/build-external-archive.sh under GNU/Linux 2.6.26-1-amd64 x86_64 by shadowm@
+
+$ version 1.10.1a
+$ archive tar
+$ comp bzip2
+$ generator shadowm@
