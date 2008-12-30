@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-12-26 00:19+0100\n"
+"POT-Creation-Date: 2008-12-30 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -348,7 +348,7 @@ msgid "UI^Character description"
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/macros/first-time-help.cfg:25
-msgid "Galas is an Elvish Fighter. As such, he has three advancement choices from level 1: Captain and Hero. Choose his development path wisely and carefully."
+msgid "Galas is an Elvish Fighter. As such, he has two advancement choices from level 1: Captain and Hero. Choose his development path wisely and carefully."
 msgstr ""
 
 #: ./Invasion_from_the_Unknown/macros/first-time-help.cfg:29
@@ -2141,7 +2141,7 @@ msgstr ""
 
 #. [event]
 #: ./Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:188
-msgid "I meant there was some great evil aiding the humans. Not merely ordinary necromancers and war-beasts, but something worse. Something I believed we had already vanquished... but now I realize we had not not, at least not completely..."
+msgid "I meant there was some great evil aiding the humans. Not merely ordinary necromancers and war-beasts, but something worse. Something I believed we had already vanquished... but now I realize we had not, at least not completely..."
 msgstr ""
 
 #. [event]
@@ -14354,7 +14354,7 @@ msgstr ""
 
 #. [race]: id=shaxthal
 #: ./Invasion_from_the_Unknown/units/shaxthal.cfg:8
-msgid "Of the many monstrousities spotted in the Chaos Armies, strange metallic creeps known as the 'Shaxthals' lead the front lines. Their attack strength is the most fearsome one, and this has several implications. Firstly, most of the few fools who dare oppose them directly have the misfortune of being killed in a slow painful manner, as a red light beam coming from these abominations' eyes crushes their victim's brain, literally; secondly, the least of these few defiant people, have the opportunity to see what lies beneath the shaxthal's armor, and afterwards, don't dare to say what they have seen, at least not more than a single time. So dark must be the secret behind their rising and breeding that not even the chaos Lores dare step close to these messengers of pain and despair."
+msgid "Of the many monstrosities spotted in the Chaos Armies, strange metallic creeps known as the 'Shaxthals' lead the front lines. Their attack strength is the most fearsome one, and this has several implications. Firstly, most of the few fools who dare oppose them directly have the misfortune of being killed in a slow painful manner, as a red light beam coming from these abominations' eyes crushes their victim's brain, literally; secondly, the least of these few defiant people, have the opportunity to see what lies beneath the shaxthal's armor, and afterwards, don't dare to say what they have seen, at least not more than a single time. So dark must be the secret behind their rising and breeding that not even the chaos Lores dare step close to these messengers of pain and despair."
 msgstr ""
 
 #. [unit_type]: id=The Shadow Master is Dead, race=shaxthal, description=NOONE SHOULD BE READING THIS
