@@ -6,6 +6,29 @@ ________________________________________________________________________________
      [D]: definitive | [P]: placeholder | [T]: testing | [U]: unstable
 ________________________________________________________________________________
 
+Version 1.10.2:
+- Maintenance toolchain:
+    - Made build-external-archive.sh use uname instead of GNU distribution-
+      specific environment variables. Also, fill the PUBLISH tag with a bit more
+      of information. In the future I'll probably use GnuPG to sign packages.
+    - Updated the WMLDIRS and IMPORTDIRS tags.
+
+- Scenarios:
+    - 3 (Memories from the Depths):
+        - Cosmetic and consistency fixes on the map.
+        - Erase a duplicated 'not' in the initial dialogue.
+    - 4 (Over the Sands):
+        - http://www.wesnoth.org/forum/viewtopic.php?p=328014#p328014:
+            - Force dehydration/hydration to operate only on units located
+              on the gamemap.
+            - Removed an accidentally copy & pasted unit filter that
+              hydrated on victory only those units that would have been
+              hydrated on the next turn (stepping on water hexes, blah blah).
+
+- Units:
+    - Fix a small mistake in Galas' character description text.
+________________________________________________________________________________
+
 Version 1.10.1a:
 - Graphics:
     - New portraits: Althurin [D]
@@ -248,5 +271,5 @@ Version 1.10.0 (interim release):
     - Simplified Shaxthal's unit_type variation WML
 ________________________________________________________________________________
 
-; $Id: ChangeLog 3041 2008-12-24 02:32:03Z shikadilord $
+; $Id: ChangeLog 3113 2008-12-30 11:46:16Z shikadilord $
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;
