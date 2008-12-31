@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wesnoth-Invasion_from_the_Unknown\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-12-30 17:42+0100\n"
-"PO-Revision-Date: 2008-05-07 15:41+0300\n"
+"PO-Revision-Date: 2008-12-30 08:03+0200\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -34,9 +34,8 @@ msgid "Version:"
 msgstr "Sürüm:"
 
 #: Invasion_from_the_Unknown/_main.cfg:63
-#, fuzzy
 msgid "(for Battle for Wesnoth 1.5.6 or later)"
-msgstr "(Wesnoth Savaşı 1.4.x için)"
+msgstr "(Wesnoth Savaşı 1.5.6 ve sonrası için)"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:69
@@ -64,9 +63,8 @@ msgstr ""
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:73
-#, fuzzy
 msgid "IftU-1"
-msgstr "MS"
+msgstr "MS-1"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:76
@@ -118,6 +116,11 @@ msgid ""
 "courageous living and non-living warriors to victory, and rediscover lost "
 "secrets of the history."
 msgstr ""
+"Kaosun gölgesi tüm kıtayı kapladığından beri akılsız kahramanlardan oluşan "
+"sıradışı bir grup  İmparatorluğa bir karşı taarruz hazırlığındalar. Hepsinin "
+"tek bir amacı var: Ne olursa olsun kötü imparatoru yenmek. Canlı veya cansız "
+"bu yiğit savaşçılara zafere ulaşmaları için liderlik et ve tarihin "
+"karanlıkta kalmış olaylarını keşfet."
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:80
@@ -126,9 +129,8 @@ msgstr "Mahşer"
 
 #. [campaign]
 #: Invasion_from_the_Unknown/_main.cfg:83
-#, fuzzy
 msgid "IftU-2"
-msgstr "MS"
+msgstr "MS-2"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:14
@@ -142,9 +144,8 @@ msgstr "Seferberlik Bakımcısı"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:53
-#, fuzzy
 msgid "Maintenance and release toolkit"
-msgstr "Bakım Araçları"
+msgstr "Bakım ve dağıtım araçları"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:60
@@ -174,22 +175,22 @@ msgstr "Müzik parçaları (genel)"
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:271
 msgid "SVN services and hosting"
-msgstr ""
+msgstr "SVN hizmetleri ve ağırlama"
 
 #. [entry]
 #: Invasion_from_the_Unknown/about.cfg:273
 msgid "Coordinated Wesnoth UMC Development Project"
-msgstr ""
+msgstr "Bir Wesnoth KYS Geliştirme Projesi"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:277
 msgid "Web hosting"
-msgstr ""
+msgstr "Site Barındırma hizmeti"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:283
 msgid "IRC Bots"
-msgstr ""
+msgstr "IRC Botları"
 
 #. [about]
 #: Invasion_from_the_Unknown/about.cfg:293
@@ -204,7 +205,7 @@ msgstr "Hepsinin değerli katkılarını gördüm."
 #. [entry]
 #: Invasion_from_the_Unknown/about.cfg:322
 msgid "All those who reported and/or fixed bugs in this campaign"
-msgstr ""
+msgstr "Bu seferberliğe hata bildiren ve düzelten herkese"
 
 #. [entry]
 #: Invasion_from_the_Unknown/about.cfg:325
@@ -240,7 +241,7 @@ msgstr "Kristal Motif"
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/sides.cfg:8
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/frozen_hell.cfg:165
 msgid "Shadow Master"
-msgstr "Gölgelerin Efendisi"
+msgstr "Gölgelerin Hükümdarı"
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/base-utils.cfg:129
@@ -250,9 +251,8 @@ msgstr "Her Yerden gelen Uğursuz Bir Ses"
 
 #. [editor_group]: id=wesnoth-UMC-Invasion_from_the_Unknown
 #: Invasion_from_the_Unknown/editor-loader.cfg:26
-#, fuzzy
 msgid "Invasion from the Unknown (custom terrains)"
-msgstr "Meçhulden Saldırı"
+msgstr "Meçhulden Saldırı (özel araziler)"
 
 #: Invasion_from_the_Unknown/macros/abilities.cfg:18
 msgid ""
@@ -268,7 +268,7 @@ msgstr ""
 msgid ""
 " Vegetated terrains are forest, great tree, farmland and mushroom grove "
 "hexes."
-msgstr ""
+msgstr " Bitkisel araziler: ormanlar, büyük ağaç, çiftlik ve mantar korusu."
 
 #: Invasion_from_the_Unknown/macros/abilities.cfg:29
 msgid "dauntless"
@@ -280,6 +280,9 @@ msgid ""
 "While attacking, this unit's resistances are doubled, up to a maximum of 50. "
 "Weaknesses are not affected."
 msgstr ""
+"Gözüpek:\n"
+"Sardırı sırasında bu birimin dirençleri ikiye katlanır ama %50’lik azami "
+"sınırı aşamaz. Zayıflıklar etkilenmez."
 
 #: Invasion_from_the_Unknown/macros/abilities.cfg:54
 msgid "protection"
@@ -291,6 +294,9 @@ msgid ""
 "Adjacent units of lower level from this side receive a +20% bonus to all "
 "resistances (up to a maximum of 50%)."
 msgstr ""
+"Koruma:\n"
+"Komşu altıgenlerde bulunan düşük seviyeden dost birimlerin tüm dirençlerine %"
+"50’lik azami değer aşılmamak şartıyla %20 eklenir."
 
 #. [illuminates]: id=obscure
 #: Invasion_from_the_Unknown/macros/abilities.cfg:136
@@ -307,6 +313,12 @@ msgid ""
 "Any units adjacent to this unit will fight as if it were dusk when it is "
 "day, and as if it were night when it is dusk."
 msgstr ""
+"Karartır:\n"
+"Bu birim çevresini karartarak, kaotik birimlerin daha iyi, adaletli "
+"birimlerin daha kötü savaşmasına sebep olur.\n"
+"\n"
+"Bu birime komşu her birim gündüzleyin akşammış gibi ve akşamleyin geceymiş "
+"gibi döğüşecektir."
 
 #: Invasion_from_the_Unknown/macros/abilities.cfg:146
 msgid "terror"
@@ -322,6 +334,12 @@ msgid ""
 "enemy unit of the same or lower level is adjacent and engages in combat, its "
 "attacks do 15% less damage times the difference in their levels + 15%."
 msgstr ""
+"Ürkütme:\n"
+"Bu birim komşu düşman birimlerin kötü döğüşmelerine sebep olur.\n"
+"\n"
+"Düşük seviyeden komşu düşman birimler döğüşürken daha az hasar verirler. Bu "
+"birime komşu aynı veya alt seviyeden düşman birimler, bu birimle çarpışırken "
+"aralarındaki seviye farkının bir fazlası kere %15 daha az hasar verirler."
 
 #: Invasion_from_the_Unknown/macros/abilities.cfg:292
 msgid "sylvan spark"
@@ -333,6 +351,9 @@ msgid ""
 "While in vegetated terrains, the unit will heal itself 5 hp per turn. If it "
 "is poisoned, it will remove the poison instead of healing."
 msgstr ""
+"Canlanma:\n"
+"Bitek arazilerdeyken birim kendini her el 5 YP’ye kadar tedavi edecektir. "
+"Zehirliyse o el tedavi yerine sadece zehiri giderilecektir."
 
 #. [heals]: id=sylvan_essence_healing_nounion
 #. [illuminates]: id=sylvan_essence_illum
@@ -350,6 +371,12 @@ msgid ""
 "its enemies. It can also regenerate (but not unpoison) 3 HP per-turn, but "
 "only in vegetated terrains."
 msgstr ""
+"Esenlik:\n"
+"Bu birim komşu altıgenlerde bulunan dost birimleri her el azami 8 YP’ye "
+"kadar tedavi eder veya zehirlenmişlerse ilaç verir. Bitek arazilerde kendini "
+"düşmanlardan gizleyebilir. Ayrıca her el <italic>text='sadece bitek "
+"arazilerde'</italic> kendini 3 YP’ye kadar tedavi edebilir ama kendi "
+"zehirini gideremez."
 
 #. [illuminates]: id=sylvan_essence_illum
 #: Invasion_from_the_Unknown/macros/abilities.cfg:362
@@ -365,30 +392,38 @@ msgid ""
 "from its enemies. It can also regenerate (but not unpoison) 4 HP per-turn, "
 "but only in vegetated terrains."
 msgstr ""
+"Esenlik:\n"
+"Bu birim çevresini aydınlatarak, kaotik birimlerin daha kötü, adaletli "
+"birimlerin daha iyi savaşmasına sebep olur.\n"
+"\n"
+"Bu birime komşu her birim akşamleyin gündüzmüş gibi ve geceleyin akşammış "
+"gibi döğüşecektir.\n"
+"\n"
+"Bu birim komşu altıgenlerde bulunan dost birimleri her el azami 8 YP’ye "
+"kadar tedavi eder veya zehirlenmişlerse ilaç verir. Bitek arazilerde kendini "
+"düşmanlardan gizleyebilir. Ayrıca her el <italic>text='sadece bitek "
+"arazilerde'</italic> kendini 3 YP’ye kadar tedavi edebilir ama kendi "
+"zehirini gideremez."
 
 #. [advancement]: id=amla_strength_l1
 #: Invasion_from_the_Unknown/macros/amla.cfg:200
-#, fuzzy
 msgid "Strength: hitpoints +5 <Max XP +30%>"
-msgstr "Güçlülük: yakın hasar +1, yaşam puanı +5 <Azami TP +%20>"
+msgstr "Güçlülük: yaşam puanı +5 <Azami TP +%30>"
 
 #. [advancement]: id=amla_strength_l2
 #: Invasion_from_the_Unknown/macros/amla.cfg:216
-#, fuzzy
 msgid "Strength: melee damage +1 <Max XP +45%>"
-msgstr "Güçlülük: yakın hasar +1, <Azm TP +%40>"
+msgstr "Güçlülük: yakın hasar +1, <Azm TP +%45>"
 
 #. [advancement]: id=amla_strength_l3
 #: Invasion_from_the_Unknown/macros/amla.cfg:232
-#, fuzzy
 msgid "Strength: melee strikes +1, <Max XP +60%>"
-msgstr "Güçlülük: yakın darbe sayısı +1 <Azm TP +%50>"
+msgstr "Güçlülük: yakın darbe sayısı +1 <Azm TP +%60>"
 
 #. [advancement]: id=amla_strength_l4
 #: Invasion_from_the_Unknown/macros/amla.cfg:248
-#, fuzzy
 msgid "New attack: thorns (ranged/pierce 7-3, magical) <Max XP +75%>"
-msgstr "Yeni saldırı: diken (uzak 9-3, sihirli) <Azm TP +%15>"
+msgstr "Yeni saldırı: diken (uzak/delme 7-3, sihirli) <Azm TP +%75>"
 
 #. [print]
 #: Invasion_from_the_Unknown/macros/boss-utils.cfg:27
@@ -400,13 +435,12 @@ msgid "Defeat the enemy boss"
 msgstr "Düşman baskın birimini yen"
 
 #: Invasion_from_the_Unknown/macros/boss-utils.cfg:126
-#, fuzzy
 msgid ""
 "This is a boss scenario. You may recruit or recall troops during the first "
 "turn only, until all your recruitment space is used. Your per-turn income is "
 "set to zero."
 msgstr ""
-"Bu bir baskın birim senaryosudur. Sadece ilk el kale alanlarını dolduracak "
+"Bu bir kabadayılık senaryosudur. Sadece ilk el kale alanlarını dolduracak "
 "kadar asker alabilir veya çağırabilirsiniz. El başına geliriniz sıfırlanacak "
 "ve el sayısı sınırlanmayacaktır."
 
@@ -430,8 +464,7 @@ msgid ""
 "level 1: Captain and Hero. Choose his development path wisely and carefully."
 msgstr ""
 "Galas bir Elf Savaşçısıdır. Bu nedenle, bu seferberlikte özel olarak 2. "
-"seviyeye geçiş üç seçeneklidir: Yüzbaşı, Kahraman ve Mızrakçı. Sonuncusu "
-"sadece bu seferberlikte vardır ve 3. seviyesi yoktur. Neye terfi "
+"seviyeye geçiş iki seçeneklidir: Yüzbaşı ve Kahraman Neye terfi "
 "ettireceğinize bilgece ve dikkatle karar verin."
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:29
@@ -440,17 +473,19 @@ msgid ""
 "offensive magic, but she also has the ability of curing allied units from "
 "poison. Keep in mind that she is the only unit of her kind."
 msgstr ""
+"Analya Yaşlı bir elf rahibesidir. Savaş büyücüsü olarak tecrübeli olmasının "
+"yanında müttefik birimleri tedavi etme ve zehirlerini giderme yeteneğine de "
+"sahiptir. Türünün tek örneği olduğunu unutmayın."
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:33
-#, fuzzy
 msgid ""
 "Mal Keshar is an Ancient Lich. Although he may be a virtually unstopable "
 "weapon against most living units, keep in mind that he is weak against "
 "impact, arcane and fire attacks, even more so at daytime!"
 msgstr ""
 "Mal Keşnar bir Ezelî Umacıdır. Çoğu canlı birim için sanal olarak "
-"durdurulamaz olsa da darbe, gizemli ve ateş saldırılarına karşı zayıf "
-"olduğunu aklınızdan çıkarmayın."
+"durdurulamaz olsa da özellikle gündüz saatlerinde darbe, gizemli ve ateş "
+"saldırılarına karşı zayıf olduğunu aklınızdan çıkarmayın."
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:37
 msgid ""
@@ -459,12 +494,18 @@ msgid ""
 "ability with the staff as a melee weapon is also remarkable, but never let "
 "her alone when fighting well-armed oponents."
 msgstr ""
+"Elenya bir ışık perisidir; büyük bir hareketliliğin (uçma) yanısıra "
+"rakibinin aklını karıştırarak etki alanını yoketme becerisine da sahiptir. "
+"Asasıyla yakın döğüşte etkili olsa da iyi zırh kuşanmış birimlerle döğüşte "
+"tek başına yeterli olamaz."
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:41
 msgid ""
 "Althurin is one of the best Dwarvish Runemasters of Knalga. His mastery of "
 "such craft allows him to accurately deal great damage with his own hammer."
 msgstr ""
+"Alturin Kanalga'nın en iyi oyma ustalarından biridir. Bu ustalığının sonucu "
+"olarak çekiciyle rakiplerine büyük hasar verir."
 
 #: Invasion_from_the_Unknown/macros/first-time-help.cfg:45
 msgid ""
@@ -515,7 +556,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/glamour.cfg:252
 msgid "Ahhhh! Back to normal."
-msgstr ""
+msgstr "Ahhh! Normale dön."
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/macros/glamour.cfg:271
@@ -523,6 +564,8 @@ msgid ""
 "You slowly feel like if your body was vanishing. And that is what it does "
 "indeed. Your surroundings disappear for a moment, and there is silence..."
 msgstr ""
+"Yavaşça bedeniniz kayboluyormuş gibi hissedeceksiniz. Bir an için görünmez "
+"olacaksınız ve bir sessizlik..."
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/macros/glamour.cfg:290
@@ -531,36 +574,39 @@ msgid ""
 "Its new structure is completely alien to you, and you do great struggle to "
 "stand up."
 msgstr ""
+"... ve birden tekrar ortala çıkacaksınız. Fakat bedeniniz artık eskisi gibi "
+"olmayacak. Yeni yapınız tamamen size yabancı ğelecek ve ayakta kalmak için "
+"büyük çaba harcayacaksınız."
 
 #. [then]
 #: Invasion_from_the_Unknown/macros/glamour.cfg:296
 msgid "Oh... my... god. No, seriously, what wicked devilry is this?"
-msgstr ""
+msgstr "Oh.. tanrım. Hayır, bu ne şeytani bir şey?"
 
 #. [then]
 #: Invasion_from_the_Unknown/macros/glamour.cfg:297
 msgid "Surely I have never seen anything like... like this."
-msgstr ""
+msgstr "Gerçekten, böyle... bunun gibi bir şeyi hiç görmemiştim."
 
 #. [set_menu_item]: id=glamour_cmd_castspell
 #: Invasion_from_the_Unknown/macros/glamour.cfg:310
 msgid "Cast spell of glamour"
-msgstr ""
+msgstr "Sihirli sözleri söyle"
 
 #. [value]: speaker=narrator
 #: Invasion_from_the_Unknown/macros/glamour.cfg:352
 msgid "Spell of glamour"
-msgstr ""
+msgstr "Sihirli sözleri söyler"
 
 #. [value]: speaker=narrator
 #: Invasion_from_the_Unknown/macros/glamour.cfg:353
 msgid "What creature should this unit transform into?"
-msgstr ""
+msgstr "Hangi birime dönüşsün?"
 
 #. [literal]
 #: Invasion_from_the_Unknown/macros/glamour.cfg:385
 msgid "Back to normal"
-msgstr ""
+msgstr "Normale dön"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/items.cfg:51
@@ -618,9 +664,8 @@ msgstr "iyileşti"
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/macros/items.cfg:280
 #: Invasion_from_the_Unknown/macros/items.cfg:343
-#, fuzzy
 msgid "Do you want this unit to pick up this item?"
-msgstr "Bu birimin nesneyi kullanmasını ister misiniz?"
+msgstr "Bu nesneyi bu birimin kullanmasını ister misiniz?"
 
 #: Invasion_from_the_Unknown/macros/items.cfg:377
 msgid ""
@@ -630,6 +675,12 @@ msgid ""
 "as well - but it is fortunate that undead horrors are not capable of bearing "
 "its power. That is probably why they hid it in this secret chamber."
 msgstr ""
+"Okunmuş Su! Atalarımızın silahlarını bu suyla ıslatarak yarı ölülere daha "
+"fazla zarar verebildiklerini okumuştum. Bu su silahlara bu doğaüstü "
+"yaratıklara felaket getiren gizemli bir enerji yüklüyormuş. Şüphesiz bu bize "
+"karşı da kullanılabilir. Fakat şansa bakın ki, yarı ölüler korkularından "
+"onun yanına bile yaklaşamıyorlar. Bu durum, onların bu suları neden bu gizli "
+"odada sakladıklarını da açıklıyor."
 
 #: Invasion_from_the_Unknown/macros/items.cfg:417
 msgid ""
@@ -638,6 +689,9 @@ msgid ""
 "This would be useful here, since we are not very used to moving on these "
 "rough and dark caves."
 msgstr ""
+"Bir altın yüzük. Üzerinde bir yazı var. ‘Bu yüzüğü takan kişi, ne yük "
+"taşıdığının bir önemi olmaksızın, daha hızlı ve daha çevik olur.’ Burada çok "
+"işe yarar. Çünkü bu izbe mağaralarda dolaşmaya pek alışkın değiliz."
 
 #. [object]
 #: Invasion_from_the_Unknown/macros/items.cfg:423
@@ -659,6 +713,10 @@ msgid ""
 "orcish slayers. Well, this one seems to have such a power, judging by the "
 "fine inscription on it."
 msgstr ""
+"Sihirli bir yay! Bir yerde okumuştum: Eski ordular, hiçbir ön hazırlık "
+"yapmadan zehirlemek gibi özel güçlere sahip silahlar hazırlamaları için "
+"güçlü sihirbazlar kiralarlarmış. Bu yay da üzerindeki yazılara bakılırsa "
+"böyle özelliklere sahip gibi görünüyor."
 
 #. [object]
 #: Invasion_from_the_Unknown/macros/items.cfg:450
@@ -712,6 +770,9 @@ msgid ""
 "undead warrior of ours. We are rather short on battle gear and I don't think "
 "its original owner would mind if we borrow and use it."
 msgstr ""
+"Bu güzel zırhı kim bu mağaranın derinliklerinde bırakıp gitmiş olabilir? "
+"Biri kaçarken burada düşürmüş olmalı, evvelce hiç giyilmemiş gibi duruyor. "
+"Bizden ber elf veya yarı ölü savaşçıya uyardı."
 
 #. [object]: id={ID}
 #: Invasion_from_the_Unknown/macros/items.cfg:531
@@ -784,7 +845,7 @@ msgstr "Şerefimle ölüyorum!!!"
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:231
 msgid "Alas. It's been my best time with thee, friends..."
-msgstr ""
+msgstr "Yazık. Seninle iyi vakit geçirmiştik..."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:235
@@ -799,7 +860,7 @@ msgstr "Hayır! Yapma!"
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:243
 msgid "Um... okay. May I ask you why?"
-msgstr ""
+msgstr "Hımmm... Peki. Sebebini sorabilir miyim?"
 
 #. [message]: speaker=Elynia
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:247
@@ -807,16 +868,18 @@ msgid ""
 "He has been a great help for us this far. I'd prefer not to disturb his "
 "death by rising his corpse to fight again."
 msgstr ""
+"Şimdiye kadar bize büyük yardımı oldu. Cesedini döğüşmek için tekrar ayağa "
+"kaldırmak suretiyle ölüsünü rahatsız etmemenizi tercih ederim."
 
 #. [message]: speaker=Mal Keshar
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:251
 msgid "As you wish, lady. Hmph."
-msgstr ""
+msgstr "Nasıl isterseniz, hanımefendi. Hımf."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:257
 msgid "Thee failed to protect me. Aargh..."
-msgstr ""
+msgstr "Sen beni koruyamadın. Aaaahh..."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:294
@@ -861,54 +924,53 @@ msgstr "Ahhhh! Sonum geldi."
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:338
-#, fuzzy
 msgid "The dwarven King has died! How could we let such a thing happen?"
-msgstr "Cüce Kralı öldü! Böyle bir şeye nasıl izin verdik?"
+msgstr "Cüce Kralı öldü! Böyle bir şey nasıl olabildi?"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:348
 msgid "So this is the end of the story for me..."
-msgstr ""
+msgstr "Bana göre bu, bu hikayenin sonu..."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:355
 msgid "I wish I could finish this with you, friends..."
-msgstr ""
+msgstr "Bunu sizinle birlikte bitirebilmeyi isterdim, dostlarım..."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:361
 msgid "Ahhh. I may fall, but the othersss ssshall ssstill ssstand!"
-msgstr ""
+msgstr "Ahhh. Ben yıkılabilirim fakat diğerleri ayakta kalacak!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:367
 msgid "Oh, I'll come back to haunt you, fiendsss!"
-msgstr ""
+msgstr "Oh, sizi ziyarete geleceğim, iblislerrr!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:373
 msgid "Thisss isss a gloriousss death, for honor!"
-msgstr ""
+msgstr "Onurum için bu muhteşem bir ölüm!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:379
 msgid "It is the end for me. At last I'll rest..."
-msgstr ""
+msgstr "İşim bitti. Sonunda biraz dinleneceğim..."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:385
 msgid "I have fallen. Hopefully you can finish our journey without me..."
-msgstr ""
+msgstr "Yulum buraya kadarmış. İnşallah yoluculuğu bensiz bitirebilirsiniz."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:391
 msgid "No! I have much left to do yet..."
-msgstr ""
+msgstr "Hayır! Daha yapacağım çok şey vardı..."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/macros/scenario-deaths.cfg:397
 msgid "So close to put an end to this nightmare..."
-msgstr ""
+msgstr "Artık bu kabus son bulacak..."
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/macros/scenario-utils.cfg:113
@@ -973,7 +1035,7 @@ msgstr "Karanlık Kovan"
 #. [time]: id=neutral_tod
 #: Invasion_from_the_Unknown/macros/schedules.cfg:91
 msgid "Neutral time of day"
-msgstr ""
+msgstr "Alacakaranlık"
 
 #. [time]: id=dawn1
 #: Invasion_from_the_Unknown/macros/schedules.cfg:104
@@ -1063,6 +1125,8 @@ msgid ""
 " This unit's powers are increased by the Sylvan Essence (see this ability's "
 "<ref>dst='ability_sylvan essence' text='full description'</ref> for details)."
 msgstr ""
+" Bu birimin gücü Esenlik sayesinde artar (ayrıntılı bilgi edinmek için  "
+"<ref>dst='ability_esenlik' text='yeteneğin açıklamasına'</ref> bakınız)."
 
 #: Invasion_from_the_Unknown/macros/special-notes.cfg:14
 msgid ""
@@ -1099,14 +1163,17 @@ msgid ""
 "damage the unit may take in retaliation, but only if the victim is of equal "
 "or lesser level."
 msgstr ""
+" Bu birimin huşu saldırısı saldırı amacıyla kullanıldığında birim kurbanın "
+"misillemesiyle karşılaşırsa ve kurbanın seviyesi kendininkine eşit veya "
+"düşükse verdiği hasar azalır. "
 
 #: Invasion_from_the_Unknown/macros/special-notes.cfg:29
 msgid " Some of this unit's attacks are not available except on defense."
-msgstr ""
+msgstr " Bu birimin bazı saldırıları savunma dışında kullanılamaz."
 
 #: Invasion_from_the_Unknown/macros/special-notes.cfg:32
 msgid " Some of this unit's attacks are not available except on offense."
-msgstr ""
+msgstr " Bu birimin bazı saldırıları saldırmak dışında kullanılamaz."
 
 #: Invasion_from_the_Unknown/macros/special-notes.cfg:35
 msgid ""
@@ -1114,11 +1181,14 @@ msgid ""
 "defending however, it retaliates with heavy strikes with the front of its "
 "shield."
 msgstr ""
+" Silahlarının olmamasından ötürü bu birim düşmana saldıramaz. Kendini "
+"savunmak zorunda kaldığında kalkanının önü ile yüklenerek ağır darbeler "
+"vurabilir."
 
 #: Invasion_from_the_Unknown/macros/special-notes.cfg:38
 msgid ""
 " This unit cannot move to terrains other than water, castle and villages."
-msgstr ""
+msgstr " Bu birim su, kale ve köy bulunmayan arazilerde hareket edemez."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:10
@@ -1294,7 +1364,6 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:74
-#, fuzzy
 msgid ""
 "Our group was greatly weakened by that battle, so we withdrew back to the "
 "main keep of the valley. Another patrol group substituted for us in the "
@@ -1304,9 +1373,9 @@ msgid ""
 msgstr ""
 "Bizim ekip savaşta oldukça zayıf kaldı, bu yüzden vadideki ana kaleye geri "
 "çekildik. Bu sürede bizim işimizi üç gün sonra geri gelmek üzere başka bir "
-"devriye ekibi üstlendi. Fakat bu pek böyle olmadı. Birşeyler geri geldi ama "
-"bunlar bizim çocukların bayraklara sarılmış cenazeleriydi. Onlara ne olduğu "
-"belliydi."
+"devriye ekibi üstlendi. Fakat bu pek böyle olmadı. Gelenler bizim çocukların "
+"bayraklara sarılmış cenazeleriyle düşmanlardı. Onları geri püskürtmenin "
+"kolay olmayacağı belliydi."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:83
@@ -1468,6 +1537,8 @@ msgid ""
 "The hidden path we chose was unguarded; there was no sign of the ancient "
 "empire we believed we had drawn near."
 msgstr ""
+"Seçtiğimiz gizli yol korumasızdı; yakınlarda imparatorluk askerleri "
+"bulunduğuna dair bir belirti yoktu."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:146
@@ -1495,6 +1566,9 @@ msgid ""
 "missing from the lowlands was all around us; a new hope filled our hearts as "
 "we saw how well the forest plants throve under the suns."
 msgstr ""
+"Kuzeybatıya ilerledikçe dağlar çoğalmaya ve daha yüksek olmaya başladı. "
+"Çevremizde ovalar yemyeşildi; güneşlerin altında orman bitkilerinin "
+"büyüdüğünü gördükçe gönlümüzü yeni bir umut kaplıyordu."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:164
@@ -1503,6 +1577,8 @@ msgid ""
 "doubt have destroyed this revivifying beauty. The landscape revealed that we "
 "were some steps ahead of their thirst for chaos and conquest."
 msgstr ""
+"Kralcılar dünyanın bu köşesine gelmiş olsalardı bu yeniden canlanan "
+"güzelliği hiç şüphesiz yok ederlerdi."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:168
@@ -1520,7 +1596,6 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:178
-#, fuzzy
 msgid ""
 "And so, we entered the caves, leaving the bulk of our people behind so that "
 "we could explore without risking them all. The people left outside were "
@@ -1567,6 +1642,10 @@ msgid ""
 "to follow us in. It was a difficult decision, but it we feared having our "
 "poorly trained civilians between the pursuing scouts and the cliffs."
 msgstr ""
+"Biraz daha keşif yaptıktan sonra gün geceye dönerken dışarı çıkıp "
+"dışardakilere mağaraya girebileceklerini söyledik. Bu zor bir karardı, fakat "
+"eğer düşman saldırılarına açık olarak dışarda kalsalardı daha kötü "
+"olabilirdi."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:197
@@ -1579,13 +1658,12 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:200
-#, fuzzy
 msgid ""
 "None of us comprehended why Mal Keshar was different from the necromancers "
 "our people had faced and defeated before. Not even Anlindë seemed to "
 "understand it completely."
 msgstr ""
-"Mal Keşnar’ın halkımızın daha önce karşılaştığı ce öldürdüğü "
+"Mal Keşnar’ın halkımızın daha önce karşılaştığı ve öldürdüğü "
 "nekromatiklerden ne farkının olduğunu hiçbirimiz anlayamamıştık. Hatta "
 "Analya bile tam manasıyla anlamış görünmüyordu."
 
@@ -1599,6 +1677,10 @@ msgid ""
 "had all the water we had so sorely lacked in the desert, but we had to "
 "struggle to see our steps."
 msgstr ""
+"Derinlere indikçe mağaraların tavanlarındaki çatlaklardan sızan güneşlerin "
+"ışığından yararlanma şansımız da azalıyordu. Işık azaldıkça yeraltı su "
+"akıntıları hem miktarca hem de hacimce artıyordu. Mağaralarda çöldekinden "
+"çok su vardı ama biz bir damla su için çölde döğüşmek zorundaydık."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:206
@@ -1608,6 +1690,9 @@ msgid ""
 "how much time was passing as we traveled underground. It was as if time "
 "itself had been frozen and bound to the rocks."
 msgstr ""
+"Yeryüzünde geceleyin ayın, gündüz güneşlerin hareketlerine bakarak zamanı "
+"tayin edebiliyorduk. Yeraltına girdiğimizden beri zaman kavramını "
+"yitirmiştik. Burada zaman kayalarda donmuş gibiydi."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:209
@@ -1756,7 +1841,6 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:270
-#, fuzzy
 msgid ""
 "It was difficult to tell whether Elynia was an elven lady or not. According "
 "to Anlindë, she has been more bound to her faerie bloodline rather than "
@@ -1770,12 +1854,11 @@ msgstr ""
 "Analya’ya göre bir elften çok bir periyi andırıyordu. Belki aptalca gelecek "
 "ama binlerce yıldır yaşayan bilge bir hanimefendiden çok saf bir genç kız "
 "gibiydi. Sırf görünüşü değil, davranışları da öyleydi. Benim bildiğim tek "
-"elf hanımefendisi bana hep dikkate almış olması sebebiyle Analya idi. "
+"elf hanımefendisi beni hep dikkate almış olması sebebiyle Analya idi. "
 "Fakat... Elenya için de bir şeyler hissediyordum."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:273
-#, fuzzy
 msgid ""
 "That aside, the way back to Knalga's capital felt shorter with the help of "
 "the light that Elynia's power provided us with. But as we were approaching "
@@ -1785,7 +1868,8 @@ msgid ""
 msgstr ""
 "Bu bir yana, Kanalga’nın başkentine dönüşümüz, Elenya’nın bedeninden yayılan "
 "ışığın yardımıyla hızlı olmuş ve kısa sürmüştü. Fakat şehre yaklaştıkça bir "
-"şeylerin yolunda gitmediğini farkettik."
+"şeylerin yolunda gitmediğini farkettik. Her yerde savaşın izleri "
+"görülüyordu. Onlar gelmişti."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:276
@@ -1804,7 +1888,6 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:288
-#, fuzzy
 msgid ""
 "It saddens me deeply, as she always took care of me after my father's death. "
 "She taught me valuable lessons, even until that last moment, when I learned "
@@ -1835,7 +1918,6 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:294
-#, fuzzy
 msgid ""
 "Will this ever end? How many more of us will have to give up their lives to "
 "protect the rest from the enemy until this nightmare is over? I sometimes "
@@ -1859,34 +1941,30 @@ msgstr " "
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:304
-#, fuzzy
 msgid " - The darkness..."
-msgstr "Karanlık..."
+msgstr "- Karanlık..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:307
-#, fuzzy
 msgid " - The fear..."
-msgstr "Korku..."
+msgstr " - Korku..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:310
-#, fuzzy
 msgid ""
 " - They feed me... I grow stronger with them... Galas... you cannot escape "
 "them... thus, you cannot escape me..."
 msgstr ""
-"Beni yiyorlar... onlarla daha güçlü büyüyorum... Galas... onlardan "
+"- Beni yiyorlar... onlarla daha güçlü büyüyorum... Galas... onlardan "
 "kaçamazsın... tabii, benden de kaçamazsın..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:313
-#, fuzzy
 msgid ""
 " - And your friend sorceress could not either... she could not... you will "
 "suffer the same fate of hers if you do not join me..."
 msgstr ""
-"Ve büyücü dostun beceremedi... o yapamadı... bana katılmazsan sen de aynı "
+" - Ve büyücü dostun beceremedi... o yapamadı... bana katılmazsan sen de aynı "
 "kaderi paylaşacaksın..."
 
 #. [part]
@@ -1927,6 +2005,9 @@ msgid ""
 "fight for a rather long time. Not even our shamans' magic could heal the "
 "grave wounds caused by the attack of those abominations."
 msgstr ""
+"Adamlarımızın çoğu kuşatmada ya ölmüş ya da yaralanmıştı; yaralananlar "
+"şamanlarımızın büyüleriyle tedavi edilmeye çalışıyorsa da uzun zaman "
+"döğüşemeyeceklerdi."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:336
@@ -1975,7 +2056,6 @@ msgstr "Sonunda, manzarayı kaplayan uğursuz bir şato gördük."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:362
-#, fuzzy
 msgid ""
 "And so, we rested for that night in the safety and hospitality of the castle "
 "of Raelthyn. Or at least most of us. Elynia did not sleep that night, and "
@@ -1983,7 +2063,7 @@ msgid ""
 "there, in the balcony, looking in a melancholic manner at the moon."
 msgstr ""
 "Ve böylece, o geceyi Raveltin şatosunun konukseverliği ve güvenliği içinde "
-"geçirdik; en azından çoğumuz.  Elenya o gece uyumadı. Balkonda hüzünlü bir "
+"geçirdik; en azından çoğumuz. Elenya o gece uyumadı. Balkonda hüzünlü bir "
 "şekilde aya bakarken, ben pencereden giren rüzgar yüzünden uyuyamadım."
 
 #. [part]
@@ -1994,6 +2074,10 @@ msgid ""
 "supposedly home of forest elves in the past. But there would be no trail of "
 "their domains, except for a few ruined buildings."
 msgstr ""
+"Şafak sökerken, ork topraklarındaki yolculuğumuza hazırlanıp bir zamanlar "
+"elflere vatan olmuş Sessiz Ormana doğru yola çıktık. Fakat onların bir "
+"zamanlar orada yaşadıklarına dair hiç bir belirti kalmamıştı, bir kaç harabe "
+"dışında. "
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:369
@@ -2001,6 +2085,8 @@ msgid ""
 "There we met Quogar Ratham, the local orcish chieftain. I had never been so "
 "close to one to speak rather than fight..."
 msgstr ""
+"Orada yerel ork şefi Kugar Ratnam ile karşılaştık. Döğüşmek yerine konuşmayı "
+"tercih edecek biri gibi görünmüyordu..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:378
@@ -2010,6 +2096,10 @@ msgid ""
 "investigate to the frontiers, but not without adequate reinforcements; our "
 "own men were still weak after the past battles."
 msgstr ""
+"Bir kaç hafta sonra, Raveltin’e gelen köylüler, gezginler ve tüccarlarla "
+"gelen haberlere bakılırsa ülke bir istilayla karşı karşıyaydı. Hududa gidip "
+"durumu incelemeyi karar verdik, fakat yeterince destek kuvvetimiz yoktu; "
+"adamlarımız hala güçlerine kavuşamamıştı."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:381
@@ -2018,6 +2108,9 @@ msgid ""
 "would not send troops anywhere until the Grand Council met and ordered to do "
 "so. Unfortunately, waiting for them to meet would be a grave waste of time..."
 msgstr ""
+"Diğer yandan, subaylardan da destek alamamıştık. Büyük konsey toplanıp emir "
+"vermeden askerlerini hiçbir yere gönderemezlermiş. Ne yazık ki, onları "
+"beklemek boşa zaman kaybı olacaktı..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:384
@@ -2025,10 +2118,11 @@ msgid ""
 "So Erathan gathered some of his fellow rangers to support us, and we went to "
 "the march lands in aid of the poor peasants of about."
 msgstr ""
+"Bu durumda Eratan bize destek olmaları için kolcu arkadaşlarını topladı ve "
+"köylülere yardım etmek üzere hududa doğru hareket ettik."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:387
-#, fuzzy
 msgid ""
 "Unfortunately, the rumors were certainly true. It was the prelude of a "
 "larger invasion."
@@ -2046,7 +2140,6 @@ msgstr ""
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:405
-#, fuzzy
 msgid ""
 "It has been recorded by our historians that elves seldom participated in "
 "full-sized wars, the few ocassions being defending against an orcish "
@@ -2223,6 +2316,8 @@ msgstr ""
 msgid ""
 "One of those days, as dawn broke, we were surprised by our old friends..."
 msgstr ""
+"O günlerden birinde şafak sökerken eski dostlarımızın sürprizi ile "
+"karşılaştık..."
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:488
@@ -2282,6 +2377,8 @@ msgid ""
 "'There are things more important than life itself, and things worse than "
 "death.'"
 msgstr ""
+"'Öyle yaşamaktansa ölmenin evla olduğu daha önemli şeyler de vardır, "
+"hayatta.'"
 
 #. [part]
 #: Invasion_from_the_Unknown/macros/storytxt.cfg:528
@@ -2567,6 +2664,8 @@ msgid ""
 "Union:\n"
 "This unit has the power of the Union."
 msgstr ""
+"Birlik:\n"
+"Bu birim Birlik gücüne sahiptir."
 
 #. [damage]: id=dread
 #: Invasion_from_the_Unknown/macros/weapon-specials.cfg:6
@@ -2582,6 +2681,9 @@ msgid ""
 "When this attack is used offensively, this unit takes one third less damage "
 "in retaliation."
 msgstr ""
+"Huşu:\n"
+"Sadece saldırmak için kullanılır. Birim misillemeden üçte bir oranında daha "
+"az hasar görür."
 
 #. [damage]: id=attack_only
 #: Invasion_from_the_Unknown/macros/weapon-specials.cfg:26
@@ -2684,7 +2786,7 @@ msgstr "Galas"
 #: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:27
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:28
 msgid "team_name^Elves"
-msgstr ""
+msgstr "Elfler"
 
 #. [side]: type=Chaos Advanced Crossbowman, id=Surhan
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:58
@@ -2702,7 +2804,7 @@ msgstr "Surhan"
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:67
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:89
 msgid "team_name^Humans"
-msgstr ""
+msgstr "İnsanlar"
 
 #. [side]: id=Grumnyr, type=Doom Guard
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:79
@@ -2712,7 +2814,7 @@ msgstr "Grumnir"
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:109
 msgid "team_name^Wild animals"
-msgstr ""
+msgstr "Vahşi hayvanlar"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:160
@@ -2805,6 +2907,8 @@ msgid ""
 "Do you want to see a brief description of characters the first time you "
 "select them in the map?"
 msgstr ""
+"Haritada ilk defa seçtiğiniz birimler hakkında kısa bir açıklama "
+"gösterilmesini ister misiniz?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:187
@@ -2875,14 +2979,12 @@ msgstr "Bize saldırıyorlar!"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:222
-#, fuzzy
 msgid ""
 "Our laws are very clear and strict on this matter. We shall not let hostile "
 "outsiders enter our valley. We must defeat their leaders!"
 msgstr ""
 "Yasalarımız bu konuda çok açık ve kesindir. Düşman yabancıların vadimize "
-"girmesine izin vermeyiz. Bunu istemiyorum ama elebaşlarını öldürmek "
-"zorundayız."
+"girmesine izin vermeyiz. Elebaşlarını öldürmek zorundayız."
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/01_Border_Patrol.cfg:226
@@ -3131,17 +3233,20 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:334
-#, fuzzy
 msgid ""
 "I am not. My eyes do not lie, nor do those of my fellow scouts. They have "
 "even impaled the skulls of our fallen kin on their banners."
-msgstr "Şüphem yok. Gözlerim ve gözcülerim yalan söylemez!"
+msgstr ""
+"Şüphem yok. Gözlerim ve gözcülerim yalan söylemez! Mızraklarında "
+"kardeşlerimizin kellelerini taşıyorlardı."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:335
 msgid ""
 "So that is what occurred to them... those invaders will not go unpunished!"
 msgstr ""
+"Böylece onlara ne olduğunu öğrenmiş olduk... Bu saldırganlıkları cezasız "
+"bırakılmayacak!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:336
@@ -3154,7 +3259,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:337
-#, fuzzy
 msgid ""
 "But my lord, if these invaders could trap our best patrollers, how can we "
 "prevail against them when so short of recruits and supplies?"
@@ -3170,11 +3274,14 @@ msgid ""
 "first duty of a commander, which is not to be defeated in mind before you "
 "are engaged in battle"
 msgstr ""
+"Genç Galas, endişelerini anlıyorum. Bir kumandanın ilk sorumluluğunu "
+"öğrenmenin vakti gelmiş anlaşılan. Savaşta açıkça yenilmiş olmadıkça "
+"yenilmiş olmazsın."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:339
 msgid "I accept your instruction."
-msgstr ""
+msgstr "Talimatlarınıza uyacağım."
 
 #. [message]: speaker=narrator
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:344
@@ -3199,6 +3306,11 @@ msgid ""
 "however, they still lack the experience required to put them into effective "
 "use. But remember: they are not charging you for their services yet."
 msgstr ""
+"Vadinin ana kalesinden savaşta yardımcı olmaları için elf vatandoşlarını da "
+"askere alabileceksiniz. Çoğu yay ve kılıç kullanmakta temel bir eğitim "
+"almıştır. Ancak döğüş tecrübesinden yoksun olmaları nedeniyle verimli "
+"olacakları yerlere yerleştirmeye çalışın. Fakat unutmayın: hizmetleri için "
+"size masraf çıkarmayacaklardır."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:385
@@ -3230,6 +3342,8 @@ msgid ""
 "So, there is yet human civilization on this continent. I wonder why we have "
 "not encountered them before?"
 msgstr ""
+"Demek ki, bu kıtada hala insan topluluklar varmış. Onlara daha önce neden "
+"hiç rastlamadığımızı merak ediyorum."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:405
@@ -3237,6 +3351,8 @@ msgid ""
 "It must be that they are a new tribe, only recently come into its power... "
 "and that power is an evil not of our world. Look!"
 msgstr ""
+"Yeni bir kabile olmalılar, güçlenince ortaya çıktılar anlaşılan... Üstelik "
+"bu güç dünyamıza ait olmayan bir şeytanlık gibi görünüyor. Bak!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:407
@@ -3256,13 +3372,12 @@ msgstr "Nolok"
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:418
 msgid "Would that my fears had proven false..."
-msgstr ""
+msgstr "Korkularım boşuna değilmiş..."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:449
-#, fuzzy
 msgid "The humans are retreating, after having almost defeated us?"
-msgstr "İnsanlar geri çekiliyor. Güzel."
+msgstr "Neredeyse hepimizi yendikten sonra niye insanlar geri çekiliyor?"
 
 #. [else]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:452
@@ -3293,6 +3408,10 @@ msgid ""
 "against their full power. Thus, I recommend against staying in this valley "
 "any longer."
 msgstr ""
+"Böyle bir direnç beklemiyorlardı; bence bu bir öncü grubundan başka bir şey "
+"değildi. Asıl ordu arkada olmalı. Tüm güçleriyle saldırırlarsa onları "
+"durdurabileceğimizi sanmıyorum. Benim önerim, bu vadiyi bir an önce "
+"terketmektir."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:458
@@ -3332,7 +3451,7 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:461
 msgid "You bring hard counsel, but I see its wisdom."
-msgstr ""
+msgstr "Çok ihtiyatlı bir öneri ama akıllıca."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:462
@@ -3345,6 +3464,8 @@ msgid ""
 "We are in a narrow place between the peril of the caves and the certainty of "
 "death at the hands of that...thing...the humans command."
 msgstr ""
+"Mağaraların tehlikeleri ile bu... şeyin... insanların komutanının ellerinde "
+"ölümün kaçınılmazlığı arasında sıkıştık kaldık."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:464
@@ -3391,12 +3512,13 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:473
 msgid "I had not."
-msgstr ""
+msgstr "Hayır düşünmedim."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:474
 msgid "Someone must stay here to spoil their attack, I shall do it.."
 msgstr ""
+"Birisi saldırılarına cevap vermek için burada kalmalı, bunu ben yapacağım..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:475
@@ -3427,18 +3549,20 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:478
 msgid "I... cannot. I'm not ready for this!"
-msgstr ""
+msgstr "Ben... bunu yapamam. Kendimi hazır hissetmiyorum."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:479
 msgid ""
 "None of us is ever ready for such a burden. But we must bear it nevertheless"
 msgstr ""
+"Böyle bir sorumluluk için hiçbirimiz hazır hazır değiliz. Fakat ne olursa "
+"olsun bunun gereğini yapmalıyız."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:480
 msgid "Hail, Galas!"
-msgstr "Selam, Galas!"
+msgstr "Acele et, Galas!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/02_A_Real_Confrontation.cfg:481
@@ -3523,7 +3647,7 @@ msgstr "Mal Keşnar"
 #. [side]: type=Ancient Lich, id=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:43
 msgid "team_name^Enemies"
-msgstr ""
+msgstr "Düşmanlar"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/03_Memories_from_the_Depths.cfg:175
@@ -4154,14 +4278,14 @@ msgstr "Karun Banyar"
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:143
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:98
 msgid "team_name^Orcs"
-msgstr ""
+msgstr "Orklar"
 
 #. [side]: type=Fugitive, id=Murlin
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:159
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:108
 msgid "team_name^Fugitives"
-msgstr ""
+msgstr "Başıbozuklar"
 
 #. [side]: type=Outlaw, id=Lana
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:135
@@ -4171,7 +4295,7 @@ msgstr "Lana"
 #. [side]: type=Outlaw, id=Lana
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:157
 msgid "team_name^Town"
-msgstr ""
+msgstr "Kentliler"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:475
@@ -4251,7 +4375,7 @@ msgstr "Mal Keşnar’ın ölümü"
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1076
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1115
 msgid "Dehydration applies to all units."
-msgstr ""
+msgstr "Su kaybı tüm birimlere uygulanır."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:486
@@ -4541,7 +4665,6 @@ msgstr "Hayır, ne yazık ki o kadar altınımız yok."
 
 #. [command]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:630
-#, fuzzy
 msgid "All right, then. You have asked for it."
 msgstr "Pekala o halde. Siz kaşındınız."
 
@@ -4980,7 +5103,7 @@ msgstr ""
 #. [command]
 #: Invasion_from_the_Unknown/scenarios/04_Over_the_Sands.cfg:1368
 msgid "Very well, but I don't think that we could come back later..."
-msgstr ""
+msgstr "Pekala ama buraya geri gelebileceğimizi pek sanmıyorum..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:524
@@ -5018,7 +5141,7 @@ msgstr "Jala Nekhar"
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:86
 #: Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:38
 msgid "team_name^Undead"
-msgstr ""
+msgstr "Yarı ölüler"
 
 #. [side]: type=Chaos Advanced Crossbowman, id=Zemkor
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:93
@@ -5081,7 +5204,7 @@ msgstr "Zemkor"
 #: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:110
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:54
 msgid "team_name^Loyalists"
-msgstr ""
+msgstr "Kralcılar"
 
 #. [side]: type=Fugitive, id=Murlin
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:141
@@ -5115,9 +5238,8 @@ msgstr "Örvin"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:188
-#, fuzzy
 msgid "Anyra"
-msgstr "Kayra"
+msgstr "Anayra"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/05a_Crossfire.cfg:190
@@ -5827,7 +5949,7 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:231
 msgid "Your caution is well thought. Be equally cautious as you explore."
-msgstr ""
+msgstr "Dikkatli olun. İhtiyatı elden bırakmayın."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/05b_Cursed_Plateau.cfg:253
@@ -5954,6 +6076,10 @@ msgid ""
 "returned, there being still at that time only one, they found a vast smoking "
 "crater here; and that night there was blood on the face of the Greater Moon."
 msgstr ""
+"Bir ya da iki bin yıl kadar önce buraya bir göktaşının düşmesi hakkında. "
+"Öyle olmadğı halde dünyanın sonunun geldiğini sanırlar. Kayalar yüzeye "
+"çarpınca dağ parçalanarak bu vadinin şeklini alır. Yani biz bir göktaşı "
+"kraterinde bulunuyoruz."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:245
@@ -6005,7 +6131,7 @@ msgstr ""
 msgid ""
 "I would really appreciate if you both controlled your temper. Now, do we "
 "have a plan?"
-msgstr ""
+msgstr "İkiniz de sinirlerinize hakim olsanız iyi olacak. Bir planımız var mı?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:258
@@ -6025,6 +6151,7 @@ msgstr "Söylemesi kolay..."
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:260
 msgid "Or, we could advance slowly and wipe out the entire pack."
 msgstr ""
+"Ya da hayatınızı kurtarmak için acele etmez ve hepsini tek tek öldürebiliriz."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:261
@@ -6140,7 +6267,7 @@ msgstr "Ayyyy! Bu neden bana oldu?!"
 #. [message]: speaker=second_unit
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:318
 msgid "What a lunatic. Well, they did call it the 'Moon' valley..."
-msgstr ""
+msgstr "Dönüp duruyor. Buraya boşuna ‘Ay’ vadisi dememişler..."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:329
@@ -6247,6 +6374,8 @@ msgid ""
 "The lad was right. It was a trap, and look - the orcs are calling upon "
 "reinforcements!"
 msgstr ""
+"Delikanlı haklıymış. Bu bir tuzak. Bakın, orklar destek kuvvetlerini "
+"çağırıyorlar!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/06_The_Moon_Valley.cfg:444
@@ -6366,9 +6495,8 @@ msgstr "Elf Calluta Karşı"
 
 #. [unit]: id=Verne
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:93
-#, fuzzy
 msgid "Verne"
-msgstr "Sürüm:"
+msgstr "Verne"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:250
@@ -6377,9 +6505,8 @@ msgstr "Bölme Muhafızı"
 
 #. [unit]: type=Blood Imp, id=Gurglo
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:285
-#, fuzzy
 msgid "Gurglo"
-msgstr "Barglor"
+msgstr "Gurgulo"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:301
@@ -6397,7 +6524,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:338
-#, fuzzy
 msgid "Wait, I hear steps, many steps..."
 msgstr "Bekle, adım sesleri duyuyorum, çok sayıda adım sesi var..."
 
@@ -6435,9 +6561,8 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:375
-#, fuzzy
 msgid "What about our lady?"
-msgstr "Bilgemize ne oldu?"
+msgstr "Meleğimize ne oldu?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:376
@@ -6454,10 +6579,11 @@ msgid ""
 "Ha, ha, the elves want to find her. But we're not allowing them to step any "
 "further into our future domain, ha ha! Pitiful creatures..."
 msgstr ""
+"Ha, ha, elfler onu bulmak istiyor. Fakat biz buna ne şimdi ne de sonra asla "
+"izin vermeyeceğiz. Haha! Cılız yaratıklar..."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:471
-#, fuzzy
 msgid "Touchgem activated. A door opens."
 msgstr "Bir düzenek tetiklendi. Bir kapı açılıyor."
 
@@ -6480,6 +6606,9 @@ msgid ""
 "flask - it contains only one dose. We should carefully choose who should "
 "drink it."
 msgstr ""
+"Bu şişe bir güç iksiri içeriyormuş. En zayıf kişileri bile tehlikeli bir "
+"savaşçıya dönüştürürmüş. Keşke damacana olsaydı, sadece bir doz içeriyor. "
+"Bunu kimin içeceğine dikkatli karar vermeliyiz."
 
 #. [object]: id=strength_potion_25_1
 #. [object]: id=e1l7_strength_potion
@@ -6519,16 +6648,16 @@ msgstr "Mekanik Callut"
 msgid ""
 "You find yourself before a giant metal-sheathed humanoid of unknown origin."
 msgstr ""
+"Kendinizi birden kimin yaptığı bilinmeyen dev bir metal robotun karşısında "
+"buldunuz."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:768
-#, fuzzy
 msgid "Nice to meet you, enemies of the Master."
-msgstr "Seninle tanıştığıma memnun oldum, Elf."
+msgstr "Sizinle tanıştığıma memnun oldum, Hükümdarın düşmanları."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:769
-#, fuzzy
 msgid "The... pleasure is all ours..."
 msgstr "Bizim için zevktir..."
 
@@ -6537,6 +6666,8 @@ msgstr "Bizim için zevktir..."
 msgid ""
 "Argh, just what we needed... gigantic foes capable of crushing us like bugs."
 msgstr ""
+"Ahhh, tam da ihtiyacımız olan şey... Bu devasa şeyler bizi bir böcek gibi "
+"ezecekler."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/07_The_Elf_and_Goliath.cfg:771
@@ -6636,7 +6767,7 @@ msgstr "Umutlu Bir Haber"
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:45
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:65
 msgid "team_name^Dwarves"
-msgstr ""
+msgstr "Cüceler"
 
 #. [side]
 #. [side]: id=Kwurg, type=Troll Warrior
@@ -6644,7 +6775,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:127
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:157
 msgid "team_name^Trolls"
-msgstr ""
+msgstr "Troller"
 
 #. [side]: id=Kwurg, type=Troll Warrior
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:144
@@ -6654,7 +6785,7 @@ msgstr "Kuvurg"
 #. [side]
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:176
 msgid "team_name^Nagas"
-msgstr ""
+msgstr "Nagalar"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:285
@@ -6712,7 +6843,6 @@ msgstr "Aaahhh..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:360
-#, fuzzy
 msgid "Exactly... uhm... All right."
 msgstr "Tam olarak... hımmm... Pekala."
 
@@ -7041,6 +7171,8 @@ msgid ""
 "NO ONE SHOULD BE HERE\n"
 "-- Shadow Master"
 msgstr ""
+"BURADA KİMSE OLMAMALI\n"
+"-- Gölgelerin Hükümdarı"
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:856
@@ -7264,7 +7396,6 @@ msgstr "Bunu kabul ediyoruz."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/08a_Errand_of_Hope.cfg:1198
-#, fuzzy
 msgid "All right."
 msgstr "Pekala."
 
@@ -7336,7 +7467,7 @@ msgstr "Lipo"
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:110
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:132
 msgid "team_name^Cave dwellers"
-msgstr ""
+msgstr "Mağara canlıları"
 
 #. [side]: type=Goblin Knight, id=Pryll
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:101
@@ -7422,7 +7553,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:297
-#, fuzzy
 msgid ""
 "Well, let us explore then, but be careful. Ancient civilizations are not "
 "always friendly to future ones; there might be traps or enchantments set to "
@@ -7650,7 +7780,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:465
-#, fuzzy
 msgid "Hidden touchplate triggered. Walls are heard moving in the distance."
 msgstr "Gizli bir düzenek tetiklendi. Bir duvar kayıyor."
 
@@ -7724,7 +7853,6 @@ msgstr "Yürüyen taşlar. Harika!"
 
 #. [message]: speaker=Galas
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:568
-#, fuzzy
 msgid ""
 "Surely spears, swords or arrows will not do well against these rocky beings."
 msgstr "Mızraklarımızın bu taş şeylere bir etkisinin olacağını sanmıyorum."
@@ -7767,7 +7895,7 @@ msgstr ""
 msgid ""
 "What is their skin made of? It doesn't look like it really can bear that "
 "much damage."
-msgstr ""
+msgstr "Kabuğunu oluşturan şey ne acaba? Hasar verilebilecek gibi görünmüyor."
 
 #. [message]: speaker=second_unit
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:627
@@ -7776,7 +7904,6 @@ msgstr "Defol, pis ucube!"
 
 #. [message]: speaker=second_unit
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:645
-#, fuzzy
 msgid ""
 "You, creatures who dare to step in our way... Who are you working for, and "
 "what for? Answer!"
@@ -7784,7 +7911,6 @@ msgstr "Kızmaya başlıyorum. Kime çalışıyorsun ve ne için? Cevap ver!"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/09_The_Library.cfg:650
-#, fuzzy
 msgid " *ack* We won't... tell you..."
 msgstr " *ahh* Söyle... *uhh* mem...."
 
@@ -7817,9 +7943,8 @@ msgstr "İblisler"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:316
-#, fuzzy
 msgid "Find the 'Source of Light'"
-msgstr "Işık Kaynağı"
+msgstr "'Işık Kaynağı'nı bul"
 
 #. [message]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:329
@@ -7828,7 +7953,6 @@ msgstr "Bu... burayı müthiş bir güç dolduruyor!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:331
-#, fuzzy
 msgid ""
 "I feel it. It is the Source of Light. Her presence is weak in comparison to "
 "when she was in the surface, but strong nonetheless."
@@ -7838,7 +7962,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:332
-#, fuzzy
 msgid "She is here. We have arrived, finally..."
 msgstr "O burada. Sonunda bulduk..."
 
@@ -7849,7 +7972,6 @@ msgstr "Sihir yeteneği olan kişilerin algıladığı şeyleri ben algılayamı
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:334
-#, fuzzy
 msgid ""
 "Indeed, lad. Magic experience grants you the ability to perceive things "
 "whose existance is ignored by common people. My runic detectors indicate "
@@ -7863,7 +7985,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:335
-#, fuzzy
 msgid ""
 "Fair enough, find the Source. We should not waste too much time in this "
 "search, for we do not know when those fiends will let themselves fall upon "
@@ -7874,13 +7995,11 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:336
-#, fuzzy
 msgid "If they have not already."
 msgstr "Zaten olmadıysa."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:337
-#, fuzzy
 msgid ""
 "I hope they haven't. Our economy is thriving, but it is still less than "
 "adequate for supporting us in a full-sized war yet."
@@ -7906,19 +8025,16 @@ msgstr "Geber, mikroskobik mahluk!"
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:368
-#, fuzzy
 msgid "The elves! Damn, the back guards could not hold against them!"
 msgstr "Elfler! Lanet olsun, geri destek güçleri onları durduramaz!"
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:369
-#, fuzzy
 msgid ""
 "Persistent fools. But it matters little; we shall destroy them, shan't we? "
 "For the Emperor!"
 msgstr ""
-"Hay ahmaklar. Zararı yok, biz onları yokederiz, edemez miyiz? Kara Hükümdar "
-"adına!"
+"Hay ahmaklar. Zararı yok, biz onları yokederiz, edemez miyiz? Hükümdar adına!"
 
 #. [then]
 #. [command]
@@ -7929,21 +8045,19 @@ msgstr "Oh."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:371
-#, fuzzy
 msgid "They must be after our savior, they want to stop us!"
 msgstr ""
 "Işık Meleği bu duvarın arkasında olmalı. Bizi yaklaştırmak istemiyorlar!"
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:372
-#, fuzzy
 msgid ""
 "Their master must be certain of what fate awaits them if we call upon the "
 "power of the Union. And looks like they have a never-ending supply of grunt "
 "attack force too."
 msgstr ""
-"Efendileri Kutsal Birliğin gücü karşısında başına neler geleceğini besbelli "
-"biliyor. Bu saldırı gücünün ardı kesilmeyecekmiş gibi görünüyor."
+"Hükümdarları Kutsal Birliğin gücü karşısında başına neler geleceğini "
+"besbelli biliyor. Bu saldırı gücünün ardı kesilmeyecekmiş gibi görünüyor."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:373
@@ -7959,9 +8073,8 @@ msgstr "İblisbaşını öldür"
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:396
-#, fuzzy
 msgid "Oh, Master... I have... failed..."
-msgstr "Kusura bakma... Galas... Ben... başaramadım..."
+msgstr "Kusura bakma... Hükümdarım... Ben... başaramadım..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:406
@@ -7975,7 +8088,6 @@ msgstr "Heyy bakın! Buradaki mağara duvarı yokoldu."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:444
-#, fuzzy
 msgid "Let's continue."
 msgstr "Gidelim, o halde."
 
@@ -7991,7 +8103,6 @@ msgstr "Toprak sarsılıyor! Bir yanardağ püskürüyor olmalı!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:741
-#, fuzzy
 msgid ""
 "No, it is not. We are just awakening the forces of nature with our mere "
 "presence here. Which indicates nobody has stepped in these caves for a long "
@@ -8016,6 +8127,8 @@ msgid ""
 "chamber, for she probably thought nobody would need her again. Hmph. An "
 "elegant manner of killing oneself temporarily, indeed."
 msgstr ""
+"Doğru... Bu onun dinlenebileceği son yer. Kendini bu odaya hapsetti, "
+"muhtemelen artık kimsenin ona ihtiyacı olmayacağını düşünmüş olmalı."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:744
@@ -8024,7 +8137,6 @@ msgstr "Ne yapacağız? Bu duvarlar geçilecek gibi değil!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:745
-#, fuzzy
 msgid ""
 "There must be a way to open the walls. The chamber is shaped around a "
 "hexagonal centre, and its corners look strangely clean. The runes carved in "
@@ -8055,11 +8167,12 @@ msgstr "Yerlerini bulmak için bölmeyi keşfe çıkmak zorundayız."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:748
-#, fuzzy
 msgid ""
 "We ought to be careful. We are not welcome here. I can sense dangerous "
 "creatures of all kinds roaming about."
-msgstr "Dikkatli olmalıyız. Burada hoş karşılanmıyoruz."
+msgstr ""
+"Dikkatli olmalıyız. Burada hoş karşılanmıyoruz. Çevremizde dolaşan tehlikeli "
+"yaratıkları hissedebiliyorum."
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:751
@@ -8160,9 +8273,8 @@ msgstr "Nekromatiği yoket!!"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1132
-#, fuzzy
 msgid "Huh? Nay. Prepare to meet your fate, you..."
-msgstr "Oh? Kaderinle yüzleşmeye hazırlan, sen..."
+msgstr "Oh? Hayır. Kaderinle yüzleşmeye hazırlan, sen..."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1133
@@ -8178,12 +8290,10 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1138
-#, fuzzy
 msgid ""
 "I call upon the powers of Light! May it awake our savior from her millenary "
 "sleep!"
-msgstr ""
-"Eloh’un ışığını aramaya geldik! Bilgemiz bin yıllık uykusundan uyanabilir mi?"
+msgstr "Işığın gücünü aramaya geldik! Bilgemiz bin yıllık uykusundan uyansın!"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1147
@@ -8212,15 +8322,13 @@ msgstr "Elenya"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1172
-#, fuzzy
 msgid "Who has... awaken me?"
-msgstr "(yarı uykulu) Kim... uyandırdı beni?"
+msgstr "Kim... uyandırdı beni?"
 
 #. [message]: id=Galas
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1175
-#, fuzzy
 msgid "We are..."
-msgstr "Korku..."
+msgstr "Biz..."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1177
@@ -8229,9 +8337,8 @@ msgstr ""
 
 #. [message]: id=Mal Keshar
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1180
-#, fuzzy
 msgid "Actually, no."
-msgstr "Aslın..."
+msgstr "Aslında, hayır."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1182
@@ -8317,7 +8424,6 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1238
-#, fuzzy
 msgid ""
 "I might have been asleep for all this time but my memory still serves very "
 "well, Galas. I can sense Telchior's blood flowing through your veins- he was "
@@ -8325,9 +8431,9 @@ msgid ""
 "differences aside and talk, why did you come here? What do you need?"
 msgstr ""
 "Bütün bu zaman zarfında uyumuş olabilirim ama hafızam hala canlı, Galas, "
-"Alduil’in torunu. Tüm bu zaman boyunca bizim en kötü düşmanımızın "
-"yanındaydın ve bunu bilmiyordun. Fakat güzel, farklarımızı bir yana bırakıp "
-"konuşabiliriz. Niçin buraya gelip beni uyandırdınız?"
+"Damarlarında akan Telçiyor'un kanını hissedebiliyorum - Yaşamını Elflere "
+"adamış gerçek bir ahmaktı. Her neyse, farklarımızı bir yana bırakıp "
+"konuşabiliriz. Niçin buraya gelip beni uyandırdınız? Ne istiyorsunuz?"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1239
@@ -8349,7 +8455,6 @@ msgstr "Mal Keşnar, lütfen."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1241
-#, fuzzy
 msgid ""
 "And he led us here to ask you for help in our war against those vile "
 "creatures called 'demons'..."
@@ -8359,14 +8464,12 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1242
-#, fuzzy
 msgid ""
 "The what? Demons!? But... but... it's impossible, we made sure they would "
 "never return, sealed Yanqui, and closed the portal!"
 msgstr ""
 "Ne? İblisler!? Ama... fakat... bu imkansız, onların dönemeyeceklerine "
-"emindim, Yanki hapsedildi ve geçit kapandı! Tekrar nasıl açılacağını hiç "
-"kimse bilemez."
+"emindim, Yanki hapsedildi ve geçit kapandı!"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1243
@@ -8414,7 +8517,6 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1249
-#, fuzzy
 msgid ""
 "The last person who called me that way did not go through a very pleasant "
 "death; I bet you know that."
@@ -8431,13 +8533,12 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1251
-#, fuzzy
 msgid ""
 "Oh, no, no! Do it, please, this position is very uncomfortable for me. I "
 "swear that I'll do anything for you. Anything!"
 msgstr ""
 "Oh, hayır hayır! Yapın lütfen, bu durumum çok rahatsız edici, en azından "
-"benim için."
+"benim için. Söz veriyorum, sizin için herşeyi yapacağım. Herşeyi!"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1281
@@ -8446,9 +8547,8 @@ msgstr "Ahhh, çok daha iyi!"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1282
-#, fuzzy
 msgid "My lady, have you met the demons before?"
-msgstr "Bizimle döğüşen iblislerin nereden geldiğini biliyor musunuz?"
+msgstr "İblislerle evvelce karşılaşmış mıydın?"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1283
@@ -8462,13 +8562,13 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1284
-#, fuzzy
 msgid ""
 "I am not sure it is adequate. You might not trust me, I don't care; but I "
 "really do not want to see such conflicts occur again!"
 msgstr ""
-"Bunun uygun olacağından pek emin değilim. Siz bana güvenmeyebilirsiniz ama "
-"ben gerçekten bunun tekrar olmasını istemiyorum."
+"Bunun uygun olacağından pek emin değilim. Siz bana güvenmeyebilirsiniz, "
+"umurumda değil; ama ben gerçekten sizinle tekrar fikir çatışmasına girmek "
+"istemiyorum!"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1285
@@ -8481,13 +8581,13 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1286
-#, fuzzy
 msgid ""
 "No other elf should listen to this conversation. Now, you probably want to "
 "sit down on the grass, relax and listen. This is a very long history that "
 "you ought to know."
 msgstr ""
-"Tam zamanıdır. İsterseniz siz de çimlere oturun. Anlatması epey uzun sürecek."
+"Bu konuşmayı başka hiçbir elf dinlememeli. İsterseniz siz de çimlere oturup "
+"satince dinleyin. Geçmişi anlatmak epey uzun sürecek."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1315
@@ -8499,7 +8599,6 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1320
-#, fuzzy
 msgid ""
 "We should start with the old story of the Golden Age. The continent was "
 "mostly dominated by Humans, who had eons ago established the Empire of "
@@ -8520,7 +8619,6 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1321
-#, fuzzy
 msgid ""
 "The forests south of the Dwarven Kingdom of Knalga were known as the Wesmere "
 "forest. The elves that lived there considered knowledge the most valuable "
@@ -8529,14 +8627,13 @@ msgid ""
 "ones..."
 msgstr ""
 "Kanalga Cüce krallığının güneyindeki orman Vesmer ormanı olarak bilinir. "
-"Wesnoth krallığının kuzeybatısındaki barışçıl topraklardır.Orada yaşayan "
+"Wesnoth krallığının kuzeybatısındaki barışçıl topraklardır. Orada yaşayan "
 "elfler bu dünyadaki en değerli şeyin bilgi olduğu kabul ederler. "
 "Dolayısıyla, yaşadığımız dünyanın her gizini araştırmaya fanatiklik "
 "mertebesinde önem verirlerdi. Herşeyi, en karanlık olanları dahi..."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1322
-#, fuzzy
 msgid ""
 "Nobody still alive knows exactly how it happened, but they somehow opened a "
 "portal to the underworld, just out of their curiosity and ambition of "
@@ -8553,10 +8650,7 @@ msgstr ""
 "zamanlardı. Onlara ülkelerini yutmak üzere büyük bir karanlığın gelmekte "
 "olduğunu, bunun yıllardır topladıkları tüm bilgiyi yokedeceğini anlattı ve "
 "eğer ona bir tanrı olarak tapınırlarsa onlara istedikleri sınırsız gücü ve "
-"bilgiyi vererek onları koruyacağını söyledi. Hırs benliklerini köreltti ve "
-"Yanki’nin anlaşmanın parçası olarak talep ettiği kurban törenlerini bile "
-"kabul ettiler. Yaşamlarını sonlandırmayı reddedenler iblis lordun ilk "
-"kurbanları oldu."
+"bilgiyi vererek onları koruyacağını söyledi."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1323
@@ -8565,6 +8659,9 @@ msgid ""
 "although Yanqui demanded blood sacrifices as part of it. All those who "
 "disagreed ended their lives as the first sacrifices for the demon lord."
 msgstr ""
+"Hırs benliklerini köreltti ve Yanki’nin anlaşmanın parçası olarak talep "
+"ettiği kurban törenlerini bile kabul ettiler. Yaşamlarını sonlandırmayı "
+"reddedenler iblis lordun ilk kurbanları oldu."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1324
@@ -8575,7 +8672,6 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1325
-#, fuzzy
 msgid ""
 "But something else was happening in non-elven lands. The humans of Wesnoth, "
 "or more specifically, the Emperor of Wesnoth, had demanded the creation of a "
@@ -8589,11 +8685,7 @@ msgstr ""
 "olaylardan bir süre önce ikinci bir güneş oluşturdu ve adını Naya koydu. Her "
 "gün gördüğünüz bu güneşi yetenekli büyücüleri toplayıp bir dağı göğe "
 "gönderterek ve bir güneş gibi parlatarak o yaptı. Sırf karanlığı ve kötülüğü "
-"sonsuza kadar yoketmek adına yaptı bunu. Karanlık tam olarak ortadan "
-"kalkmasa da başlangıç olarak başarılıydı. Fakat insanların açgözlülüğü, tam "
-"da Yanki ortaya çıktığı sırada göğe üçüncü bir dağ göndermelerine yol açtı. "
-"O bunu öngörmüştü ve Vesmer elfleri ne olacağını biliyordu, böylece bu "
-"olguyu onları aldatmak için kullandı."
+"sonsuza kadar yoketmek adına yaptı bunu."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1326
@@ -8604,6 +8696,10 @@ msgid ""
 "secretly extended his influence to the humans, and tricked the Emperor into "
 "initiating the sequence of events that would doom us all... to this day."
 msgstr ""
+"Karanlık tam olarak ortadan kalkmasa da başlangıç olarak başarılıydı. Fakat "
+"insanların açgözlülüğü, tam da Yanki ortaya çıktığı sırada göğe üçüncü bir "
+"dağ göndermelerine yol açtı. O bunu öngörmüştü ve Vesmer elfleri ne "
+"olacağını biliyordu, böylece bu olguyu onları aldatmak için kullandı."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1327
@@ -8626,7 +8722,6 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1329
-#, fuzzy
 msgid ""
 "It's ironical how we elves always despised humans because of their moral, "
 "intellectual and biological inferiority. The humans caused our doom, "
@@ -8640,13 +8735,11 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1330
-#, fuzzy
 msgid "What happened with the third sun then?"
 msgstr "Peki, üçüncü güneşe ne oldu?"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1331
-#, fuzzy
 msgid ""
 "As I said, the human magi's mastery of magic arts was not as strong as it "
 "used to be, and their attempt to lift and send Gaia to the skies was a total "
@@ -8673,6 +8766,10 @@ msgid ""
 "fight each other for the scarce resources left, except we... at least for a "
 "time."
 msgstr ""
+"İnsanlar can havliyle hayatta kalmaya çalıştılar fakat İmparatoru, "
+"büyücüleri ve ailelerini buna sebep oldukları için öldürdüler, Eyfler, "
+"Cüceler, Orklar ve saire aralarında savaşmaya başladılar. Kıtlaşan "
+"kaynakları ele geçirmek için her birey diğerini öldürüyordu."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1333
@@ -8683,10 +8780,14 @@ msgid ""
 "and executed. All foreign species, including elves from other forests, were "
 "declared heretics, not worthy of living."
 msgstr ""
+"Naya ve Sela tüm toprakları kavurdu, nehirler, otlar, ormanlar ve göller "
+"kurudu. yanki'nin gücü ile sadece vesmer ormanı bundan etkilenmedi. Yeşil ve "
+"huzurlu görünüyordu. Fakat o daha fazla hak talep etti ve Kalya bunları "
+"kabul edip uygulamaya koydu. Diğer ormanlardan gelen Elfler dahil tüm "
+"yabancılar bu istekleri reddettiler."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1334
-#, fuzzy
 msgid ""
 "So, as creatures of other races, or elves from foreign forests came to "
 "Wesmere seeking shelter, the dark cultists sacrificed them to Yanqui. The "
@@ -8699,10 +8800,7 @@ msgstr ""
 "rahipler tarafından Yanki’ye kurban edildiler. Onlar acı ve ıstırap içinde "
 "kıvranırken, Yanki’nin gücü artıyordu. Fakat artık sığınmacılar da gelmez "
 "olunca, Vesmer dışında yaşayan elf, insan, ork vs. ne varsa yakalanması için "
-"birlikler kurulmasını emretti. Güneşlerin etkinliğinin artmasıyla "
-"ormanlarımız yanıp kurudu ve biz oraları terketmek zorunda kaldık. Kuzey "
-"ormanlarının dışında halka ben liderlik ediyordum ve yolda Vesmer Ormanına "
-"rastladık."
+"birlikler kurulmasını emretti."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1335
@@ -8711,10 +8809,12 @@ msgid ""
 "would support life no longer. And so I led my people out of the Northern "
 "forests. We eventually stumbled upon the Wesmere Forest."
 msgstr ""
+"Güneşlerin etkinliğinin artmasıyla ormanlarımız yanıp kurudu ve biz oraları "
+"terketmek zorunda kaldık. Kuzey ormanlarının dışında halka ben liderlik "
+"ediyordum ve yolda Vesmer Ormanına rastladık."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1336
-#, fuzzy
 msgid ""
 "Obviously, not knowing what was happening in there, we decided to ask for "
 "refuge to the Ka'lian. However, we were ambushed at night during our travel "
@@ -8725,12 +8825,7 @@ msgstr ""
 "Açıkçası, orada olanları bilmeden Vesmer’e sığınmacı olmaya karar verdik. "
 "Fakat başkente giderken geceleyin saldırıya uğradık. Çoğumuz, özellikle "
 "yaşlılar ve çocuklar Yanki’ye kurban edilerek öldürüldü. Kocam, "
-"Karanlıkların Hakimi Argan hayatını riske atarak gerçeği öğrenebildi. "
-"Böylece kendimizi zor bir seçimle karşı karşıya kalmış bulduk. Ya "
-"kardeşlerimizi, Vesmer elflerini durduracak ve onları büyük iblisten "
-"kurtaracaktık ya da kaçacak ve halkımızın ve eninde sonunda bizim işbirlikçi "
-"rahipler tarafından kurban edilmesine göz yumacaktık. Halkı güçlükle birinci "
-"seçeneğe razı ettik ve Vesmer Savaşı başladı."
+"Karanlıkların Hakimi Argan hayatını riske atarak gerçeği öğrenebildi."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1337
@@ -8740,10 +8835,14 @@ msgid ""
 "continue their rule of cruelty, and eventually control the whole continent. "
 "Painfully, I chose the first, and started the War of Wesmere."
 msgstr ""
+"Böylece kendimizi zor bir seçimle karşı karşıya kalmış bulduk. Ya "
+"kardeşlerimizi, Vesmer elflerini durduracak ve onları büyük iblisten "
+"kurtaracaktık ya da kaçacak ve halkımızın ve eninde sonunda bizim işbirlikçi "
+"rahipler tarafından kurban edilmesine göz yumacaktık. Halkı güçlükle birinci "
+"seçeneğe razı ettik ve Vesmer Savaşı başladı."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1338
-#, fuzzy
 msgid ""
 "Even though our numbers were superior, their religious frenzy, obsession and "
 "fear of destruction, almost led the Wesmere elves to victory. We fought with "
@@ -8779,7 +8878,6 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1340
-#, fuzzy
 msgid ""
 "To keep our civilization in one piece, we also had to forbid telling the "
 "story, and execute anyone who would dare to tell it. But we were never sure "
@@ -8811,13 +8909,11 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1343
-#, fuzzy
 msgid "Why did the elves part ways?"
 msgstr "Fakat daha sonra, elfler niye yollarını ayırdı?"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1344
-#, fuzzy
 msgid ""
 "Anlindë wanted them to return to the Northeast. She said that we should have "
 "explored the unknown instead of retreating south. Of course, not every "
@@ -8829,12 +8925,12 @@ msgid ""
 "still surprised that Telchior and Anlindë could find a valley with life in "
 "the far East - I was wrong after all."
 msgstr ""
-"Analya onların doğuya dönmelerini istedi. Güneye geri dönmektense "
+"Analya onların kuzeydoğuya dönmelerini istedi. Güneye geri dönmektense "
 "bilinmeyeni keşfe çıkmalarının gerektiğini söyledi. Onun ve Alduil’in "
-"aptallıkları yollarımızı ayırmamıza sebep oldu. Alduil ve Analya bizi "
+"aptallıkları yollarımızı ayırmamıza sebep oldu. Telçiyor ve Analya bizi "
 "dinlemediklerine göre bize ihtiyaçları yoktur diye düşünerek Argan’la "
-"birlikte huzur içinde yaşamak üzere bu derinliklere indik. Tanuil küçük bir "
-"grupla güneye gitti. Alduil ve Analya’nın uzak doğuda yaşanası bir vadi "
+"birlikte huzur içinde yaşamak üzere bu derinliklere indik. Kuyetor küçük bir "
+"grupla güneye gitti. Telçiyor ve Analya’nın uzak doğuda yaşanası bir vadi "
 "bulabilmelerine çok şaşırdım, anlaşılan ben yanılmışım."
 
 #. [event]: (id=Mal Keshar)}
@@ -8850,24 +8946,21 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1346
-#, fuzzy
 msgid "That's... horrible..."
-msgstr "O... o..."
+msgstr "Bu... korkunç..."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1347
 msgid "My deepest condolences."
-msgstr ""
+msgstr "En derin saygılarımla."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1348
-#, fuzzy
 msgid "Then, all hope is lost..."
-msgstr "Bizim için zevktir..."
+msgstr "Ve, tüm umutlar tükenir..."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1349
-#, fuzzy
 msgid ""
 "Don't despair. Although my powers have diminished due to the influence of "
 "darkness, I will try to help you in any way that is possible. I can't avoid, "
@@ -8882,7 +8975,6 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1350
-#, fuzzy
 msgid ""
 "Possibly they could be related in some way to Yechnagoth. She also knew of "
 "Yanqui somehow, or that was what we had been told by our hero, Rogrimir."
@@ -8897,7 +8989,6 @@ msgstr "Yeknagot... şu Ruhyiyen mi?"
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1352
-#, fuzzy
 msgid ""
 "Yes. According to the history, the Quenoth desert elves, led by Kalehssar, "
 "nephew of Tanuil, defeated her in an isle far to the west, in middle of the "
@@ -8911,14 +9002,13 @@ msgstr ""
 "Evet, Tarihe göre, Tanuil’in oğlu Kaleh’in liderliğindeki Kuyenot çölünün "
 "elfleri uzak batıda, bilinmeyen okyanusun ortasındaki bir adada onu "
 "yendiler. Oradan insanlar, orklar, nagalar ve sürüngenler dahil bütün "
-"ruhları gaspedebilmişti.  Yenildikten sonra hükmü kalmadı. Fakat hala "
+"ruhları gaspedebilmişti. Yenildikten sonra hükmü kalmadı. Fakat hala "
 "insanların bir lideri var ve tüm bu entrikanın arkasında onlar, ‘kralcılar’ "
 "var diye düşünüyorum. Onların tek istekleri imparatorluklarını bu kıtanın "
 "bilinen ve bilinmeyen tüm alanına yaymak."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1353
-#, fuzzy
 msgid ""
 "Interesting. So other elves survived and even managed to destroy Yechnagoth. "
 "But... how can simple humans control these forces? There must be something "
@@ -8929,15 +9019,13 @@ msgstr ""
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1354
-#, fuzzy
 msgid "I think we should move and quit wasting time here. The world needs us!"
 msgstr ""
 "Burada daha fazla zaman kaybetmeden çıkıp gitmemiz gerektiğini düşünüyorum. "
-"Dünyanın bize ihtiyacı var. Bizim de Argan’ı bulmaya ihtiyacımız var."
+"Dünyanın bize ihtiyacı var."
 
 #. [event]: (id=Mal Keshar)}
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1355
-#, fuzzy
 msgid "Very well, let us go, I cannot wait to get out of these tunnels."
 msgstr "Bu kadar yeter, gidelim. Bu tünellerde daha fazla duramayacağım."
 
@@ -8966,6 +9054,9 @@ msgid ""
 "warms this cave. Interesting - there must be a volcano close to this cave "
 "system, or perhaps we are right into one."
 msgstr ""
+"Bu oyukların aşağısında lav akıyor ve onlardan yükselen sıcaklık mağarayı "
+"ısıtıyor. İlginç... Bu mağara sisteminin yakınlarında bir yanardağ olmalı, "
+"belki de bir yanardağın içindeyiz."
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1457
@@ -9252,7 +9343,7 @@ msgstr "Bu mağaradan uzak durmanın daha güvenli olacağını düşünüyorum.
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/10_The_Source_of_Light.cfg:1784
 msgid "There must be a way to open them, somewhere."
-msgstr ""
+msgstr "Bir yerlerde oraya giden bir yol olmalı."
 
 #. [scenario]: id=11_Strike_on_New_Knalga
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:4
@@ -9379,11 +9470,12 @@ msgstr "Bak, Kanalga’nın başkenti kuşatılmış!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:311
-#, fuzzy
 msgid ""
 "The bastards! As I feared, they made it here before us. It matters little, "
 "we shall drive them out of these caves anyway."
-msgstr "Alçaklar! Korktuğum gibi, bizden önce gelmişler!"
+msgstr ""
+"Alçaklar! Korktuğum gibi, bizden önce gelmişler! Ama önemi yok, onları bu "
+"mağaralardan süreceğiz, eninde sonunda."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:312
@@ -9403,9 +9495,8 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:314
-#, fuzzy
 msgid "Look, in the main keep! He is still alive and apparently safe..."
-msgstr "Bak, ana kalede! Yaşıyor ve güvende... en azından şimdilik."
+msgstr "Bak, ana kalede! Yaşıyor ve güvende görünüyor..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:315
@@ -9420,7 +9511,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:317
-#, fuzzy
 msgid ""
 "We are in dire need of all the help we can get. Our main defense forces have "
 "been defeated by these intruders, who brought the bulk of their army from "
@@ -9438,18 +9528,17 @@ msgstr "Size yardım edeceğiz, lord ve gerekirse döğüşerek öleceğiz."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:319
-#, fuzzy
 msgid ""
 "What? This is suicidal! We have already discussed this; we cannot fight "
 "against a true army, you know that better than me! Remember our losses at "
 "the valley. Do you want to sacrifice us all?"
 msgstr ""
 "Ne? Bu intihar olur! Gerçek bir orduya karşı döğüşemeyiz, bunu benden iyi "
-"bilirsiniz!"
+"bilirsin! Vadideki kayıplarımızı ne çabuk unuttun. Hepimizi öldürtmek mi "
+"istiyorsun?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:320
-#, fuzzy
 msgid ""
 "I could not leave the dwarves to perish alone! We are in debt with them. If "
 "it wasn't for them, or at least for their king and Althurin, we would never "
@@ -9492,7 +9581,7 @@ msgid ""
 "Your doom is at hand; surrender, dwarf King! If you do so, the Master might "
 "have mercy on some of your underlings and spare their lives."
 msgstr ""
-"Kaderin benim elimde; teslim ol, cüce Kral! Teslim olursan, Efendim siz "
+"Kaderin benim elimde; teslim ol, cüce Kral! Teslim olursan, Hükümdarım siz "
 "paryaların bazılarına merhamet gösterebilir ve canlarını bağışlayabilir."
 
 #. [event]
@@ -9502,7 +9591,6 @@ msgstr "Teklifimizi kabul etmezseniz sizi lime lime edeceğiz."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:332
-#, fuzzy
 msgid ""
 "We'll never surrend, loathsome vermins! May Knalga be destroyed and "
 "forgotten first, but our kind will never let an inferior race take over our "
@@ -9514,7 +9602,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:333
-#, fuzzy
 msgid ""
 "Then, so be it. You have rejected our mercy with your pride and arrogancy. "
 "All men, attack! Use any methods you deem necessary and effective for wiping "
@@ -9522,23 +9609,21 @@ msgid ""
 msgstr ""
 "Öyle olsun. Kibir ve iftihar sözcükleriyle ırkınız için merhamet şansını "
 "reddettiniz. Adamlarım, saldırın! Burayı temizlemek için etkin ve gerekli "
-"bulduğunuz bütün yöntemleri kullanın. Efendimiz adına! İmparator adına!"
+"bulduğunuz bütün yöntemleri kullanın. Hükümdarımız adına! İmparator adına!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:334
 msgid "NOTE FOR TRANSLATORS: the 'Blessed One' is Elynia"
-msgstr ""
+msgstr "."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:335
-#, fuzzy
 msgid ""
 "Hey, look, they are the elves! And they made it back with the Blessed One!"
 msgstr "Hey, bak, bunlar elfler! Arkalarında Kutsanmış Biri var!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:336
-#, fuzzy
 msgid ""
 "Oh, that incompetent fool, Mena; so her expedition failed to vanquish the "
 "pointy-eared rats! It's our turn now. Let it be known that you shall pay "
@@ -9551,7 +9636,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:337
-#, fuzzy
 msgid ""
 "It is easy to speak, foul sorcerer of Forbidden arts, but we have a new and "
 "great power by our side this time; we won't let you accomplish your goals, "
@@ -9576,14 +9660,13 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:341
-#, fuzzy
 msgid "What was that?"
-msgstr "Bu ne!?"
+msgstr "Bu neydi?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:342
 msgid "Uldrex"
-msgstr ""
+msgstr "Uldrek"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:349
@@ -9598,7 +9681,7 @@ msgstr "Fuşya"
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:358
 msgid "Prepare to die, sub-creatures of the depths!"
-msgstr ""
+msgstr "Ölmeye hazır olun, derinlerin asalakları!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:359
@@ -9608,11 +9691,10 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:360
 msgid "I suppose I spoke too soon..."
-msgstr ""
+msgstr "Galiba çok erken konuştum..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:365
-#, fuzzy
 msgid ""
 "I don't want to be pesimistic, but the circumstances are strongly in favor "
 "of the enemy, so far. They have an overwhelming numerical advantage."
@@ -9622,7 +9704,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:366
-#, fuzzy
 msgid ""
 "The only thing we could do, then, is resist. There are not many resources "
 "here to feed and keep their troops in good shape. At some point their forces "
@@ -9651,7 +9732,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:369
-#, fuzzy
 msgid "Very well!"
 msgstr "Çok iyi."
 
@@ -9736,7 +9816,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:477
-#, fuzzy
 msgid ""
 "I do not see any option other than leaving these mountains. All of us. "
 "Including the dwarves."
@@ -9756,7 +9835,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:479
-#, fuzzy
 msgid ""
 "If you allow me to say so, my lord, staying here would ensure our death, or "
 "worse. The loyalists are already aware of our presence, and shall not stop "
@@ -9777,7 +9855,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:481
-#, fuzzy
 msgid ""
 "Yes, although I don't see any chances for them to win in a real war against "
 "the Chaos Empire. There are many skilled fighters and wisemen in their side, "
@@ -9800,14 +9877,12 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:483
-#, fuzzy
 msgid ""
 "Not alone, at least. I mean, and if we could contact them and build a "
 "stronger army, of dwarves, elves, and humans, to defeat the Empire?"
 msgstr ""
 "En azından tek başına değil. Onlarla konuşup elfler, cüceler ve insanlardan "
-"oluşan daha güçlü bir ordu kursak İmparatoru yenebilir miyiz? demek "
-"istiyorum."
+"oluşan daha güçlü bir ordu kursak İmparatoru yenebilir miyiz demek istiyorum."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:484
@@ -9839,13 +9914,11 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:487
-#, fuzzy
 msgid "Well then, so your proposal is that we escape to the Northlands?"
-msgstr "Peki madem, yani fikriniz kuzey ülkelerine kaçmak mı?"
+msgstr "Peki madem, yani teklifiniz kuzey ülkelerine kaçmak mı?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:488
-#, fuzzy
 msgid ""
 "Yes. Elves can go to look for help from the midlands, and you dwarves can "
 "explore the hills and mountains, to establish a new home if necessary. And "
@@ -9853,11 +9926,11 @@ msgid ""
 "battle again."
 msgstr ""
 "Evet. Elfler vadilerde yardım ararken cüceler dağları ve tepeleri "
-"keşfedebilir hatta gerekirse yeni vatanınızı oraya kurabilirsiniz."
+"keşfedebilir hatta gerekirse yeni vatanınızı oraya kurabilirsiniz. Hazır "
+"olduğumuzda savaşta tekrar sizi yardıma çağıracağız."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:489
-#, fuzzy
 msgid ""
 "I understand and agree, but, how are we going to make sure the demons do not "
 "follow us? We can block the tunnels, but with their machines, it would be "
@@ -9882,7 +9955,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:492
-#, fuzzy
 msgid ""
 "I know, but as Elynia said, there are things more important than life. For "
 "me, our people's safety is much more important then. And death itself is not "
@@ -9901,13 +9973,11 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:493
-#, fuzzy
 msgid "I see then, that I could not convince you of the opposite now."
 msgstr "Sizi aksine inandıramayacağımı görüyorum."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:494
-#, fuzzy
 msgid ""
 "It was not necessary to take my words to heart, but if you feel so guilty "
 "for the past, I guess we cannot do much for you, other than help you realize "
@@ -9928,7 +9998,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:496
-#, fuzzy
 msgid ""
 "My plan is for me to stay here, fighting and distracting the demons, with a "
 "tad of help from Keshar's power to rise the dead. Only me and the dead, "
@@ -9944,13 +10013,12 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:497
-#, fuzzy
 msgid ""
 "You are really brave. Surprising, for an elvish lady. We have really "
 "underestimated your people."
 msgstr ""
 "Siz gerçekten cesursunuz. Bir Elf hanımefendisi için sürprizlerle dolusunuz. "
-"Elf bilgeliğini hafife almışım."
+"Elf halkını hafife almışım."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:498
@@ -9995,7 +10063,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/11_Strike_on_New_Knalga.cfg:502
-#, fuzzy
 msgid ""
 "But let's not delay this any longer. Our enemies are preparing for a final "
 "assault, and so we should do. May you succeed in vanquishing this evil, and "
@@ -10245,7 +10312,6 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:429
-#, fuzzy
 msgid "Urrrgh..."
 msgstr "Urrhh..."
 
@@ -10265,9 +10331,8 @@ msgstr "Arka Kapı Robotu"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:496
-#, fuzzy
 msgid "Zelthok"
-msgstr "Zultor"
+msgstr "Zeltok"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:497
@@ -10378,7 +10443,7 @@ msgstr "Lagonus’u, arka kapı muhafız reisini öldür"
 #. [message]: speaker=unit
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:578
 msgid "How could I fail? Forgive me, Master..."
-msgstr "Ben nasıl başarısız olurum? Affet beni Efendimiz..."
+msgstr "Ben nasıl başarısız olurum? Affet beni Hükümdarım..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/12_The_Escape.cfg:590
@@ -10518,14 +10583,14 @@ msgstr "Bak, elf cadısı!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:206
-#, fuzzy
 msgid ""
 "Graaargh, kill her! And the elf leader too! Find the filthy fairy, but "
 "remember the commands of the Master; trap her, but never kill, torture or "
 "touch her in any other fashion!"
 msgstr ""
-"Groar, gebertin onu! Elf liderini de! Sıska periyi de bulun, fakat Efendinin "
-"emrini unutmayın; onu tuzağa düşürüp ezeceksiniz ama asla öldürmeyeceksiniz."
+"Groar, gebertin onu! Elf liderini de! Sıska periyi de bulun, fakat "
+"Hükümdarın emrini unutmayın; onu tuzağa düşürüp ezeceksiniz ama asla "
+"öldürmeyeceksiniz."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:207
@@ -10590,7 +10655,7 @@ msgid ""
 "We'll find them all, and your pitiful efforts will have been wasted in vain."
 msgstr ""
 "Düşünceni okuyabiliyorum, dolayısıyla arkadaşlarının yerini biliyorum. "
-"Şaşırtmak için kendini kurban etmen Gölgelerin Efendisinin öfkesini "
+"Şaşırtmak için kendini kurban etmen Gölgelerin Hükümdarının öfkesini "
 "durduramayacak. Hepsini bulacağız ve acınası çaban boşa gidecek."
 
 #. [then]
@@ -10610,11 +10675,8 @@ msgstr "Bu... imkansız!"
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:350
-#, fuzzy
 msgid "Your mundane weapons or pathetic spells are not enough to destroy me."
-msgstr ""
-"Evet, cadı. Ben ölümsüzüm ve senin elf işi silahların ve bedduaların beni "
-"öldüremez."
+msgstr "Senin elf işi silahların ve bedduaların beni öldüremez."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:351
@@ -10658,7 +10720,6 @@ msgstr "Şimdi, önce hangi parçayı dilmemi istersin?"
 
 #. [else]
 #: Invasion_from_the_Unknown/scenarios/13_Face_your_Fate.cfg:412
-#, fuzzy
 msgid "You should not... waste more of your time... here... heh."
 msgstr "Yapamazsın... zamanını boşa harcama... burada..."
 
@@ -10695,12 +10756,12 @@ msgstr "Ve böylece sona erdi."
 #. [option]: speaker=narrator
 #: Invasion_from_the_Unknown/scenarios/13x_Inter.cfg:106
 msgid "Continue playing to Episode II"
-msgstr ""
+msgstr "II. Perdeden devam"
 
 #. [option]: speaker=narrator
 #: Invasion_from_the_Unknown/scenarios/13x_Inter.cfg:117
 msgid "End the game"
-msgstr ""
+msgstr "Oyunu bitir"
 
 #. [scenario]: id=14_Bye_and_Behold
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:4
@@ -11163,6 +11224,8 @@ msgid ""
 "if she did, that would have been dozens of centuries go. She would have died "
 "long ago."
 msgstr ""
+"Işık Meleği mi? Hımm... Sadece bir mit. Asla var olmadı, olduysa bile "
+"binlerce yıl önceydi. Uzun zaman önce ölmüş olması gerekirdi."
 
 #. [event]: (id=Galas) ()}
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:509
@@ -11175,7 +11238,6 @@ msgstr ""
 
 #. [event]: (id=Galas) ()}
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:510
-#, fuzzy
 msgid ""
 "Well, I suppose that we cannot judge by ourselves whether any of you are "
 "telling us the truth, or not. However, if you come to the capital for a "
@@ -11198,7 +11260,6 @@ msgstr "Tamam o halde."
 
 #. [event]: (id=Galas) ()}
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:513
-#, fuzzy
 msgid ""
 "No, no, no. Wait: first I must see a proof of reliability from you. As you "
 "said, you'd help us defeat our enemies. At the moment, these woods are "
@@ -11305,9 +11366,8 @@ msgstr ""
 
 #. [event]: (id=Galas) ()}
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:578
-#, fuzzy
 msgid "What are those creatures he mentioned, the 'saurians'?"
-msgstr "Bu yaratıklar ne yapıyor?"
+msgstr "Bahsettiği şu yaratıklar, sürüngenler mi, neydi?"
 
 #. [event]: (id=Galas) ()}
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:579
@@ -11320,9 +11380,8 @@ msgstr ""
 
 #. [event]: (id=Galas) ()}
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:580
-#, fuzzy
 msgid "Well, let's be onward then."
-msgstr "O halde hazırlıklı olalım."
+msgstr "O halde ileri."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:605
@@ -11426,11 +11485,12 @@ msgstr ""
 
 #. [event]: race=goblin
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:669
-#, fuzzy
 msgid ""
 "What? Are those elves? With undead? What the... let's be careful, those are "
 "not ordinary enemies!"
-msgstr "Ne? Bunlar elfler mi? Yarı ölülerle üstelik... Ne bu?"
+msgstr ""
+"Ne? Bunlar elfler mi? Yarı ölülerle üstelik... Ne bu? Dikkatli olalım, "
+"bunlar sıradan düşmanlar değil!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/14_Bye_and_Behold.cfg:677
@@ -11545,11 +11605,15 @@ msgid ""
 "slackers who will 'help' inferior creatures for gold and territory; if we "
 "want them, we shall get them fighting, not dealing stupid contracts."
 msgstr ""
+"Anlaşmanız oldukça ikna edici olabilir... tabii diğer orklar için, bizim "
+"için değil. Altın ve toprak için bayağı yaratıklara ‘yardım’ edecek işsiz "
+"güçsüz takımı değiliz. Eğer onları isteseydik, aptalca anlaşmalara girişmez "
+"söke söke alırdık."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:231
 msgid "'Inferior' creatures, you say?"
-msgstr ""
+msgstr "‘Bayağı’ yaratıklar mı, dedin?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:232
@@ -11557,17 +11621,19 @@ msgid ""
 "I knew we would not get much else from your kind, sickening orc. At least "
 "not using words and diplomacy!"
 msgstr ""
+"Türünüzden istenmeyecek şeyler olduğunu zaten biliyordum, tiksindirici ork. "
+"Diplomasiden bile haberin yok!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:233
 msgid ""
 "Ha, and what would you do then? Kill us? What benefit would that bring you?"
-msgstr ""
+msgstr "Ne?! Sen kim oluyorsun? Bizi mi öldüreceksin? Neye yararsın, sen?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:234
 msgid "It would quench my thirst, of course..."
-msgstr ""
+msgstr "Nihayet, ork öldürme açlığımı giderebileceğim..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:235
@@ -11576,6 +11642,9 @@ msgid ""
 "must concentrate on the real enemy that threatens all life in the continent, "
 "including you, orcs."
 msgstr ""
+"Kesin şu aptalca şamatayı! Eski anlaşmazlıkları gündeme getirmenin sırası "
+"değil. Kıtada yaşayan herşeye hatta orklara bile tehdit haline gelen gerçek "
+"düşmana odaklanmalıyız."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:236
@@ -11583,6 +11652,9 @@ msgid ""
 "I would not ever buy those tales spoken by you, fairy. It is obvious that "
 "you are trying to trick us to get cheap war-beasts for your inane purposes."
 msgstr ""
+"Anlattığnız hikayeye inanacağımı mı sandınız? Ahmakça amaçlarınıza hizmet "
+"edecek savaş köpekleri haline getirmek için bizi aldatmaya çalıştığınız çok "
+"açık."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:237
@@ -11591,22 +11663,25 @@ msgid ""
 "to accept the deal we'll not further insist, but you shall receive no help "
 "from us when you and your people get to face the truth."
 msgstr ""
+"O ahmakça amaçlar er veya geç sizin de amaçlarınız haline gelecek. Anlaşmayı "
+"kabul etmek istemiyorsan daha fazla ısrar etmeyiz, fakat sen ve halkın "
+"gerçekle yüz yüze kalınca bizden yardım bekleme."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:238
 msgid "It little matters anyway; you won't survive to see that day..."
-msgstr ""
+msgstr "Bu sadece bir ayrıntı; o günü görecek kadar yaşamayacaksınız..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:245
 msgid "Wardrums? I have not given the order YET!"
-msgstr ""
+msgstr "Savaş davulları mı? HENÜZ emir vermedim!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:256
 msgid ""
 "Hold there, 'friend'! Time has come for you to bite the dust in your grave!"
-msgstr ""
+msgstr "Dur orada,‘dostum’! Mezara girme vaktin geldi!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:257
@@ -11614,6 +11689,8 @@ msgid ""
 "What the heck are you doing in _my_ territory? I have banished you many "
 "times already, hasn't it been enough for you?"
 msgstr ""
+"Toprağımda ne arıyorsun, lanet şey? Seni defalarca yendim, yenilmeye "
+"doymuyor musun?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:258
@@ -11622,6 +11699,8 @@ msgid ""
 "of the forests. Sorry, but this time I have brought the support of my new "
 "friends..."
 msgstr ""
+"Hah, orman fareleri ve insan solucanlarla anlaşmaya çalışanın söylediklerine "
+"bak. Kusura bakma, fakat bu sefer yeni dostlarıma destek için buradayım..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:273
@@ -11629,6 +11708,8 @@ msgid ""
 "Ah, so you deal with those stinkin' necromancers too? That makes very "
 "little, if any difference."
 msgstr ""
+"Ah, demek sen de bu kokuşmuş nekromatikle anlaştın? O aman iş değişir ama "
+"çok değil."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:274
@@ -11636,6 +11717,8 @@ msgid ""
 "I see that the Emperor was right on his suspects. The elves have escaped "
 "from their doom once again."
 msgstr ""
+"İmparatorun şüphelerinde haklı olduğunu görüyorum. Elfler kaderlerinden bir "
+"kere daha kaçmışlar."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:275
@@ -11644,11 +11727,13 @@ msgid ""
 "the Dark Lady; I won't allow you to get me humillated once again for failing "
 "the Iron Council's might and will."
 msgstr ""
+"Pekala putperestler. Kara Kraliçenin gücünden bu son kaçışınız olacak. Beni "
+"bir kere daha Demir Konseyi karşısında rezil etmenize izin vermeyeceğim."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:276
 msgid "What is that dirty necromancer ranting about?"
-msgstr ""
+msgstr "Bu salak nekromatik neden bahsediyor?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:277
@@ -11656,11 +11741,13 @@ msgid ""
 "Dark Lady? Iron Council? Funny, those names sound surprisingly familiar to "
 "me... Beware, for this is one of the foulest priests to Yechnagoth!"
 msgstr ""
+"Kara Kraliçe, Demir konseyi... Komik, bu isimler bana çok tanıdık geliyor... "
+"Tabii ya, Yeknagot’a inanan şapşallardan biri bu!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:278
 msgid "Yechnagoth? But... she was vanquished..."
-msgstr ""
+msgstr "Yeknagot mu? Fakat... O yok edilmişti..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:279
@@ -11668,6 +11755,9 @@ msgid ""
 "Those are truly lies made up by heretics like you, elf. Her power is still "
 "alive, and greatest than ever! Tanstafaal! Give them a taste of her power!"
 msgstr ""
+"Sizin gibi inançsızların uydurduğu bir yalandan başka bir şey değil o, elf. "
+"Hala canlı ve her zamankinden daha güçlü! Tanstafal! Onlara onun gücünü "
+"tattır!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:280
@@ -11675,6 +11765,8 @@ msgid ""
 "As you command, my master. By Eloh I shall make you suffer for your puny "
 "betrayal!"
 msgstr ""
+"Emredersiniz, efendim. Eloh adına ehemmiyetsiz ihanetinizin cezasını "
+"vereceğim!"
 
 #. [unit]: id=Zel'ruel, type=Elvish Ancestor
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:290
@@ -11689,7 +11781,7 @@ msgstr "Galnega"
 #. [unit]: id=Prodel'na, type=Elvish Warrior Spirit, type=Elvish Ancestor
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:319
 msgid "Prodel'na"
-msgstr ""
+msgstr "Prodelna"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:335
@@ -11697,6 +11789,7 @@ msgid ""
 "Curse Uria... those are elvish warriors! What is this new enemy we are "
 "facing?"
 msgstr ""
+"Lanet Urya... Bunlar elf savaşçıları! Karşımıza çıkan bu yeni düşman da kim?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:336
@@ -11706,6 +11799,10 @@ msgid ""
 "worship Eloh otherwise. I fear that we have no option but fight against our "
 "own people."
 msgstr ""
+"Alturin böyle bir şeyden bahsetmişti. Kuyenot elflerinden bir kısmı "
+"diğerlerine ihanet ederek Yeknagot’un denetimine girmiş. Tanuil’in halkı "
+"Eloh’tan başka bir şeye inanmazdı. Ne yazık ki, kendi halkımıza karşı "
+"döğüşmekten başka çaremiz yok."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:337
@@ -11713,6 +11810,8 @@ msgid ""
 "I don't like the sole idea of this. Orc, you'd better flee from this battle; "
 "it is not yours to fight!"
 msgstr ""
+"Bu tek çareyi hiç sevmedim. Ork, bu savaşı bırakıp kaçsan iyi edersin; bu "
+"senin savaşın değil!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:338
@@ -11720,11 +11819,14 @@ msgid ""
 "Bah, I'm not running away like a puny elf just because of a undead horde. I "
 "shall fight by your side. Odds are that you would perish without our 'help'."
 msgstr ""
+"Peh, bir yarı ölü ordusu görür görmez çelimsiz bir elf gibi kaçmam ben. "
+"Sizin tarafınızda döğüşeceğim. Bizim ‘yardımınız’ olmadan bu tuhaf şeylere "
+"yem olursunuz."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:339
 msgid "Stu..."
-msgstr ""
+msgstr "Hay, apt.."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:340
@@ -11732,11 +11834,13 @@ msgid ""
 "Malin, for the sake of our survival, put your personal conflict with the "
 "orcs aside for a while!"
 msgstr ""
+"Malin, orklarla kişisel çatışmalarını bir yana bırakıp hayatta kalmamıza "
+"odaklansan iyi olacak!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:341
 msgid "Hmph."
-msgstr ""
+msgstr "Peki, tamam."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:343
@@ -11745,12 +11849,14 @@ msgid ""
 "these plains be devoided of joy and peace! May them be replaced by darkness "
 "and decay!"
 msgstr ""
+"Güç adına bana destek olun, Kara Kraliçenin gücü bana gelsin! Bu ovalar "
+"huzur ve barıştan mahrum kalsın! Yerine karanlık ve ölüm gelsin!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:451
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:345
 msgid "Argh. This was not supposed to be my final day..."
-msgstr ""
+msgstr "Ah. Bunun son günüm olacağını düşünmemiştim..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:452
@@ -11758,6 +11864,8 @@ msgid ""
 "The orcs have lost their leader and now odds are they'll never accept the "
 "deal. Our mission has failed!"
 msgstr ""
+"Orklar liderlerini kaybetti. Kalanlar bizimle asla anlaşmaya yanaşmaz. "
+"Görevimizi başaramadık!"
 
 #. [scenario]: id=15_Shadows_of_Time, (id=Mal Hekuba)}
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:457
@@ -11814,16 +11922,18 @@ msgid ""
 "Ha ha ha, I have got the news I needed for the Master. Get lost, damned "
 "heathens!"
 msgstr ""
+"Hahaha, Hükümdarıma iletilecek haberleri aldım. Kaybolun önümden, lanet "
+"dinsizler!"
 
 #. [scenario]: id=15_Shadows_of_Time, (id=Mal Hekuba)}
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:501
 msgid "I cannot hold against this dense darkness!"
-msgstr ""
+msgstr "Bu zifiri karanlığa karşı koyamıyorum!"
 
 #. [scenario]: id=15_Shadows_of_Time, (id=Mal Hekuba)}
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:527
 msgid "He escaped as we could not see anything. Dang!"
-msgstr ""
+msgstr "Biz bir şey göremeyince fırsattan istifade kaçtı. Kahrolası!"
 
 #. [scenario]: id=15_Shadows_of_Time, (id=Mal Hekuba)}
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:528
@@ -11838,6 +11948,9 @@ msgid ""
 "Rest in peace, Tanstafaal. Even if you betrayed our kinsmen, the price of "
 "roaming the world as undead is not one I would condemn anybody to pay."
 msgstr ""
+"Huzur içinde uyu Tanstafal. Irkımıza ihanet etmiş bile olsan bunun bedelinin "
+"dünyada yarı ölü olarak dolaşman olsun istemem, bu kim için olursa olsun çok "
+"ağır bir bedel."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:574
@@ -11845,6 +11958,8 @@ msgid ""
 "It's disturbing to see that the shade of Yechnagoth is still present in our "
 "world, inflicting damage and suffering on lesser creatures."
 msgstr ""
+"Yeknagot’un gölgesinin hala dünyamıza zarar verdiğini ve küçük yaratıkları "
+"katletmekte olduğunu görmek çok rahatsız edici. "
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:590
@@ -11853,26 +11968,29 @@ msgid ""
 "Although you may not trust our race, we ourselves know and appreciate the "
 "value of such an ally."
 msgstr ""
+"Pekala yabancılar. Hen yararlı hem de güçlü olduğunuzu kanıtladınız. "
+"Irkımıza güvenmeseniz de biz kendimizi biliriz ve böyle bir müttefik bizim "
+"için paha biçilmezdir."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:591
 msgid "Does this mean that you agree with the deal for the Grand Council?"
-msgstr ""
+msgstr "Yani, bu Büyük Konsey ile anlaşmayı kabul ettiğin anlamına mı geliyor?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:592
 msgid "Of course. As long as you honor it as we shall do."
-msgstr ""
+msgstr "Şüphesiz. Sizinki kadar biz de onurlandıracağız."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:594
 msgid "Why that look, Malin?"
-msgstr ""
+msgstr "Bu bakış ne, Malin?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:595
 msgid "Bah, nothing that you care about."
-msgstr ""
+msgstr "Hiç, öylesine bakmıştım."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/15_Shadows_of_Time.cfg:596
@@ -11954,6 +12072,8 @@ msgid ""
 "Courageous words, yet foolish ones that cannot save your lives. You defy us, "
 "and that shall not be tolerated. Let's see who falls first."
 msgstr ""
+"Cesur sözler, bu aptalca şeyler canınızı kurtaramaz. Bize meydan okumanız "
+"asla affedilemez. Görelim bakalım önce kim düşecek!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:222
@@ -12127,7 +12247,7 @@ msgid ""
 "anything else than the fury of the Master, that will eventually fall upon "
 "you all and vanquish your puny species!"
 msgstr ""
-"Kâfirler, bilin ki, bana karşı kazandığınız küçük zaferiniz Efendimin "
+"Kâfirler, bilin ki, bana karşı kazandığınız küçük zaferiniz Hükümdarımın "
 "öfkesini üzerinize çekmekten başka işe yaramayacak. Eninde sonunda "
 "yenileceksiniz ve cılız bedenleriniz yokedilecek!"
 
@@ -12148,8 +12268,9 @@ msgid ""
 "Imperial army after you, and there is nothing you can do to stop the process "
 "now!"
 msgstr ""
-"Küstahlığınız kaderinizi tayin etti bile. Efendimiz size karşı tüm ordusunu "
-"gönderdi. Süreci durdurmak için yapacağınız hiçbir şey kalmadı artık!"
+"Küstahlığınız kaderinizi tayin etti bile. Hükümdarımız size karşı tüm "
+"ordusunu gönderdi. Süreci durdurmak için yapacağınız hiçbir şey kalmadı "
+"artık!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:320
@@ -12178,9 +12299,9 @@ msgid ""
 "nothing but puppets of the real mastermind, which we'll have to stop by "
 "ourselves."
 msgstr ""
-"Efendisiyle arasında bir sadakat anlaşması olmalı. Bu iblisler, asıl "
-"durdurmamız gereken efendilerinin gerçek benliğinin kuklalarından başka bir "
-"şey değil."
+"Hükümdarıyla arasında bir sadakat anlaşması olmalı. Bu iblisler, asıl "
+"durdurmamız gereken hükümdarlarının gerçek benliğinin kuklalarından başka "
+"bir şey değil."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/16_Arrival_of_the_Battalion.cfg:325
@@ -12586,14 +12707,13 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:1114
-#, fuzzy
 msgid ""
 "You can no longer recruit Aragwaithi or Elves. However, those who already "
 "fought by your side will follow you, thus will still be available for "
 "recalling."
 msgstr ""
-"Bundan sonra Aragvayları, Elfleri ve Ağaçları askere alamayacaksınız. Ama, "
-"şimdiye kadar yanınızda döğüşen askerleri çağırabileceksiniz."
+"Bundan sonra Aragvayları ve Elfleri askere alamayacaksınız. Ama, şimdiye "
+"kadar yanınızda döğüşen askerleri çağırabileceksiniz."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/17_Dawn_of_the_Great_War.cfg:1115
@@ -12694,7 +12814,7 @@ msgid ""
 "You are toast. Although the Shadow Master would be pleased to meet you, I'm "
 "afraid it's my duty to crush you and bury your remains into the sands."
 msgstr ""
-"Sizden kızartma yapacağım. Gölgelerin Efendisi sizinle tanışmaktan mutlu "
+"Sizden kızartma yapacağım. Gölgelerin Hükümdarı sizinle tanışmaktan mutlu "
 "olurdu ama benim görevim korkarım sizi ezmek ve kumlara gömmek olacak."
 
 #. [event]: (id=Mal Hekuba) purple}
@@ -12703,7 +12823,7 @@ msgid ""
 "The Shadow Master? Is that then the name of the obnoxious ruler of the "
 "Empire?"
 msgstr ""
-"Gölgelerin Efendisi mi? Bu imparatoruğun iğrenç yöneticisinin adı olmasın?"
+"Gölgelerin Hükümdarı mı? Bu imparatorluğun iğrenç yöneticisinin adı olmasın?"
 
 #. [event]: (id=Mal Hekuba) purple}
 #: Invasion_from_the_Unknown/scenarios/18_Armageddon.cfg:177
@@ -12720,7 +12840,7 @@ msgid ""
 "We'll see. The Master specially wants to meet you, pitiful fairy, but "
 "nothing will be left of you at the end of this day!"
 msgstr ""
-"Göreceğiz. Efendimiz özellikle acınası periyle, yani seninle tanışmak "
+"Göreceğiz. Hükümdarımız özellikle acınası periyle, yani seninle tanışmak "
 "istiyor, fakat bugün senden geriye bir şey kalmayacak."
 
 #. [event]: (id=Mal Hekuba) purple}
@@ -12870,7 +12990,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/19_Legend_of_Wesmere.cfg:148
-#, fuzzy
 msgid ""
 "Well, we didn't come here to cry in memory of victims of old wars. Where "
 "should we head to?"
@@ -13290,14 +13409,14 @@ msgstr "Oh... Ben..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:327
-#, fuzzy
 msgid ""
 "Yes, Galas, I can do more than merely speaking to you. I can touch your "
 "mind, and crush it like an insect with my will. You shall not last for much "
 "time if you stay in my domains."
 msgstr ""
-"Evet, Galas. Ben sırf konuşmam, başka şeyler de yapabilirim. Benliğine "
-"dokunabilir ve onu bir böcek gibi ezebilirim. Artık fazla zamanın kalmadı."
+"Evet, Galas. Ben sırf konuşmaktan başka şeyler de yapabilirim. Benliğine "
+"dokunabilir ve onu bir böcek gibi ezebilirim. Benim bölgemde kalmaya devam "
+"edersen bunun için çok beklemeyeceksin."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:339
@@ -13572,7 +13691,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:594
-#, fuzzy
 msgid ""
 "Increased powers in the darkness of his territory... the impy said something "
 "about a so-called 'Shadow Master'. All those goons mention their 'Master' in "
@@ -13581,7 +13699,7 @@ msgid ""
 "are just slaved minds of him. But, Elynia... you mentioned that your fianceé "
 "fell during an erathquake, am I right?"
 msgstr ""
-"Ülkesinin karanlığında artan güçler... Cin de ‘Gölgelerin Efendisi’ gibi bir "
+"Ülkesinin karanlığında artan güçler... Cin de ‘GölgelerinHükümdarı’ gibi bir "
 "şeyden bahsetmişti. Bu kundakçılar ettikleri her cümlede bir efendiden "
 "bahsedip duruyorlar. Bu adamın karanlıkta artan kuvvetli pisişik güçleri var "
 "anlaşılan; muhtemelen köleleri onun benliğinin uzantıları gibi hareket "
@@ -13595,12 +13713,11 @@ msgstr "Evet. Fakat bunun sorunumuzla ilgisi ne?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:596
-#, fuzzy
 msgid ""
 "I am getting suspicious... could there be a correlation... could it be that "
 "this Shadow Master is actually your fianceé, Argan?"
 msgstr ""
-"Bazı şüphelerim var... Bazı bağlantılar var gibi... Bu Gölgelerin Efendisi "
+"Bazı şüphelerim var... Bazı bağlantılar var gibi... Bu Gölgelerin Hükümdarı "
 "aslında kocan, Argan olabilir mi?"
 
 #. [event]
@@ -13610,7 +13727,6 @@ msgstr "He?! Hayır, mümkün değil! Nereden bu fikre kapıldın, şapşal!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:598
-#, fuzzy
 msgid ""
 "Think about the connection... both of them have grand control of Darkness. "
 "One of them, Argan, disappeared. The other one, this Shadow Master, then "
@@ -13623,8 +13739,8 @@ msgid ""
 msgstr ""
 "Aradaki bağlantıya dikkat et... Her ikisi de karanlık güçlerde büyük bir "
 "denetime sahip ve bunlardan biri, kocan Argan gizemli bir şekilde ortadan "
-"kayboluveriyor. Diğer taraftan yine gizemli bir şekilde bu, Karanlığın "
-"Efendisi denilen zat ortaya çıkıveriyor. Ve o, dünyanın çok derinlerindeki "
+"kayboluveriyor. Diğer taraftan yine gizemli bir şekilde bu, Gölgelerin "
+"Hükümdarı denilen zat ortaya çıkıveriyor. Ve o, dünyanın çok derinlerindeki "
 "bir şeytani güç tarafından ele geçirilmişse ve karanlığın şeytanı gücü onun "
 "tarafından tekrar dünyaya getirilmişse? Senin ışığın Galas’ı koruduğu gibi "
 "karanlık tarafın seni de ele geçirmesine engel oluyor. Fakat Argan için bu "
@@ -13633,7 +13749,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:599
-#, fuzzy
 msgid ""
 "No, it can't be. The exact reason because we got engaged was because he "
 "saved me with the powers of darkness for good. He is not evil. He cannot be "
@@ -13665,7 +13780,6 @@ msgstr "Teşekkür ederim Elenya."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/20_Under_the_Sands.cfg:603
-#, fuzzy
 msgid "Now, we have a work to complete."
 msgstr "Şimdi, tamamlamamız gereken bir iş var."
 
@@ -14030,27 +14144,20 @@ msgstr "Limzer"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:469
-#, fuzzy
 msgid "Move Galas, Elynia or Mal Keshar into the dark keep"
-msgstr ""
-"Galas, Elenya, Mal Keşnar ve Eratan kara kaleye girerken düşmanın ilgisini "
-"çekmeye çalış"
+msgstr "Galas, Elenya veya Mal Keşnar'ı kara kaleye götür"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:470
 #: Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:483
-#, fuzzy
 msgid "or"
-msgstr "İgor"
+msgstr "VEYA"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:482
-#, fuzzy
 msgid ""
 "Distract the enemy while Galas, Elynia or Mal Keshar enter the dark keep"
-msgstr ""
-"Galas, Elenya, Mal Keşnar ve Eratan kara kaleye girerken düşmanın ilgisini "
-"çekmeye çalış"
+msgstr "Galas, Elenya veya Mal Keşnar kara kaleye girerken düşmanı şaşırt"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/21_The_Heart.cfg:501
@@ -14205,16 +14312,14 @@ msgstr "Galas"
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:463
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:201
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard.cfg:75
-#, fuzzy
 msgid ""
 "Explore and find your way to the main Keep with Galas, Elynia or Mal Keshar"
-msgstr "Galas, Elanya, Mal Keşnar veya Eratan’la ana kaleye giden yolu bul"
+msgstr "Galas, Elenya veya Mal Keşnar’la ana kaleye giden yolu bul"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:410
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:469
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1108
-#, fuzzy
 msgid ""
 "Your troops will not available for recalling or recruiting after the first "
 "turn is over, so you should choose your units carefully and try to keep them "
@@ -14222,7 +14327,7 @@ msgid ""
 msgstr ""
 "İlk el bittikten sonra bir daha asker almanız veya geri çağırmanız mümkün "
 "olmayacak. Bu bakımdan askerlerinizi dikkatli seçin ve onları görev bitene "
-"kadar canlı tutmaya çalışın. El sayısı sınırlanmamıştır."
+"kadar canlı tutmaya çalışın."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:435
@@ -14325,7 +14430,6 @@ msgstr ""
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:538
-#, fuzzy
 msgid ""
 "Your troops will not available for recalling or recruiting once the first "
 "turn is over, so you should choose your units carefully and try to keep them "
@@ -14333,7 +14437,7 @@ msgid ""
 msgstr ""
 "İlk el bittikten sonra bir daha asker almanız veya geri çağırmanız mümkün "
 "olmayacak. Bu bakımdan askerlerinizi dikkatli seçin ve onları görev bitene "
-"kadar canlı tutmaya çalışın. El sayısı sınırlanmamıştır."
+"kadar canlı tutmaya çalışın."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:569
@@ -14515,9 +14619,9 @@ msgid ""
 "sent to stop you from reaching the Gate of Inferno by the Shadow Master, and "
 "this time you have no escapatory."
 msgstr ""
-"Efendimin düşmanları aptallığınız burada ölümünüzle sonuçlanacak!Gölgelerin "
-"Efendisi tarafından Cehennemin Kapısına ulaşmanızı engellemek için "
-"gönderildim. Sizin için artık kaçış yok."
+"Hükümdarımın düşmanları aptallığınız burada ölümünüzle sonuçlanacak! "
+"Gölgelerin Hükümdarı tarafından Cehennemin Kapısına ulaşmanızı engellemek "
+"için gönderildim. Sizin için artık kaçış yok."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1026
@@ -14535,7 +14639,7 @@ msgid ""
 "Ah, the Shadow Master! I cannot wait to meet him personally anymore... get "
 "out of our path, you bastards!"
 msgstr ""
-"Ah, Gölgelerin Efendisi! Seninle kişisel olarak karşılaşmak için "
+"Ah, Gölgelerin Hükümdarı! Seninle kişisel olarak karşılaşmak için "
 "bekleyemeyeceğim, artık... Çekilin yolumuzdan alçaklar!"
 
 #. [event]
@@ -14605,7 +14709,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22A_Innuendo.cfg:1099
-#, fuzzy
 msgid "All right, search for it."
 msgstr "Pekala, arayalım."
 
@@ -14641,7 +14744,6 @@ msgstr "Zindan"
 
 #. [scenario]: id=22B_Gauntlet
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:4
-#, fuzzy
 msgid "The Gauntlet"
 msgstr "Meydan Okumak"
 
@@ -14764,7 +14866,6 @@ msgstr "Elissa"
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:372
-#, fuzzy
 msgid ""
 "Galas, the elvish leader. You have no idea how much time I have been waiting "
 "for this moment, to see your face of terror and squash you like a bug, to "
@@ -14799,7 +14900,6 @@ msgstr ""
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:375
-#, fuzzy
 msgid ""
 "No, we will prevail. You are the one who will waste her last minutes of life."
 msgstr ""
@@ -14979,9 +15079,8 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:592
-#, fuzzy
 msgid "Uh? No! It is... it is impossible! The Union has been summoned!"
-msgstr "Uh? Hayır! Bu... Bu imkansız! Birlik!"
+msgstr "Uh? Hayır! Bu... Bu imkansız! Birlik toplanmış!"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:596
@@ -15009,9 +15108,8 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:661
-#, fuzzy
 msgid "Forgive me, Master..."
-msgstr "Haaayııır... affet beni, Efendim..."
+msgstr "Affet beni, Efendim..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:662
@@ -15047,9 +15145,9 @@ msgid ""
 "converted me to their side, turning me into a demon..."
 msgstr ""
 "Adım Elissa ve Kaos güçlerine ve İmparatorluğuna rastlayıncaya kadar gezgin "
-"bir büyücüydüm. Gölgelerin Efendisi... o bana hayal bile edemeyeceğim şeyler "
-"öğretti. Bana Ulu Urya’nın güçlerini gösterdi! O... Onlar, onlar beni kendi "
-"taraflarına çektiler, beni bir şeytana dönüştürdüler..."
+"bir büyücüydüm. Gölgelerin Hükümdarı... o bana hayal bile edemeyeceğim "
+"şeyler öğretti. Bana Ulu Urya’nın güçlerini gösterdi! O... Onlar, onlar beni "
+"kendi taraflarına çektiler, beni bir şeytana dönüştürdüler..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:667
@@ -15097,11 +15195,10 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:712
 msgid "I told you so, fools. I am immortal!"
-msgstr ""
+msgstr "Size söylediğim gibi, ben ölümsüzüm, ahmaklar!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:713
-#, fuzzy
 msgid ""
 "If any of you can't think of a good idea, this is surely our end! Our backs "
 "are surrounded by lava, and it seems that no matter what we try, we won't "
@@ -15140,7 +15237,6 @@ msgstr "Evet?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:718
-#, fuzzy
 msgid ""
 "We need to put our hands together and concentrate. We will try to call upon "
 "the power of the Union."
@@ -15175,12 +15271,11 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22B_Gauntlet.cfg:723
-#, fuzzy
 msgid ""
 "I know, but hasty situations require hasty decissions. Just do as I said and "
 "let's hope that it will not fail to us."
 msgstr ""
-"Biliyorum fakat ecil durumlar acil kararlar gerektirir. Sadece dediğimi yap "
+"Biliyorum fakat acil durumlar acil kararlar gerektirir. Sadece dediğimi yap "
 "ve bana güven, kötü bir şey olmayacak."
 
 #. [event]
@@ -15212,7 +15307,7 @@ msgstr "Savaş lordunu oyala"
 #. [scenario]: id=22C_The_Backyard
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard.cfg:7
 msgid "The Backyard"
-msgstr ""
+msgstr "Arka Bahçe"
 
 #. [scenario]: id=23A_Interim
 #: Invasion_from_the_Unknown/scenarios/23A_Interim.cfg:40
@@ -15229,7 +15324,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/dark_hive_west.cfg:24
-#, fuzzy
 msgid ""
 "The place stinks with the stench of death and decay. Something seriously "
 "evil goes on in this... warren? Hive? Thing?"
@@ -15242,12 +15336,12 @@ msgstr ""
 msgid ""
 "Let's keep together. It is the only way to protect ourselves against a "
 "possible ambush by a swarm of them."
-msgstr ""
+msgstr "Bir arada olalım. Bir pusuya karşı kendimizi korumanın tek yolu bu."
 
 #. [event]: (type=Tux)}
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/dark_hive_west.cfg:134
 msgid "What is that? Malin, look! I've never seen any creature like that."
-msgstr ""
+msgstr "Bu da ne? Malin, bak! Hiç böyle bir yaratık görmemiştim."
 
 #. [event]: (type=Tux)}
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/dark_hive_west.cfg:135
@@ -15256,9 +15350,8 @@ msgstr ""
 
 #. [event]: (type=Tux)}
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/dark_hive_west.cfg:136
-#, fuzzy
 msgid "Hey, you! How did you get here?"
-msgstr "Bir goblin mi? Buraya nasıl geldin?"
+msgstr "Hey sen! Buraya nasıl geldin?"
 
 #. [event]: (type=Tux)}
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/dark_hive_west.cfg:137
@@ -15327,11 +15420,10 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_elyssa.cfg:11
 msgid "Someone approaches. A very powerful one."
-msgstr ""
+msgstr "Biri yaklaşıyor. Çok güçlü biri."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_elyssa.cfg:12
-#, fuzzy
 msgid "Eh?"
 msgstr "Oh?"
 
@@ -15399,14 +15491,11 @@ msgstr "Haaayııır... affet beni, Efendim..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_elyssa.cfg:152
-#, fuzzy
 msgid ""
 "In his lair.... you must go through the Dark Hive - the entrance is south "
 "from here... follow the dark road, and you will find him, in a chamber "
 "plenty of his creations..."
 msgstr ""
-"Lanetli Salonlar... kapının arkasında ve Kara Kovan... siyah yolu izlerseniz "
-"yaratıklarıyla dolu bir odada onu bulursunuz..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_elyssa.cfg:162
@@ -15450,9 +15539,8 @@ msgstr "Hayır, hayır! Beni yenemezsiniz! Hayır!"
 
 #. [unit]: type=Lich, id=Mal Ilzeth
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_ilzeth.cfg:17
-#, fuzzy
 msgid "Mal Ilzeth"
-msgstr "Mal Keşnar"
+msgstr "Mal İlzet"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_ilzeth.cfg:23
@@ -15460,21 +15548,23 @@ msgid ""
 "This secret path is completely abandoned - so far we have walked, and yet no "
 "signals of those filthy creatures we have found."
 msgstr ""
+"Bu yol tamamen terkedilmiş - uzun zamandır yürüyoruz ve şu lanet "
+"yaratıklardan henüz bir iz yok."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_ilzeth.cfg:24
 msgid "Sssht, I think I just heard something."
-msgstr ""
+msgstr "Şıışşt, galiba birşeyler duydum."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_ilzeth.cfg:25
 msgid "Maybe I spoke too soon."
-msgstr ""
+msgstr "Galiba erken konuştum."
 
 #. [event]: (id=Mal Ilzeth
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_ilzeth.cfg:31
 msgid "Enemies of the great Emperor, your life has come to a dead end!"
-msgstr ""
+msgstr "Ulu Hükümdarın düşmanları, sonunuz geldi!"
 
 #. [event]: (id=Mal Ilzeth
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/encounter_ilzeth.cfg:32
@@ -15505,7 +15595,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/scenarios/23A_Interim.cfg:43
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/frozen_hell.cfg:14
 msgid "Lair of the Shadow Master"
-msgstr "Gölgelerin Efendisinin Sarayı"
+msgstr "Gölgelerin Hükümdarının Sarayı"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/23A_Interim.cfg:428
@@ -15516,14 +15606,13 @@ msgstr "Amaç:"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/frozen_hell.cfg:116
-#, fuzzy
 msgid "Find the Lair of the Shadow Master"
-msgstr "Gölgelerin Efendisinin sarayına gir"
+msgstr "Gölgelerin Hükümdarının sarayına gir"
 
 #. [event]: (id=Galas)}, (id=$side1_units_store[$i].id
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/frozen_hell.cfg:124
 msgid "Brrr... it is really cold here!"
-msgstr ""
+msgstr "Bırrr... burası gerçekten soğuk!"
 
 #. [event]: (id=Galas)}, (id=$side1_units_store[$i].id
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/frozen_hell.cfg:125
@@ -15548,7 +15637,7 @@ msgstr ""
 #. [event]: (id=Galas)}, (id=$side1_units_store[$i].id
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/frozen_hell.cfg:128
 msgid "How do you... know that?"
-msgstr ""
+msgstr "Bunu... nereden biliyorsun?"
 
 #. [event]: (id=Galas)}, (id=$side1_units_store[$i].id
 #: Invasion_from_the_Unknown/scenarios/22C_The_Backyard/frozen_hell.cfg:129
@@ -15650,18 +15739,17 @@ msgstr ""
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/23A_Interim.cfg:625
 msgid "Enter the Lair of the Shadow Master"
-msgstr "Gölgelerin Efendisinin sarayına gir"
+msgstr "Gölgelerin Hükümdarının Sarayına Gir"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23A_Interim.cfg:643
-#, fuzzy
 msgid "Welcome to my lair, foolish creatures."
-msgstr "Sarayıma hoş geldiniz, ahmaklar."
+msgstr "Sarayıma hoş geldiniz, ahmak yaratıklar."
 
 #. [message]
 #: Invasion_from_the_Unknown/scenarios/23A_Interim.cfg:668
 msgid "Shaxthal lifeforms"
-msgstr ""
+msgstr "Zebani yaşamformları"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23A_Interim.cfg:672
@@ -15723,7 +15811,7 @@ msgstr "Saraya Hoş Geldiniz"
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01.cfg:45
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:84
 msgid "Find the Shadow Master and put a definitive end to his evil empire"
-msgstr "Gölgelerin Efendisini bul ve imparatorluğuna son ver"
+msgstr "Gölgelerin Hükümdarını bul ve imparatorluğuna son ver"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:148
@@ -15744,7 +15832,6 @@ msgstr "Ses yok."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:181
-#, fuzzy
 msgid ""
 "Ek! The doors behind us have been replaced by a solid wall. We are trapped "
 "in this lair, probably so that he can play his game with us."
@@ -15770,7 +15857,7 @@ msgstr "Durum iyi görünmüyor."
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:204
 msgid "Log entry 1393 - Mal-Zagarn"
-msgstr ""
+msgstr "Günlük kaydı 1393 - Mal-Zagarn"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:205
@@ -15792,12 +15879,12 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:207
 msgid "I/O error reading log entry."
-msgstr ""
+msgstr "Günlük kaydı okunurken G/Ç hatası."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:208
 msgid "Log entry 1398 - Mal-Zagarn"
-msgstr ""
+msgstr "Günlük kaydı 1398 - Mal-Zagarn"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:209
@@ -15811,7 +15898,7 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:210
 msgid "Log entry 1399 - Mal-Zagarn"
-msgstr ""
+msgstr "Günlük kaydı 1399 - Mal-Zagarn"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair.cfg:211
@@ -15899,7 +15986,6 @@ msgstr "Şah... ne?"
 
 #. [event]: (type=Cockatrice)}
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:16
-#, fuzzy
 msgid ""
 "Bird-like reptilian creatures which are said to be able to turn anything "
 "into stone with a single gaze of their eyes. It is also said that they do "
@@ -15965,7 +16051,7 @@ msgstr ""
 #. [event]: (type=Chimera)}
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:46
 msgid "There is always a first time."
-msgstr ""
+msgstr "Herşeyin bir ilki vardır."
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:50
@@ -16013,13 +16099,13 @@ msgstr ""
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:93
 msgid "There is only one way to find out."
-msgstr ""
+msgstr "Bulmanın tek yolu var."
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/chimera_fight.cfg:96
 msgid ""
 "Find the Shadow Master and put a definitive end to his empire of evilness"
-msgstr "Gölgelerin Efendisini bul ve imparatorluğuna son ver"
+msgstr "Gölgelerin Hükümdarını bul ve şeytani imparatorluğuna son ver"
 
 #. [side]: type=Chimera, id=Chimera
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/enemies.cfg:28
@@ -16028,9 +16114,8 @@ msgstr "Çimera"
 
 #. [side]: type=Shadow Courier, id=El'tan
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/enemies.cfg:50
-#, fuzzy
 msgid "El'tan"
-msgstr "Eratan"
+msgstr "Eltan"
 
 #. [side]: type=Shaxthal Sentry Drone, id=Jaleh
 #: Invasion_from_the_Unknown/scenarios/23B_Welcome_to_the_Lair/enemies.cfg:75
@@ -16081,7 +16166,6 @@ msgstr "Denerim..."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/23C_Broken_Heart.cfg:296
-#, fuzzy
 msgid "Ah, nuts. This place is burning with lava!"
 msgstr "Yeter ama. Burayı lavlar doldurmuş!"
 
@@ -16474,7 +16558,7 @@ msgstr ""
 #. [event]: race=shaxthal
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:258
 msgid "As you command, Master."
-msgstr ""
+msgstr "Emredersiniz, Hükümdarım."
 
 #. [event]: race=shaxthal
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:261
@@ -16590,7 +16674,7 @@ msgstr ""
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:471
 msgid "As you command, my lady. Let's do it."
-msgstr ""
+msgstr "Emredersiniz, Hanımefendi. Yapalım."
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:473
@@ -16620,6 +16704,8 @@ msgid ""
 "No, you shall never defeat me! I'm invincible! I am far superior to the "
 "power of the Union!"
 msgstr ""
+"Hayır, beni yenemezsiniz! Ben yenilmezim! Uzun zamadır Birliğin gücünün bir "
+"parçasıyım!"
 
 #. [objectives]
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:485
@@ -16639,6 +16725,7 @@ msgid ""
 "Aaaah! The power... my power, is... it is destructing myself! You'll pay for "
 "this! Aaargh!"
 msgstr ""
+"Aaah! Güç.... gücüm... yıkımıma yol açıyor! Bunu ödeyeceksiniz! Aaaahhh!"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:1022
@@ -16651,28 +16738,28 @@ msgid ""
 "It seems that Argan's death has invalidated the power of the Union, and "
 "Elynia and Mal Keshar are back to normal."
 msgstr ""
+"Argan'ın ölümüyle Birliğin gücü ortadan kalkmış Elenya ve Mal Keşnar normale "
+"dönmüşlerdi."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/battle.cfg:1026
 msgid "The prophecy has just been broken."
-msgstr ""
+msgstr "Kehanet artık gerçekleşmeyecek."
 
 #. [side]: id=Yradella, type=Demon Zephyr
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/sides.cfg:147
-#, fuzzy
 msgid "Yradella"
-msgstr "Yerol"
+msgstr "Yaradella"
 
 #. [side]: id=Zarleth, type=Shadow Courier
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/sides.cfg:173
-#, fuzzy
 msgid "Zarleth"
-msgstr "Jalen"
+msgstr "Zarlet"
 
 #. [unit]: id=Enzal, type=Shaxthal Rayblade
 #: Invasion_from_the_Unknown/scenarios/arenas/23B_01/sides.cfg:204
 msgid "Enzal"
-msgstr ""
+msgstr "Enzal"
 
 #. [scenario]: id=08x_Interlude
 #: Invasion_from_the_Unknown/scenarios/cutscenes/08x.cfg:5
@@ -16877,7 +16964,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/cutscenes/08x.cfg:139
-#, fuzzy
 msgid ""
 "The merfolk led them to an isle in the ocean, Zocthanol, were they had their "
 "final fight against the fake goddess. It turned out to be 'Yechnagoth', the "
@@ -17929,6 +18015,10 @@ msgid ""
 "the Silent Forest. You might probably want to rest; your journey has been "
 "long, and more challenges await in your path."
 msgstr ""
+"Yarın ork kabilelerine elçiler göndereceğiz, o elçilerden biri sizin "
+"grubunuz olacak. Siz Sessiz Orman yakınındaki büyük ork kabilesi ile "
+"konuşmaya gideceksiniz. Uzun bir yoldan geldiniz ve yarın sizi bekleyen uzun "
+"bir yol var; herhalde dinlenmek istersiniz."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/cutscenes/14x_B.cfg:184
@@ -17979,7 +18069,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/cutscenes/16x.cfg:150
-#, fuzzy
 msgid ""
 "Now that we have the orcs by our side, I'd dare to say it is time to start "
 "the final war. Anyone against?"
@@ -18063,7 +18152,6 @@ msgstr "Plan"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/cutscenes/20x.cfg:89
-#, fuzzy
 msgid "Elynia! You look as beautiful as you did the last time I saw you."
 msgstr ""
 "Tekrar karşılaştık, Elenya. Son görüşmemizden beri daha da güzelleşmişsin."
@@ -18153,7 +18241,6 @@ msgstr "Bundan emindim."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/cutscenes/20x.cfg:102
-#, fuzzy
 msgid ""
 "You are a brave bunch, indeed. But it is more than courage, necromancy or a "
 "nice-worded plot what it takes to get there and strike effectively. You need "
@@ -18172,7 +18259,6 @@ msgstr "Yani, siz onları şaşırtacaksınız, öyle mi? Emin misiniz?"
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/cutscenes/20x.cfg:104
-#, fuzzy
 msgid ""
 "We already talked about this. We want to put an end to this era as much as "
 "you. And since we don't have the magic skills required to defeat the Dark "
@@ -18211,7 +18297,6 @@ msgstr ""
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/cutscenes/20x.cfg:108
-#, fuzzy
 msgid ""
 "You have protected me so well this far, and in exchange, I have protected "
 "you too. I think I cannot go back now, nor await outside without the lady's "
@@ -18219,7 +18304,7 @@ msgid ""
 msgstr ""
 "Bu kadar uzun süredir beni korudunuz, ben de karşılık olarak sizi "
 "koruyacağım. Bundan sonra ne geriye dönerim ne de dışarda beklerim. Ben de "
-"geliyorum."
+"sizle geliyorum."
 
 #. [event]
 #: Invasion_from_the_Unknown/scenarios/cutscenes/20x.cfg:109
@@ -18234,7 +18319,7 @@ msgstr "Beden ve Ruhun Istırabı"
 #. [event]: (id=Elynia) 21 21}, (id=Mal Keshar, (id=Galas) 22 19}, (id=Galas) 20 21}
 #: Invasion_from_the_Unknown/scenarios/cutscenes/23Bx.cfg:72
 msgid "Elynia... you betrayed... me..."
-msgstr ""
+msgstr "Elenya... bana ihanet... ettin..."
 
 #. [event]: (id=Elynia) 21 21}, (id=Mal Keshar, (id=Galas) 22 19}, (id=Galas) 20 21}
 #: Invasion_from_the_Unknown/scenarios/cutscenes/23Bx.cfg:73
@@ -18319,7 +18404,7 @@ msgstr ""
 #. [event]: (id=Elynia) 21 21}, (id=Mal Keshar, (id=Galas) 22 19}, (id=Galas) 20 21}
 #: Invasion_from_the_Unknown/scenarios/cutscenes/23Bx.cfg:94
 msgid "Elynia..."
-msgstr ""
+msgstr "Elenya..."
 
 #. [event]: (id=Elynia) 21 21}, (id=Mal Keshar, (id=Galas) 22 19}, (id=Galas) 20 21}
 #: Invasion_from_the_Unknown/scenarios/cutscenes/23Bx.cfg:96
@@ -18383,6 +18468,12 @@ msgid ""
 "by being cared for by a healer or refreshing at non-swamp water hexes at the "
 "start of your turn will your units regain full attack strength."
 msgstr ""
+"Gündüz süresince (Şafak, Sabah, Öğle, İkindi, Akşam) her elin başında "
+"kumluk, yol, kum tepesi, dağlar ve tepelerde bulunan her birim su kaybına "
+"uğrayacaktır. Su kaybı olan ellerde birimin saldırı hasarı düşecek ve yaşam "
+"enerjisi $dehydration_loss puan azalacaktır. Sadece bir tedavicinin yanında "
+"veya bataklık olmayan su altıgenlerinde bulunan birimler her elin başında "
+"tam saldırı gücüne kavuşacaktır."
 
 #. [set_menu_item]: id=wmi_dehydration_helptxt
 #: Invasion_from_the_Unknown/scenarios/dehydration/description.cfg:21
@@ -18391,32 +18482,30 @@ msgstr "Su kaybı"
 
 #. [then]
 #: Invasion_from_the_Unknown/scenarios/dehydration/hydration.cfg:35
-#, fuzzy
 msgid "female^refreshed"
-msgstr "Meftune"
+msgstr "serinledi"
 
 #. [else]
 #: Invasion_from_the_Unknown/scenarios/dehydration/hydration.cfg:38
 msgid "refreshed"
-msgstr ""
+msgstr "serinledi"
 
 #. [terrain]: id=overlay-campfire
 #: Invasion_from_the_Unknown/terrain-virtual.cfg:41
 msgid "Campfire"
-msgstr ""
+msgstr "Kamp Ateşi"
 
 #. [terrain]: id=overlay-gate-se
 #. [terrain]: id=overlay-gate-sw
 #: Invasion_from_the_Unknown/terrain-virtual.cfg:65
 #: Invasion_from_the_Unknown/terrain-virtual.cfg:74
 msgid "Gate"
-msgstr ""
+msgstr "Geçit"
 
 #. [terrain]: id=overlay-barrier
 #: Invasion_from_the_Unknown/terrain-virtual.cfg:83
-#, fuzzy
 msgid "Barrier"
-msgstr "Beyinemen"
+msgstr "Engel"
 
 #. [terrain]: id=tree_rowan
 #. [terrain]: id=tree_willow
@@ -18424,14 +18513,13 @@ msgstr "Beyinemen"
 #: Invasion_from_the_Unknown/terrain-virtual.cfg:101
 #: Invasion_from_the_Unknown/terrain-virtual.cfg:110
 #: Invasion_from_the_Unknown/terrain-virtual.cfg:119
-#, fuzzy
 msgid "Tree"
-msgstr "Gremle"
+msgstr "Ağaç"
 
 #. [terrain]: id=wasteland
 #: Invasion_from_the_Unknown/terrain.cfg:15
 msgid "Wasteland"
-msgstr ""
+msgstr "Bataklık"
 
 #. [race]: id=verlissh
 #: Invasion_from_the_Unknown/units/alien-verlissh.cfg:5
@@ -18665,9 +18753,8 @@ msgstr "İblis"
 
 #. [race]: id=demon
 #: Invasion_from_the_Unknown/units/demons-and-imps.cfg:15
-#, fuzzy
 msgid "race+female^Demoness"
-msgstr "İblis-Dişi"
+msgstr "İblise"
 
 #. [race]: id=demon
 #: Invasion_from_the_Unknown/units/demons-and-imps.cfg:16
@@ -18764,9 +18851,8 @@ msgstr ""
 
 #. [female]
 #: Invasion_from_the_Unknown/units/demons/Grunt.cfg:121
-#, fuzzy
 msgid "female^Demoness Grunt"
-msgstr "İblis Döğüşçü"
+msgstr "İblise Döğüşçü"
 
 #. [unit_type]: id=Demon, race=demon
 #: Invasion_from_the_Unknown/units/demons/Regular.cfg:5
@@ -18794,9 +18880,8 @@ msgstr ""
 
 #. [female]
 #: Invasion_from_the_Unknown/units/demons/Regular.cfg:110
-#, fuzzy
 msgid "female^Demoness"
-msgstr "İblis"
+msgstr "İblise"
 
 #. [unit_type]: id=Shadow Courier, race=demon
 #: Invasion_from_the_Unknown/units/demons/Shadow_Courier.cfg:5
@@ -18839,9 +18924,8 @@ msgstr ""
 
 #. [female]
 #: Invasion_from_the_Unknown/units/demons/Warrior.cfg:128
-#, fuzzy
 msgid "female^Demoness Warrior"
-msgstr "İblis Savaşçı"
+msgstr "İblise Savaşçı"
 
 #. [unit_type]: id=Demon Zephyr, race=demon
 #: Invasion_from_the_Unknown/units/demons/Zephyr.cfg:5
@@ -18863,9 +18947,8 @@ msgstr ""
 
 #. [female]
 #: Invasion_from_the_Unknown/units/demons/Zephyr.cfg:110
-#, fuzzy
 msgid "female^Demoness Zephyr"
-msgstr "İblis"
+msgstr "Kanatlı İblise"
 
 #. [unit_type]: id=Dwarvish Arcanister, race=dwarf
 #: Invasion_from_the_Unknown/units/dwarves/Arcanister.cfg:5
@@ -19034,9 +19117,8 @@ msgstr ""
 
 #. [unit_type]: id=Anlinde Elvish Ascetic, race=elf
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Ascetic.cfg:5
-#, fuzzy
 msgid "female^Elvish Ascetic"
-msgstr "Elf Avcı"
+msgstr "Elf Rahibe"
 
 #. [unit_type]: id=Anlinde Elvish Ascetic, race=elf
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Ascetic.cfg:26
@@ -19058,15 +19140,13 @@ msgstr ""
 #. [attack]: type=arcane
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Mystic.cfg:55
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Ascetic.cfg:55
-#, fuzzy
 msgid "ethereal zephyr"
-msgstr "uyutucu"
+msgstr "ruhani meltem"
 
 #. [unit_type]: id=Anlinde Elvish Avatar, race=elf
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Avatar.cfg:5
-#, fuzzy
 msgid "female^Elvish Avatar"
-msgstr "Elf Avcı"
+msgstr "Elf Ermiş"
 
 #. [unit_type]: id=Anlinde Elvish Avatar, race=elf
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Avatar.cfg:28
@@ -19087,9 +19167,8 @@ msgstr ""
 
 #. [attack]: type=impact
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Avatar.cfg:36
-#, fuzzy
 msgid "faerie touch"
-msgstr "soğuk dokunuş"
+msgstr "peri dokunuşu"
 
 #. [attack]: type=impact
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Avatar.cfg:49
@@ -19098,15 +19177,13 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Avatar.cfg:61
-#, fuzzy
 msgid "ethereal storm"
-msgstr "uyutucu"
+msgstr "ruhani esinti"
 
 #. [unit_type]: id=Anlinde Elvish Mystic, race=elf
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Mystic.cfg:5
-#, fuzzy
 msgid "female^Elvish Mystic"
-msgstr "Elf Avcı"
+msgstr "Elf Gizemci"
 
 #. [unit_type]: id=Anlinde Elvish Mystic, race=elf
 #: Invasion_from_the_Unknown/units/elves-wood/Anlinde_Mystic.cfg:25
@@ -19165,7 +19242,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/elves-wood/Prowler.cfg:53
 #: Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:48
 msgid "bolas"
-msgstr ""
+msgstr "bola"
 
 #. [female]
 #: Invasion_from_the_Unknown/units/elves-wood/Hunter.cfg:151
@@ -19354,7 +19431,7 @@ msgstr ""
 #. [unit_type]: id=Sylvan Faerie, race=fairy
 #: Invasion_from_the_Unknown/units/fairies/elynia/Sylvan_Faerie.cfg:6
 msgid "female^Sylvan Faerie"
-msgstr ""
+msgstr "Esin Perisi"
 
 #. [unit_type]: id=Sylvan Faerie, race=fairy
 #: Invasion_from_the_Unknown/units/fairies/elynia/Sylvan_Faerie.cfg:26
@@ -19367,11 +19444,11 @@ msgstr ""
 
 #: Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:8
 msgid "elynia_glamour+female^Falcon"
-msgstr ""
+msgstr "Şahin"
 
 #: Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:17
 msgid "It is as majestic as a falcon, yet not a falcon."
-msgstr ""
+msgstr "Tıpkı bir şahin gibi ama değil."
 
 #. [attack]: type,range=pierce,melee
 #. [attack]: type=blade
@@ -19384,11 +19461,11 @@ msgstr "gaga"
 
 #: Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:82
 msgid "elynia_glamour+female^Rabbit"
-msgstr ""
+msgstr "Tavşan"
 
 #: Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:91
 msgid "It may look like a mighty rabbit, but it isn't."
-msgstr ""
+msgstr "Tavşan gibi görünür ama değildir."
 
 #. [attack]: type,range=pierce,melee
 #. [attack]: type=pierce
@@ -19399,20 +19476,19 @@ msgstr "öndişler"
 
 #: Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:118
 msgid "elynia_glamour+female^Imp"
-msgstr ""
+msgstr "Cin"
 
 #: Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:126
-#, fuzzy
 msgid "It may look like a treacherous Imp, but it isn't."
-msgstr "Dişi bir Zebani gibi duruyor, değil mi?"
+msgstr "Tehlikeli bir Cin gibi duruyor, fakat değil."
 
 #: Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:171
 msgid "elynia_glamour+female^Tiger"
-msgstr ""
+msgstr "Kaplan"
 
 #: Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:180
 msgid "It may look like a Tiger, but it isn't."
-msgstr ""
+msgstr "Kaplan gibi görünür ama değildir."
 
 #: Invasion_from_the_Unknown/units/fairies/elynia/glamour-variations/_final.cfg:254
 msgid "elynia_glamour+female^Shaxthal Drone"
@@ -19837,9 +19913,8 @@ msgstr "Sihirbaz"
 
 #. [unit_type]: id=Chaos Bowman, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Bowman.cfg:5
-#, fuzzy
 msgid "Chaos Bowman"
-msgstr "Tatar Yaycı"
+msgstr "Kaos Yaycı"
 
 #. [unit_type]: id=Chaos Bowman, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Bowman.cfg:25
@@ -19859,9 +19934,8 @@ msgstr ""
 
 #. [attack]: type=blade
 #: Invasion_from_the_Unknown/units/humans/Chaos_Bowman.cfg:29
-#, fuzzy
 msgid "short sword"
-msgstr "uzun kılıç"
+msgstr "kısa kılıç"
 
 #. [attack]: type=pierce
 #: Invasion_from_the_Unknown/units/humans/Chaos_Longbowman.cfg:36
@@ -19891,22 +19965,19 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Chaos_Longbowman.cfg:27
 #: Invasion_from_the_Unknown/units/humans/Chaos_Cavalier.cfg:34
 #: Invasion_from_the_Unknown/units/humans/Chaos_Longbowman_Heavy.cfg:28
-#, fuzzy
 msgid "sword"
-msgstr "uzun kılıç"
+msgstr "kılıç"
 
 #. [attack]: type=pierce
 #: Invasion_from_the_Unknown/units/humans/Chaos_Cataphract.cfg:42
 #: Invasion_from_the_Unknown/units/humans/Chaos_Cavalier.cfg:43
-#, fuzzy
 msgid "crossbow"
 msgstr "Tatar Yaycı"
 
 #. [unit_type]: id=Chaos Cavalier, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Cavalier.cfg:5
-#, fuzzy
 msgid "Chaos Cavalier"
-msgstr "Saldırgan"
+msgstr "Kaos Süvari"
 
 #. [unit_type]: id=Chaos Cavalier, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Cavalier.cfg:21
@@ -19929,7 +20000,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/humans/Chaos_Crossbowman.cfg:5
 #: Invasion_from_the_Unknown/units/humans/Loyalist_Crossbowman.cfg:5
 msgid "Crossbowman"
-msgstr "Tatar Yaycı"
+msgstr "Kaos Tatar Yaycı"
 
 #. [unit_type]: id=Chaos Crossbowman, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Crossbowman.cfg:27
@@ -19946,14 +20017,13 @@ msgstr ""
 
 #. [unit_type]: id=Chaos Advanced Crossbowman, race=human, description=FIXME
 #: Invasion_from_the_Unknown/units/humans/Chaos_Crossbowman_Advanced.cfg:5
-#, fuzzy
 msgid "Advanced Crossbowman"
-msgstr "Tatar Yaycı"
+msgstr "Kaos Kıdemli Tatar Yaycı"
 
 #. [unit_type]: id=Dark Knight, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Dark_Knight.cfg:5
 msgid "Knight of Chaos"
-msgstr "Kara Şövalye"
+msgstr "Kaos Şövalye"
 
 #. [unit_type]: id=Dark Knight, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Dark_Knight.cfg:24
@@ -20102,14 +20172,13 @@ msgstr ""
 
 #. [unit_type]: id=Chaos Longbowman, race=human, description=FIXME
 #: Invasion_from_the_Unknown/units/humans/Chaos_Longbowman.cfg:5
-#, fuzzy
 msgid "Chaos Longbowman"
-msgstr "Tatar Yaycı"
+msgstr "Kaos Uzun Yaycı"
 
 #. [unit_type]: id=Chaos Heavy Longbowman, race=human, description=FIXME
 #: Invasion_from_the_Unknown/units/humans/Chaos_Longbowman_Heavy.cfg:5
 msgid "Heavy Longbowman"
-msgstr ""
+msgstr "Kaos Ağır Yaycı"
 
 #. [unit_type]: id=Chaos Marauder, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Marauder.cfg:5
@@ -20133,9 +20202,8 @@ msgstr ""
 
 #. [unit_type]: id=Chaos Raider, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Raider.cfg:5
-#, fuzzy
 msgid "Chaos Raider"
-msgstr "Saldırgan"
+msgstr "Kaos Akıncı"
 
 #. [unit_type]: id=Chaos Raider, race=human
 #: Invasion_from_the_Unknown/units/humans/Chaos_Raider.cfg:20
@@ -20470,7 +20538,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Invasion_from_the_Unknown/units/mechanical/Iron_Golem.cfg:52
 msgid "torpedo"
-msgstr ""
+msgstr "torpido"
 
 #. [unit_type]: id=Sentry Tower, race=mechanical
 #: Invasion_from_the_Unknown/units/mechanical/Sentry_Tower.cfg:5
@@ -20544,12 +20612,12 @@ msgstr ""
 #. [attack]: type=impact
 #: Invasion_from_the_Unknown/units/monsters/Bear.cfg:30
 msgid "bear-hug"
-msgstr ""
+msgstr "kucaklama"
 
 #. [unit_type]: id=Chimera, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Chimera.cfg:5
 msgid "Chimera"
-msgstr ""
+msgstr "Canavar"
 
 #. [unit_type]: id=Chimera, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Chimera.cfg:19
@@ -20663,7 +20731,7 @@ msgstr ""
 #. [unit_type]: id=Chaos Hound, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Hound_Chaos.cfg:5
 msgid "Hound of Chaos"
-msgstr ""
+msgstr "Kaos Tazısı"
 
 #. [unit_type]: id=Chaos Hound, race=monster
 #: Invasion_from_the_Unknown/units/monsters/Hound_Chaos.cfg:19
@@ -21409,7 +21477,7 @@ msgstr ""
 #. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Rayblade.cfg:6
 msgid "Rayblade"
-msgstr ""
+msgstr "Işın Kılıcı"
 
 #. [unit_type]: id=Shaxthal Rayblade, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Rayblade.cfg:20
@@ -21425,7 +21493,7 @@ msgstr ""
 #. [attack]: type=blade
 #: Invasion_from_the_Unknown/units/shaxthal/Rayblade.cfg:28
 msgid "weapon^rayblade"
-msgstr ""
+msgstr "ışın kılıcı"
 
 #. [unit_type]: id=Shaxthal Razorbird, race=shaxthal
 #: Invasion_from_the_Unknown/units/shaxthal/Razorbird.cfg:5
@@ -21512,6 +21580,9 @@ msgid ""
 "that they can only be, either summoned by magi, or protecting a great secret "
 "of nature."
 msgstr ""
+"Doğal ruhlara dünyevi alemde nadiren rastlanır. Doğanın büyük bir gizemini "
+"korumak için veya büyücüler tarafından çağrıldıkları için etrafta "
+"dolaştıkları söylenir."
 
 #. [unit_type]: id=Fire Spirit, race=spirit
 #: Invasion_from_the_Unknown/units/spirits/Fire_Spirit.cfg:5
@@ -21525,6 +21596,10 @@ msgid ""
 "they come from, but they seem to be a common threat in the darkest unknown "
 "depths of world. They might be the Fire itself, incarnate, or part of it."
 msgstr ""
+"Ateş Ruhları ateş ve dumandan oluşurlar. Nereden geldiklerini kimse bilmez "
+"fakat toprağın derinliklerinin bilinmeyen karanlığında büyük bir tehdit "
+"olarak görünürler. Ateşin kendisi, parçası veya ateşten yaratılmış "
+"olabilirler."
 
 #. [attack]: type=fire
 #: Invasion_from_the_Unknown/units/spirits/Fire_Spirit.cfg:25
@@ -21543,6 +21618,10 @@ msgid ""
 "and take great delight in burning anything they can reach. They should not "
 "be a great challenge to unexperienced fighters, except when found in swarms."
 msgstr ""
+"Ateş Topları minik ateş ruhlarıLav havuzlarında eğlenmeyi severler ve "
+"bulabildikleri her şeyi yakmaktan büyük zevk alırlar. Sürü halinde "
+"ohmadıkları sürece deneyimsiz döğüşçülere karşı bile büyük bir tehdit "
+"oluşturmazlar."
 
 #. [attack]: type=fire
 #: Invasion_from_the_Unknown/units/spirits/Fire_Wisp.cfg:24
@@ -21561,6 +21640,10 @@ msgid ""
 "They have a weak attack, but are incredibly hard to destroy. It is rumored "
 "that these magical constructs can only be summoned by powerful magi."
 msgstr ""
+"Yürüyen Kayalar canlı sert taştan yapılmış yavaş yaratıklardan başka bir şey "
+"değildir. Saldırıları etkisizdir ama yok edilmeleri inanılmaz zordur. Bu "
+"sihirli oluşumların sadece güçlü büyücüler tarafından bu hale "
+"getirilebilecekleri söylenir."
 
 #. [unit_type]: id=Rock Golem, race=spirit
 #: Invasion_from_the_Unknown/units/spirits/Rock_Golem.cfg:5
@@ -21573,6 +21656,8 @@ msgid ""
 "Rock Golems are giant, slow, and heavy creatures made out of solid, living "
 "rock. Their fists can crush any skeleton in matter of seconds."
 msgstr ""
+"Kaya Canavarları canlı sert taştan yapılmış iri, yavaş ve ağır yaratıklardır."
+"Yumrukları bir iskeleti anında toza çevirir."
 
 #. [unit_type]: id=Water Spirit, race=spirit
 #: Invasion_from_the_Unknown/units/spirits/Water_Spirit.cfg:5
@@ -21592,7 +21677,7 @@ msgstr ""
 #: Invasion_from_the_Unknown/units/spirits/Water_Tidal.cfg:25
 #: Invasion_from_the_Unknown/units/spirits/Water_Spirit.cfg:26
 msgid "water punch"
-msgstr ""
+msgstr "su darbesi"
 
 #. [unit_type]: id=Water Tidal, race=spirit
 #: Invasion_from_the_Unknown/units/spirits/Water_Tidal.cfg:5
@@ -21644,17 +21729,17 @@ msgstr ""
 #. [race]: id=elvish_spirits
 #: Invasion_from_the_Unknown/units/undead.cfg:5
 msgid "race^Elvish Spirit"
-msgstr "Elf Perisi"
+msgstr "Elf Hayaleti"
 
 #. [race]: id=elvish_spirits
 #: Invasion_from_the_Unknown/units/undead.cfg:6
 msgid "race+female^Elvish Spirit"
-msgstr "Elf Perisi-Dişi"
+msgstr "Elf Hayaleti - Dişi"
 
 #. [race]: id=elvish_spirits
 #: Invasion_from_the_Unknown/units/undead.cfg:7
 msgid "race^Elvish Spirits"
-msgstr "Elf Perileri"
+msgstr "Elf Hayaletleri"
 
 #. [race]: id=elvish_spirits
 #: Invasion_from_the_Unknown/units/undead.cfg:10
@@ -21783,6 +21868,9 @@ msgid ""
 "skeletal horses were raised from the ground by unholy magic to spread fear "
 "and destruction."
 msgstr ""
+"Bir zamanların ovaları yıldırım gibi geçen büyük savaşçıları olan bu "
+"biniciler iskelet atlarıyla birlikte uğursuz bir büyüyle korku ve ölüm "
+"saçmak üzere mezarlarından kaldırılmışlardır."
 
 #. [attack]: type=impact
 #: Invasion_from_the_Unknown/units/undead/Skeleton_Knight.cfg:44
@@ -21801,856 +21889,6 @@ msgid ""
 "their skeletal horses were raised from the grave by unholy magic to spread "
 "fear and destruction."
 msgstr ""
-
-#~ msgid "Translations"
-#~ msgstr "Çeviriler"
-
-#~ msgid "(from WesCamp-i18n)"
-#~ msgstr "(WesCamp-i18n’den)"
-
-#~ msgid "French translation:"
-#~ msgstr "Fransızca çeviri:"
-
-#~ msgid "Italian translation:"
-#~ msgstr "İtalyanca çeviri:"
-
-#~ msgid "Spanish translation:"
-#~ msgstr "İspanyolca Çeviri:"
-
-#~ msgid "Turkish translation:"
-#~ msgstr "Türkçe Çeviri:"
-
-#~ msgid "Strength: melee strikes +1 <Max XP +30%>"
-#~ msgstr "Güçlülük: yakın hasar +1, <Azm TP +%30>"
-
-#~ msgid "Hard Hat Area"
-#~ msgstr "Sıkı Palavra Alanı"
-
-#~ msgid ""
-#~ "Instead of the always busy dwarven city we had seen before, now we had "
-#~ "ruins with blood spilled on them. Signs of a battle were everywhere. They "
-#~ "had arrived."
-#~ msgstr ""
-#~ "Kalabalık ve gürültü yerine kana bulanmış harabelerle karşılaştık. Her "
-#~ "yerde kanlı bir savaşın izleri vardı. Onlar gelmişti."
-
-#~ msgid ""
-#~ "Anlindë is an Ancient Elvish Sorceress. Unlike her regular counterparts, "
-#~ "she has the healing ability, which heals adjacent allies 8 HP per turn, "
-#~ "at minimum. She can also cure them from poison. Keep in mind that she is "
-#~ "the only sorceress with these abilities."
-#~ msgstr ""
-#~ "Analya yaşlı bir Elf Büyücüsüdür. Sıradan meslektaşlarının aksine yanında "
-#~ "bulunan birimlerin her el 8 YP’ye kadar tedavi olmalarını sağlayabilir "
-#~ "veya zehirlerini giderebilir. Onu sırf bir büyücü olarak değil, bu "
-#~ "yetenekleriyle de değerlendirin."
-
-#~ msgid ""
-#~ "This wall is door-shaped, but it seems to be locked. We must find a way "
-#~ "to unlock it."
-#~ msgstr ""
-#~ "Bu duvar kapı şeklinde, ama kilitli görünüyor. Açmanın yolunu bulmalıyız."
-
-#~ msgid ""
-#~ "Hidden touchplate triggered. $thelibrary_secretcaveways.length walls move."
-#~ msgstr ""
-#~ "Gizli bir mekanizma tetiklendi. $thelibrary_secretcaveways.length duvar "
-#~ "hareket ediyor."
-
-#~ msgid "And stronger than my undead minions."
-#~ msgstr "Ve benim yarıölü dalkavuklarımdan da daha güçlüdür."
-
-#~ msgid "I should've known that!"
-#~ msgstr "Bunu bilmeliydim!"
-
-#~ msgid "I feel... a strange presence..."
-#~ msgstr "Hissediyorum... tuhaf bir varlık hissediyorum..."
-
-#~ msgid "A demon?"
-#~ msgstr "Bir iblis olmasın?"
-
-#~ msgid "No. It's something good... it's the presence of light..."
-#~ msgstr "Hayır. İyi bir şey... ışığın varlığı..."
-
-#~ msgid ""
-#~ "It ought to be the source of Light my master spoke me of. We must be "
-#~ "approaching it."
-#~ msgstr ""
-#~ "Ustamın bana bahsettiği Işık kaynağı olmalı. Ona yaklaşmış olmalıyız."
-
-#~ msgid ""
-#~ "Find the 'Source of Light'. She must be sleeping somewhere in these caves."
-#~ msgstr "‘Işık Kaynağı’nı bul. Bu mağaranın bir yerlerinde uyuyor olmalı."
-
-#~ msgid ""
-#~ "We must try and defeat them here, once for all, and secure the place."
-#~ msgstr "Burayı onlardan temizleyip güvenli bir yer haline getirmeliyiz. "
-
-#~ msgid "Master... I have... failed... *falls lifeless to the ground*"
-#~ msgstr "Efendim... Başaramadım... *cansız olarak yere düşer*"
-
-#~ msgid "There we go!"
-#~ msgstr "Oraya gidiyoruz!"
-
-#~ msgid ""
-#~ "Elves? Impossible, you must be dead by now! Prove that you are true elves!"
-#~ msgstr ""
-#~ "Elfler mi? İmkansız, siz olmüş olmalıydınız! Gerçekten Elfsen bunu "
-#~ "kanıtla!"
-
-#~ msgid "W..."
-#~ msgstr "Bi.."
-
-#~ msgid ""
-#~ "Elves? But how... how did you find this place... I must be still asleep."
-#~ msgstr ""
-#~ "Elfler mi? Fakat nasıl... burayı nasıl buldunuz... Benim uyumam lazım."
-
-#~ msgid "Necromancer, prepare to die... again!!!"
-#~ msgstr "Nekromatik, ölmeye hazır ol... tekrar!!!"
-
-#~ msgid "Gee, thanks, but you have not told me who you are yet."
-#~ msgstr "Teşekkürler, fakat henüz kim olduğunuzu söylemediniz."
-
-#~ msgid "How come? You should be gone now, foul abomination..."
-#~ msgstr "Bu buraya nasıl geldi? Hemen buradan gitmelisin, pis mahluk..."
-
-#~ msgid ""
-#~ "That part of history was forbidden to tell of for centuries, but I guess "
-#~ "in the current circumstances we could make an exception. I can feel... I "
-#~ "can feel your suffering for what has happened."
-#~ msgstr ""
-#~ "Tarihin bu kısmının anlatılması yüzyıllardır yasaktı, fakat mevcut "
-#~ "durumda bir istisna yapabiliriz. Hissedebiliyorum... Istırabınıza yol "
-#~ "açanın ne olduğunu hissedebiliyorum."
-
-#~ msgid "Me too, sort of."
-#~ msgstr "Ben de, oldukça."
-
-#~ msgid ""
-#~ "Your soul is corrupted, but you seek redemption, I feel it. I can make an "
-#~ "exception with you too, Malin the Damned."
-#~ msgstr ""
-#~ "Ruhunuz yokolmuş ama kurtarılma peşindesiniz, bunu hissediyorum. Sizin "
-#~ "için de bir istisna yapabilirim, Lanetli Malin."
-
-#~ msgid "Oh, in such case perhaps you did not want me to restore your body..."
-#~ msgstr ""
-#~ "Oh, böyle bir durumda belki de bedeninizi eski haline getirmemi "
-#~ "istemezdiniz..."
-
-#~ msgid ""
-#~ "I am not completely sure, but I think they come from the underworld, "
-#~ "exactly where Yanqui came from. And you can call me Elynia, by the way. "
-#~ "You have always confused me with being a goddess, but I am afraid I am as "
-#~ "mortal and vulnerable as any of you."
-#~ msgstr ""
-#~ "Tamamen emin değilim, fakat yeraltından geldiklerini düşünüyorum. Daha "
-#~ "doğrusu Yanki oradan geldi. Bana Elenya diyebilirsin, beni hep bir "
-#~ "tanrıça gibi görerek beni şaşırttınız. Fakat ben de sizin gibi bir "
-#~ "ölümlüyüm ve sizler gibi yaralanabilirim."
-
-#~ msgid ""
-#~ "Now I am afraid too that the time to tell the story of the demon lord "
-#~ "Yanqui has come. Anlindë might have told you little, vague references to "
-#~ "it, but you need to know what you are facing. It is not as simple as it "
-#~ "seems."
-#~ msgstr ""
-#~ "Korkarım, iblis lordu Yanki’nin geliş hikayesini anlatmanın zamanı geldi. "
-#~ "Analya, Yanki’ye belli belirsiz atıflar yaparak sana birşeyler anlatmış "
-#~ "olabilir, fakat senin yüzleşeceğin şeyi iyi bilmen gerekiyor. Bu "
-#~ "göründüğü kadar basit değil."
-
-#~ msgid ""
-#~ "The third sun, Gaia, was to be sent to the skies. But the magi had not "
-#~ "worried about learning magic as much as they had before the creation of "
-#~ "Naia, since the evilness that forced them to learn magic millenia ago, "
-#~ "was seemingly gone. The king of Wesnoth decreed the creation of Gaia, "
-#~ "nevertheless, not following my advice. Yes, I was there, and to my "
-#~ "heart's pain, I witnessed all that happened that fateful day."
-#~ msgstr ""
-#~ "Üçüncü güneş Gaya göğe gönderilmişti. Fakat büyücüleri bin yıl önce "
-#~ "kötülüğün zorlamasıyla Naya’yı oluşturacak bilgiyi öğrenmeye iten "
-#~ "nedenler ortadan kalktığı için Gaya’yı parlatacak büyücü bulunamadı. "
-#~ "Wesnoth kralı benim önerimi dinlemeyerek Gaya’nın oluşturulmasını "
-#~ "emretti. Evet, ben oradaydım ve duyduğum acıya rağmen o kader gününde "
-#~ "olanların hepsine tanıklık ettim."
-
-#~ msgid ""
-#~ "The humans struggled to survive, but they killed the king, the magi, and "
-#~ "their families for the chaos they had caused. A chaos that caused "
-#~ "horrible wars amongst Elves, Dwarves, Orcs and Trolls, altogether. Naia "
-#~ "and Sela, the remaining monuments to the human's empire, their greed, "
-#~ "arrogancy and hubris, scorched all known lands, drying up rivers, fields, "
-#~ "forests and lakes. But with the power given by Yanqui, Wesmere Forest "
-#~ "stood intact, still peaceful and green. However, Yanqui declared all "
-#~ "foreign elves heretics that did not deserve to live."
-#~ msgstr ""
-#~ "İnsanlar can havliyle dayandılar, fakat kaosa sebep olan kralı, "
-#~ "büyücüleri ve ailelerini öldürdüler. Elfler, Cüceler, Orklar ve Trollerin "
-#~ "aralarında korkunç savaşlara sebep olan bir kaos. Naya ve Sela, insan "
-#~ "imparatorluğunun açgözlülük, kibir ve gurur anıtları, nehirleri, "
-#~ "ormanları ve gölleri kurutarak bildiğimiz tüm toprakları yakıp kavurdu. "
-#~ "Fakat Yanki’nin gücü Vesmer ormanının değişmeden, barış içinde ve yeşil "
-#~ "olarak kalmasını sağladı. Bununla beraber, Yanki tüm yabancı elfleri "
-#~ "yaşamaya hakları olmayan günahkarlar olarak ilan etti."
-
-#~ msgid ""
-#~ "Finally we managed to tear apart his body, and seal all parts, and send "
-#~ "them back to the underworld, destroying immediately the portal that was "
-#~ "opened from Wesmere to the underworld."
-#~ msgstr ""
-#~ "Sonunda, gövdesini parçalara ayırıp parçaları birleşmeyecek şekilde "
-#~ "paketleyip geriye yeraltına gönderdik. Hemen ardından, Vesmer’den "
-#~ "yeraltına açılan geçidi kapattık."
-
-#~ msgid ""
-#~ "The victory had its price, however. The battlefield, Wesmere, was a "
-#~ "wreck, and no life was left there, except for a few survivors, less than "
-#~ "one hundred elves. The Wesmere elves surrended and begged for "
-#~ "forgiveness, and told us the whole story. We let them live, except for "
-#~ "the priests, which we had to execute and burn, until reducing their "
-#~ "bodies to nothing but dust. We could not risk the possibility of them "
-#~ "opening a portal again and summoning Yanqui a second time. Nor the "
-#~ "possibility of future generations starting the same war once again, which "
-#~ "would extermine us definitively in the new harsh world. So we also had to "
-#~ "forbid telling the story, executing anyone who would dare to tell it."
-#~ msgstr ""
-#~ "Zaferin bir bedeli vardı, elbet. Savaş alanı Vesmer, harabeye döndü ve "
-#~ "yüz civarında elf dışında orada yaşayan kalmadı. Vesmer elfleri teslim "
-#~ "oldu ve affedilmelerini dilediler. Bize bütün hikayeyi anlattılar. "
-#~ "İşbirlikçi rahipler hariç yaşamalarına izin verdik. İşbirlikçi rahipleri "
-#~ "öldürüp cesetleri kül haline gelene kadar yaktık. Ne geçidi tekrar açıp "
-#~ "Yanki’yi ikinci kez serbest bırakmaları riskini ne de gelecek kuşakların "
-#~ "aynı savaşı tekrar başlatma riskini göze alabilirdik. Bu nedenle, bunlara "
-#~ "ek olarak bu hikayenin anlatılmasını yasaklamaktan başka, anlatmaya cüret "
-#~ "edenleri de öldürdük."
-
-#~ msgid ""
-#~ "I was a priestess to Yanqui, but not willing. I was forced by him, he "
-#~ "would have killed my family otherwise. I regreted my decission when I saw "
-#~ "him killing them from the skies, as I realized that worshiping him could "
-#~ "not save my family from a horrible death."
-#~ msgstr ""
-#~ "Ben Yanki’ye bağlıydım ama bunu isteyerek yapmadım. Beni ailemi "
-#~ "öldürmekle tehdit ederek buna zorladı. Onu havada öldürülürken görünce, "
-#~ "ona ibadet etmenin ailemi korkunç bir ölümden kurtaramayacağını anlayıp "
-#~ "fikrimi değiştirdim. "
-
-#~ msgid ""
-#~ "However, one day, Argan disappeared. I could not feel his presence any "
-#~ "longer, and I waited for years, and years, until I fell asleep, fell "
-#~ "after the powers of Darkness which were evil for me without the Union "
-#~ "with Argan. Meanwhile, most of my powers have diminished, because of lack "
-#~ "of practice and use. I am not sure I can help you in this fight at all."
-#~ msgstr ""
-#~ "Bununla birlikte, bir gün Argan ortadan kayboldu. Bir daha varlığını "
-#~ "hissedemedim. Yıllarca bekledikten sonra Argan’la birlik olmaksızın "
-#~ "Karanlık güçlerinin bana kötülük yapacaklarını düşünerek uykuya yenik "
-#~ "düştüm. Uyuduğum süre zarfında idmansızlıktan güçlerimin çoğu zayıfladı. "
-#~ "Bu nedenle bu savaşta size yardımım dokunabileceğinden emin değilim."
-
-#~ msgid ""
-#~ "I do not think we shall find him. It is like... like if the earth itself "
-#~ "swallowed him."
-#~ msgstr ""
-#~ "Onu bulabileceğimizi sanmıyorum. Sanki... sanki toprak onu yutmuş gibi."
-
-#~ msgid "We must defeat them! They will pay if our king was assassined..."
-#~ msgstr ""
-#~ "Onları yenmeliyiz! eğer kralımız suikaste uğramışsa bunun bedelini "
-#~ "öderler..."
-
-#~ msgid ""
-#~ "Indeed. Also, you now have me by your side; there are no real reasons for "
-#~ "declaring the battle lost before fighting."
-#~ msgstr ""
-#~ "Elbette. Ayrıca, artık ben de sizinleyim; bu bakımdan, savaş başlamadan "
-#~ "teslim bayrağını çekmenin alemi yok."
-
-#~ msgid ""
-#~ "Indeed. I would suggest defending ourselves with corpse barriers, that "
-#~ "would delay their attack waves enough to let the best fighters and "
-#~ "archers do their duty with safety."
-#~ msgstr ""
-#~ "Elbette. Önerim, kendimizi yürüyen cesetlerden oluşan bir cephe "
-#~ "oluşturarak korumak olurdu. Saldırı dalgalarını onlar emerek geciktirir "
-#~ "böylece savaşçılar ve okçular görevlerini daha iyi yerine getirebilirler."
-
-#~ msgid "That is exactly what the Inferno technically would be."
-#~ msgstr "Bu kaynak teknik olarak kesinlikle Cehennem olurdu."
-
-#~ msgid "Huh? Strange, the loyalists are retreating."
-#~ msgstr "Vay canına... Tuhaf şey, kralcılar geri çekiliyor."
-
-#~ msgid ""
-#~ "That's quite right. They did the same with our home valley. But in any "
-#~ "case, if what you say is true, there are humans who still oppose them in "
-#~ "the northlands, right?"
-#~ msgstr ""
-#~ "Bu çok doğru. Aynısını bizim vadide de yaptılar. Fakat her halükarda, "
-#~ "eğer dediğiniz doğruysa, kuzey ülkelerinde hala onlara rakip insanlar "
-#~ "var, değil mi?"
-
-#~ msgid ""
-#~ "That is true, but think for a moment. Dwarves and Elves here, are allied "
-#~ "for a single cause. If that is possible now, why not humans too? Times "
-#~ "have changed, and so have our priorities. We shall never have peace, or "
-#~ "time for our own wars, if this menace is not stopped soon."
-#~ msgstr ""
-#~ "Bu doğru, fakat bir an için düşünelim. Cüceler ve Elfler burada, tek bir "
-#~ "amaç için müttefikler. Bu mümkün oluyorsa insanlarla da neden olmasın? "
-#~ "Zaman değişti ve bizim önceliklerimiz de. Bu tehdit bir an önce ortadan "
-#~ "kalkmadıkça asla barışı ve huzuru bulamayacağız."
-
-#~ msgid "Rearguard"
-#~ msgstr "Arka Kapı Muhafızı"
-
-#~ msgid "Do you trust the words of the speaking skeletal thing now?"
-#~ msgstr "Şimdi kemik torbasının söylediğine inandın mı?"
-
-#~ msgid ""
-#~ "Oh, no! What kind of plague infests this place, that makes you want to "
-#~ "call me 'thing'?!"
-#~ msgstr ""
-#~ "Oh, hayır! Sizi benden ‘kemik torbası’ diye bahsetmeye iten nasıl bir "
-#~ "beladır?"
-
-#~ msgid "There they are!"
-#~ msgstr "Oradalar!"
-
-#~ msgid "I hope we made it in time..."
-#~ msgstr "Galiba tam zamanında çıktık..."
-
-#~ msgid ""
-#~ "As dawn broke, the party encountered a nice surprise near their camp."
-#~ msgstr ""
-#~ "Şafak sökerken, ekip kamplarının yakınında hoş bir sürprizle karşılaştı."
-
-#~ msgid "hydrated"
-#~ msgstr "serinledi"
-
-#~ msgid "female^hydrated"
-#~ msgstr "serinledi"
-
-#~ msgid ""
-#~ "Units which are located on most terrain types during the beginning of "
-#~ "their side's turn will receive $dehydra.turn_damage points of damage; an "
-#~ "adjacent healer of the same allegiance may prevent the damage caused by "
-#~ "dehydration, however.\n"
-#~ " \n"
-#~ "On the other hand, units which are located on water or oasis tiles will "
-#~ "be hydrated, and their hitpoints are afterwards increased by $dehydra."
-#~ "turn_heal or the greatest amount that can be provided by an adjacent "
-#~ "friendly healer, whichever is the greatest.\n"
-#~ " \n"
-#~ "Units on grass, savanna, villages, keeps or castles are neither hydrated "
-#~ "or dehydrated. Units cannot die or drop below $dehydra.minimum_HP merely "
-#~ "by dehydration."
-#~ msgstr ""
-#~ "Çölde bulunana birimler bir çok arazi türü üzerinde her elin başında su "
-#~ "kaybından dolayı $dehydra.turn_damage birim hasar alacaklardır. Bununla "
-#~ "birlikte bir tedaviciye komşu altıgenlerde bulunan birimlerin böyle bir "
-#~ "kaybı olmayacaktır.\n"
-#~ "\n"
-#~ " Suda ve vahada bulunan birimlerin kaybettikleri su dolayısıyla yaşam "
-#~ "enerjileri her el $dehydra.turn_heal puanlık tazelenecektir. Eğer "
-#~ "yanlarında bir tedavici varsa bu miktar daha yüksek olabilir.\n"
-#~ "\n"
-#~ "Çimen, bataklık, köy ve kalelerde bulunan birimler ne su kaybına "
-#~ "uğrayacak ne de tedavi edilecektir. Birimlerin yaşam enerjileri su "
-#~ "kaybından dolayı $dehydra.minimum_HP puanın altına inmeyeceği gibi "
-#~ "birimler su kaybı sebebiyle ölmeyecektir."
-
-#, fuzzy
-#~ msgid "Village"
-#~ msgstr "Zilla"
-
-#~ msgid "Dread Bat"
-#~ msgstr "Dev Yarasa"
-
-#~ msgid "Elvish Protector"
-#~ msgstr "Elf Mızrakçı"
-
-#~ msgid "City Guard"
-#~ msgstr "Hafif Muhafız"
-
-#~ msgid "Larva"
-#~ msgstr "Larva"
-
-#~ msgid "Wose Shaman"
-#~ msgstr "Ağaç Şaman"
-
-#~ msgid "WML Programming and Assistance"
-#~ msgstr "WML Programlama ve Yardım"
-
-#~ msgid "Kri'tan"
-#~ msgstr "Kritan"
-
-#~ msgid ""
-#~ "We would learn afterwards that no physical barrier is strong enough to "
-#~ "stop an individual's will for much time."
-#~ msgstr ""
-#~ "Çok geçmeden bireysel sızmaları uzun uzadıya engelleyecek yeterince güçlü "
-#~ "bir fiziksel engelin olmadığını öğrendik."
-
-#~ msgid ""
-#~ "Sometimes you must protect your beloved ones from themselves, doing "
-#~ "things that you would never do in other circumstances."
-#~ msgstr ""
-#~ "Bazan, başka bir durumda asla yapmayacağınız şeyleri sevdikleriniz söz "
-#~ "konusu olduğunda gözünüzü kırpmadan yaparsınız."
-
-#~ msgid ""
-#~ "I hope that the sacrifice which was done today is never needed to be done "
-#~ "again..."
-#~ msgstr ""
-#~ "Umarım, bugün yapılan fedakarlığın bir daha asla yapılması gerekmez..."
-
-#~ msgid ""
-#~ "Move Galas, Elynia, Mal Keshar or Erathan into the dark keep (area where "
-#~ "the objective marker is located in)"
-#~ msgstr ""
-#~ "Galas, Elenya, Mal Keşnar veya Eratan’ı kara kaleye (işaretli yere) götür"
-
-#~ msgid "Defeat all enemy leaders... if you can"
-#~ msgstr "Yapabilirsen, tüm düşman liderlerini yen"
-
-#~ msgid "Uh, oh. This is..."
-#~ msgstr "Ama, bu..."
-
-#~ msgid "Graphics from Era of Myths"
-#~ msgstr "Mitler Çağından resimler"
-
-#~ msgid "Graphics from Under the Burning Suns"
-#~ msgstr "Kızgın Güneşler Altında seferberliğinden resimler"
-
-#~ msgid "Graphics from the Spacenoth project"
-#~ msgstr "Spacenoth projesinden resimler"
-
-#~ msgid "Sound effects from Flight to Freedom"
-#~ msgstr "Özgürlüğe Kaçış seferberliğinden ses efektleri"
-
-#~ msgid "Sound effects from the Spacenoth project"
-#~ msgstr "Spacenoth projesinden ses efektleri"
-
-#~ msgid "Do you want this unit to pick up the armor?"
-#~ msgstr "Bu birimin zırh kuşanmasını ister misiniz?"
-
-#~ msgid ""
-#~ "This would have some consequences that we did not think of before going "
-#~ "down into the caves. The heart of earth was being invaded by our sole "
-#~ "voices echoing in the rocky and cold walls. We were disturbing nature "
-#~ "itself. We were intruders to be stopped, just like the demons."
-#~ msgstr ""
-#~ "Bu, mağara dışındayken düşündüğümüz sonuçlardan biriydi. Arzın merkezi "
-#~ "sarkıt ve dikitlerden yansıyarak yankılanan seslerimizle işgal edilmiş "
-#~ "gibiydi. Doğayı rahatsız etmiştik. Biz, tıpkı şeytanlar gibi durdurulması "
-#~ "gereken davetsiz konuklardık."
-
-#~ msgid ""
-#~ "When dawn broke, we immediately prepared for our journey in orcish "
-#~ "territory. Leaving our men behind, we headed towards the wildlands..."
-#~ msgstr ""
-#~ "Gün ağarırken, ork topraklarındaki yolculuğumuz için hazırdım. "
-#~ "Askerlerimizi bırakıp vahşi topraklara doğru yola çıktık..."
-
-#~ msgid ""
-#~ "We found our men searching for us when we arrived to a town nearby, close "
-#~ "to Raelthyn. They stated that the Council ordered them to go to the "
-#~ "western frontier as soon as possible to check whether the rumors of an "
-#~ "invasion were true. It is fortunate that we arrived in time before they "
-#~ "would try to defend the country on their own."
-#~ msgstr ""
-#~ "Raveltin’e yaklaşırken bir kasabanın yakınında adamlarımızı bizi ararken "
-#~ "bulduk. Konsey bir istila söylentisinin doğru olup olmadığına bakmaları "
-#~ "için mümkün olduğu kadar çabuk batı sınırına gitmelerini emretmişti. "
-#~ "Ülkeyi savunmaya kalkışmadan önce varmamız bir şanstı."
-
-#~ msgid ""
-#~ "Young Galas, I understand your worries. However, since your skills as a "
-#~ "leader are still doubtfully proper, today it's your opportunity to learn "
-#~ "a valuable lesson that has saved our lives across millenia: you ought not "
-#~ "to surrend before fighting a last battle."
-#~ msgstr ""
-#~ "Genç Galas, endişelerini anlayabiliyorum. Bununla birlikte bir lider "
-#~ "olarak yeteneklerin hala tam bir olgunluğa erişmemiş. Bu bin yılın "
-#~ "başında hayatlarımızı kurtaran değerli bir dersi öğrenmenin zamanıdır: "
-#~ "Son savaş yapılmadan teslim olmamalısın."
-
-#~ msgid "Alright, then."
-#~ msgstr "Tamam, o zaman."
-
-#~ msgid "I'm not really sure we'll resist their siege for much time."
-#~ msgstr "Bu kuşatmaya uzun süre dayanabileceğimizi sanmıyorum."
-
-#~ msgid ""
-#~ "This seems to indicate that there is still a properly organized human "
-#~ "civilization on this continent. I wonder why they never stumbled upon our "
-#~ "valley before, or why they had no need of its life reservoir."
-#~ msgstr ""
-#~ "Bu kıtada hala düzgün örgütlenmiş insan topluluklarının kaldığı "
-#~ "anlaşılıyor. Daha önce bizim vadiye neden hiç uğramamış oldukları veya "
-#~ "vadimizin kaynaklarına neden hiç ihtiyaç duymadıklarını merak ediyorum."
-
-#~ msgid ""
-#~ "Probably because they are empowered by forces of evil, rather than their "
-#~ "natural energy and strength. Look!"
-#~ msgstr ""
-#~ "Gücü kötülükten aldıkları için olsa gerek. Doğal güce ve enerjiye "
-#~ "ihtiyaçları yok gibi görünüyor. Bak!"
-
-#~ msgid "It seems that my fears were confirmed to be true, unfortunately."
-#~ msgstr "Ne yazık ki, bu benim korkularımı doğrular nitelikte."
-
-#~ msgid ""
-#~ "Given their advanced weapons and tactics, I think we have no possibility "
-#~ "to survive against them once they regroup. I'm pretty sure the group we "
-#~ "have just defeated is an ant in comparison with the bulk of their army. "
-#~ "Thus, I recommend against staying in this valley any longer."
-#~ msgstr ""
-#~ "Onlara gelişmiş silahlar ve taktikler verilmiş. Bir ordu halinde "
-#~ "geldiklerinde ayakta kalma şansımızın olmayacağını düşünüyorum. Ne yazık "
-#~ "ki, bu grup ordunun yanında devede kulak olmalı. Bu bakımdan bu vadide "
-#~ "daha fazla kalmamayı öneriyorum."
-
-#~ msgid "You are right. Granted, we shall do as you suggest."
-#~ msgstr "Haklısın. Onaylıyorum, önerdiğin gibi yapacağız."
-
-#~ msgid ""
-#~ "Unfortunately, if we are to survive, our only option is to go in there."
-#~ msgstr ""
-#~ "Maalesef, hayatta kalmak istiyorsak, tek seçeneğimiz oraya gitmek olacak."
-
-#~ msgid ""
-#~ "I must admit that I did not. I guess we can just hope that luck gives us "
-#~ "the advantage."
-#~ msgstr ""
-#~ "Bunu düşünmediğimi belirtmek zorundayım. Ben sadece şansa güvenmiştim."
-
-#~ msgid ""
-#~ "No! It would be excessively risky! Someone must stay here and distract "
-#~ "them, and I'll be that person."
-#~ msgstr ""
-#~ "Hayır! Bu fazlasıyla riskli olur. Biri burada kalıp onları uzak tutmalı "
-#~ "ve bu kişi ben olacağım."
-
-#~ msgid ""
-#~ "I... cannot. I'm... I don't have the natural leadership of you or my "
-#~ "father."
-#~ msgstr ""
-#~ "Ben.. yapamam. Ben... Ben siz veya babam gibi bir doğal lider değilim."
-
-#~ msgid ""
-#~ "Perhaps not. Or perhaps you do. In any case, don't waste your time. I and "
-#~ "my loyal warriors will distract the humans while you escape. Shall you?"
-#~ msgstr ""
-#~ "O pek belli olmaz. Ne olursa olsun, zamanını boşa harcama. Siz kaçana "
-#~ "kadar ben ve sadık savaşçılarım insanları sizden uzak tutacağız. Değil "
-#~ "mi?!"
-
-#~ msgid "Of course we shall do!"
-#~ msgstr "Elbette. Sizinle birlikteyiz!"
-
-#~ msgid ""
-#~ "I suppose we can explore for a while, but don't go too further down the "
-#~ "caves, for we don't know where they lead to."
-#~ msgstr ""
-#~ "Kısa bir inceleme yapabiliriz ama mağaranın içlerine doğru da "
-#~ "gitmemeliyiz. Orada nelerle karşılaşacağımızı bilemeyiz."
-
-#~ msgid ""
-#~ "It was about a supposed rockfall from the skies that happened a millenium "
-#~ "or two ago. Nothing important, they thought it was the end of the world "
-#~ "but it proved to be wrong. The rocks impacted on the surface causing the "
-#~ "mountains to rise in a valley formation. So we are standing on a giant "
-#~ "crater."
-#~ msgstr ""
-#~ "Bir ya da iki bin yıl kadar önce buraya bir göktaşının düşmesi hakkında. "
-#~ "Hiç önemli olmadğı halde dünyanın sonunun geldiğini sanırlar ama öyle "
-#~ "olmaz. Kayalar yüzeye çarpınca dağ parçalanarak bu vadinin şeklini alır. "
-#~ "Yani biz bir göktaşı kraterinde bulunuyoruz."
-
-#~ msgid ""
-#~ "Or, we can defeat them all to continue without making haste for your "
-#~ "lives."
-#~ msgstr ""
-#~ "Ya da hayatınızı kurtarmak için acele etmez ve hepsini tek tek "
-#~ "öldürebiliriz."
-
-#~ msgid ""
-#~ "You find yourself before a giant creature of metallic shield, whose "
-#~ "appearance hardly would resemble a normal human's. Its deep metallic "
-#~ "breathing, and uncanny noises coming from inside its body, make you "
-#~ "wonder about its origin."
-#~ msgstr ""
-#~ "Kendinizi metal zırhlı, normal bir insana benzetmenin çok güç olacağı "
-#~ "yabani bir yaratığın önünde buldunuz. Boğuk metalik nefesi ve gövdesinden "
-#~ "gelen acayip sesler onun nasıl bir yaratık olduğu konusunda sizi "
-#~ "endişelendiriyor."
-
-#~ msgid "Better get used to that, sir."
-#~ msgstr "Ama onları kullanabiliyorsunuz, efendim."
-
-#~ msgid "Steppes"
-#~ msgstr "Bozkır"
-
-#~ msgid "Highlands"
-#~ msgstr "Yaylalar"
-
-#~ msgid "No, no, no! And once again, no! I can't accept this."
-#~ msgstr "Hayır, hayır, hayır! Ve tekrar, hayır! Bunu kabul edemem."
-
-#~ msgid ""
-#~ "Malin, you must accept the circumstances and the consequences. If we want "
-#~ "to end this once for all, the least we can do is sacrifice our old biases "
-#~ "along with our lives... preferably not the latter."
-#~ msgstr ""
-#~ "İskeletimsi şey, mevcut durumu ve önemini kabul etmelisin. Eğer bunu bir "
-#~ "kerede sonsuza dek bitirmek istiyorsak, yaşamlarımızı olmasa da en "
-#~ "azından eski saplantılarımızı feda etmeliyiz. "
-
-#~ msgid ""
-#~ "It is something that really angers me; is it that you do not understand? "
-#~ "I thought you knew what led me to this state!"
-#~ msgstr ""
-#~ "Bu beni gerçekten kızdırıyor. Beni bu duruma sokan şeyi bilmiyor musunuz?"
-
-#~ msgid ""
-#~ "I understand your anger towards the orcs and their race, but if all that "
-#~ "did not happen, we and the rest of our people would be dead by now. There "
-#~ "would be noone left to accomplish this task and save the continent. You "
-#~ "saved our lives, and you are going to save our destiny, too."
-#~ msgstr ""
-#~ "Orklara karşı hıncını anlıyoruz, fakat bunların hiçbiri olmasaydı, biz ve "
-#~ "halkımız şimdi ölmüş olurdu. Bu görevden ve kıtayı kurtarmaktan hiç kimse "
-#~ "yan çizemez."
-
-#~ msgid ""
-#~ "Nobody else has treated you as a friend in all this time, you said "
-#~ "before. At least that is the good part of your fate. If we can do this "
-#~ "together, the historians will no longer write about you as a necromancer, "
-#~ "but as a hero. And you will then be free to depart from this world, if "
-#~ "you wish to do so."
-#~ msgstr ""
-#~ "Evvelce söylediğiniz gibi, bu zamana kadar hiç kimse size bizim gibi "
-#~ "dostça davranmamış. En azından bu, kaderinizin iyi bir bölümü. Eğer bunu "
-#~ "birlikte yapabilirsek tarihçiler artık sizden bir nekromatik olarak değil "
-#~ "bir kahraman olarak söz edeceklerdir. Eğer isterseniz, bu dünyadan "
-#~ "ayrılmak için özgür olacaksınız."
-
-#~ msgid ""
-#~ "Pardon me, people, but we have a mission to fulfill; don't delay it with "
-#~ "this worthless discussion. We must bring these caravans loaded with "
-#~ "tributes to each one of the orcish tribes. If we keep our weapons "
-#~ "lowered, their attitude towards us will not be destructive. I speak based "
-#~ "on earlier experiences with them. They do not attack defenseless people."
-#~ msgstr ""
-#~ "Bu çok doğru. Yerel çetelerin her birine hediyelerle yüklü bu arabalardan "
-#~ "bir tane vermeliyiz. Eğer silahlarımızı düşük tutarsak, bize karşı "
-#~ "davranışları yıkıcı olmayacaktır. Onlarla eski deneyimlerime dayanarak "
-#~ "konuşuyorum. Savunmasız kimselere saldırmazlar."
-
-#~ msgid "Now, that is weird."
-#~ msgstr "Şimdi tuhaflaştı."
-
-#~ msgid "Alright, I just hope you know what we are doing, sir."
-#~ msgstr "Pekala, umarım ne yaptığınızı biliyorsunuzdur, bayım."
-
-#~ msgid ""
-#~ "(whispering) Galas, are you sure that killing him wasn't a better idea?"
-#~ msgstr ""
-#~ "(fısıltıyla) Galas onu öldürmenin iyi bir fikir olmadığına emin misin?"
-
-#~ msgid "Should we go this way now?"
-#~ msgstr "Bu yoldan mı gideceğiz?"
-
-#~ msgid "Yes, let's go."
-#~ msgstr "Evet, gidelim."
-
-#~ msgid "Ka-than"
-#~ msgstr "Kağtan"
-
-#~ msgid "Carlyn"
-#~ msgstr "Karlin"
-
-#~ msgid ""
-#~ "Convince the local orcish tribe to join your cause, by bringing the "
-#~ "caravan to the leader."
-#~ msgstr ""
-#~ "Ork liderine hediye arabası vererek size katılmaları için ikna edin."
-
-#~ msgid "Theft/capture (death) of the caravan"
-#~ msgstr "Arabanın çalınması veya ele geçirilmesi (ölümü)"
-
-#, fuzzy
-#~ msgid "Defeat the bandit leader"
-#~ msgstr "İblisbaşını öldür"
-
-#, fuzzy
-#~ msgid "Yes, negotiate."
-#~ msgstr "Evet, gidelim."
-
-#, fuzzy
-#~ msgid "Ah... no."
-#~ msgstr "Aahhh..."
-
-#, fuzzy
-#~ msgid "What else should we give you?"
-#~ msgstr "Ne yapmalıyız?"
-
-#~ msgid ""
-#~ "After a few weeks passed, the chaos, as the group predicted, reached the "
-#~ "frontiers of the Aragwaith country. Rumors of an invasion were heard in "
-#~ "Raelthyn, and, before the Grand Council met, the party decided to "
-#~ "investigate whether the rumors were true or not."
-#~ msgstr ""
-#~ "Bir kaç hafta sonra öngörüldüğü gibi kaos birlikleri toparlanıp Aragvay "
-#~ "ülkesinin sınırlarına dayanmıştı. İstila söylentileri Raveltin’e ulaşınca "
-#~ "Büyük Konseyi toplantıya çağırmadan önce, ekip, söylentilerin doğru olup "
-#~ "olmadığını araştırmaya karar verdi."
-
-#~ msgid "Ah, great. Now we are surrounded by these creeps."
-#~ msgstr "Ah, harika. Şimdi de bu ürpertici şeylerle kuşatıldık."
-
-#~ msgid ""
-#~ "According to my calculations, we are about to reach Wesmere's territory. "
-#~ "That might explain why we stumbled upon them."
-#~ msgstr ""
-#~ "Hesaplarıma göre Vesmer bölgesine varmak üzereyiz. Onlara rastlayışımız "
-#~ "bu bakımdan rastlantı değil."
-
-#~ msgid ""
-#~ "Of course, they protect Wesmere. But why? Is there anything important in "
-#~ "there?"
-#~ msgstr "Şüphesiz, Vesmer’i koruyorlar. Fakat neden? Orada önemli ne var ki?"
-
-#~ msgid ""
-#~ "I don't know. The connection with Inferno that was opened there was "
-#~ "closed by me and Argan long ago. It is possible that it was opened again, "
-#~ "or that they set something else on the area."
-#~ msgstr ""
-#~ "Bilmiyorum. Oradan cehenneme açılan geçidi uzun zaman önce Argan’la "
-#~ "birlikte kapatmıştık. Tekrar açılmış olabileceği gibi orada başka bir "
-#~ "şeyler de olabilir."
-
-#~ msgid ""
-#~ "What happens, Galas? Are you hesitating? Kill them, kill your enemies. "
-#~ "Feel the pleasure of their blood in your hands."
-#~ msgstr ""
-#~ "Ne oluyor, Galas? Endişeli misin? Öldür hepsini, tüm düşmanlarını öldür. "
-#~ "Ellerinde kanlarının sıcaklığını hisset."
-
-#~ msgid "Kill them, now! Don't leave any of those beasts alive!"
-#~ msgstr "Öldürün hepsini! Bu hayvanatın hiçbirini sağ komayın!"
-
-#~ msgid "I thought I was the only enthusiast here on killing foes."
-#~ msgstr "Düşman öldürmek konusunda tek gayretkeş benim sanıyordum."
-
-#~ msgid "Galas? Are you sure you are alright?"
-#~ msgstr "Galas, hayrola? İyi olduğuna emin misin?"
-
-#~ msgid "It must be just the heat of the lava."
-#~ msgstr "Lavın sıcaklığından olmalı."
-
-#~ msgid "Wesmere"
-#~ msgstr "Vesmer"
-
-#~ msgid "I'll be free, at last..."
-#~ msgstr "Sonunda özgür olacağım..."
-
-#~ msgid ""
-#~ "Note: after this scenario your gold supply will be set to zero until the "
-#~ "end of this last episode. You will be able to pick your best units to be "
-#~ "recalled for the next scenarios, but only once, and without including "
-#~ "your dwarvish allies."
-#~ msgstr ""
-#~ "Bilginize: Bu senaryodan itibaren bu bölümün sonuna kadar altın "
-#~ "kaynağınız sıfırlanacak. Sonraki senaryolarda çağıracağınız birimleri son "
-#~ "kez en iyiler arasından seçeceksiniz. Cüceler buna dahil değildir."
-
-#~ msgid ""
-#~ "Note: only three of your heroes will be available until you make it to "
-#~ "the Lair of the Shadow Master."
-#~ msgstr ""
-#~ "Bilginize: Gölgelerin Efendisinin sarayına girene kadar sadece 3 kahraman "
-#~ "kullanabileceksiniz."
-
-#~ msgid ""
-#~ "Alright. Erathan and the others should stay behind while we clean the way "
-#~ "to the Lair. Although, in my opinion it would be best if no one of them "
-#~ "followed us."
-#~ msgstr ""
-#~ "Pekala. Biz saray yolunu temizlerken Eratan ve diğerleri arkamızda "
-#~ "kalmalı. Bizi kimsenin izlememesi için kanaatimce en iyisi bu olacak."
-
-#~ msgid ""
-#~ "If dying for loyalty is the fate they desire, then so be it. We will need "
-#~ "all the help we can get, too, if we are going to face the master mind."
-#~ msgstr ""
-#~ "İsteğiniz, sadakatinizi göstermek için ölmekse işte meydan. Efendinin "
-#~ "kendisiyle karşılaşmaya gittiğimize göre alabildiğimiz her türlü yardıma "
-#~ "ihtiyacımız olacak."
-
-#~ msgid "(sighs) Fair enough, let's move."
-#~ msgstr "(iç çeker) Yeterince açık, gidelim."
-
-#~ msgid ""
-#~ "Remember that now we have the power of the Union by our side, once again."
-#~ msgstr ""
-#~ "Bir kere daha Birliğin gücünün bizim yanımızda yer aldığını unutmayın."
-
-#~ msgid "Atrocious. They might even have been our kinsmen before!"
-#~ msgstr "Gaddarca. Bir de soydaşımız olacaklar!"
-
-#~ msgid "Another reason for stopping the loyalists once and for all."
-#~ msgstr "Kralcıları bir kerede sonsuza kadar durdurmak için bir sebep daha."
-
-#~ msgid "Faerie Spirit"
-#~ msgstr "Peri"
-
-#~ msgid "Faerie Sprite"
-#~ msgstr "Gazoz Perisi"
-
-#~ msgid ""
-#~ "WARNING: you are now in 'Debug Mode'. If you are not testing advanced "
-#~ "features or other stuff for this campaign, go back to the campaign's "
-#~ "difficulty selection menu and choose one of the first 3 entries instead.\n"
-#~ "\n"
-#~ "Otherwise, make sure you passed the --log-debug=notifs parameter to "
-#~ "Wesnoth's command line"
-#~ msgstr ""
-#~ "UYARI: Şu an ‘hata ayıklama’ kipindesiniz. Bu seferlerlik için gelişkin "
-#~ "özellikleri veya başka şeyleri denemiyorsanız, kampanyanın zorluk seçim "
-#~ "menüsüne geri dönüp ilk üç girdiden birini seçiniz.\n"
-#~ "\n"
-#~ "Aksi takdirde, Wesnoth’u komut satırından --log-debug=notifs seçeneğiyle "
-#~ "başlatmalısınız."
-
-#~ msgid ""
-#~ "I don't think that will happen. The earth detects our presence, won't "
-#~ "harm us as it knows why we came here."
-#~ msgstr ""
-#~ "Bunun olacağını sanmıyorum. Toprak bizim varlığımızı algılamıştır. Buraya "
-#~ "geliş sebebimizi bile bile üzerimize çökmez."
-
-#~ msgid "race^Kagthanus"
-#~ msgstr "Ucube"
-
-#~ msgid "race+female^Kagthanus"
-#~ msgstr "Ucube"
-
-#~ msgid "race^Kagthanii"
-#~ msgstr "Ucubeler"
-
-#~ msgid "The Wesnoth Project"
-#~ msgstr "Wesnoth Projesi"
-
-#~ msgid "The WesCamp-i18n Project"
-#~ msgstr "WesCamp-i18n Projesi"
-
-#~ msgid "Troll Shaman"
-#~ msgstr "Trol Şamanı"
-
-#~ msgid "flame blast"
-#~ msgstr "alev topu"
+"Bir zamanların ovaları yıldırım gibi geçen büyük savaşçıları olan bu "
+"biniciler iskelet atlarıyla birlikte uğursuz bir büyüyle korku ve ölüm "
+"saçmak üzere mezarlarından kaldırılmışlardır."
