@@ -6,6 +6,129 @@ ________________________________________________________________________________
      [D]: definitive | [P]: placeholder | [T]: testing | [U]: unstable
 ________________________________________________________________________________
 
+Version 1.10.4:
+- Graphics:
+    - Updated portraits: Igor [D], Galas [D], Mal Keshar [D], Anlindë [D],
+                         Elynia [D], Lédinor [P], Mal Hekuba [P].
+
+- Language and i18n:
+    - Cleaned up usage of textdomains.
+    - Brought back translations from WesCamp-i18n into the official
+      distribution: French, Italian, Spanish, Turkish.
+
+- Music and sound effects:
+    - Removed battle6.ogg since it's been included in the official Wesnoth
+      mainline distribution as suspense.ogg since 1.5.7.
+
+- Scenarios:
+    - Fixed a few typos or removed inexisting words.
+    - 1 (Border Patrol):
+        - Fixed a text overflow issue in the story screens.
+    - 5 (Crossfire, Cursed Plateau):
+        - Gave a more visible indication that Dark Adepts are recruitable in
+          these scenarios.
+    - 22A (Innuendo):
+        - Removed a coffin that was floating over abyss.
+        - Some "minor" revisions.
+    - 23C (Broken Heart):
+        - Some "minor" revisions.
+
+- Units:
+    - Balancing, including changes after mainline revision 32126:
+        - Reduced Shaxthal Rayblade's movement costs:
+            - Deep water: 4 -> 3
+            - Shallow water: 3 -> 2
+            - Swamp water: 3 -> 2
+        - Increased Shaxthal Rayblade's defense on deep water from 10% to 20%.
+        - Reduced Shaxthal Rayblade's defense on reef terrain from 40% to 30%.
+        - Reduced Shaxthal Runner and Protector's defense on reef terrain from
+          40% to 30%.
+        - Reduced 'aragwaithfoot' movetype defense on reef and swamp
+          water terrains from 40% to 30%.
+        - Reduced 'aragwaithmounted' movetype defense on reef terrain from 40%
+          to 30%.
+        - Reduced Doom Guard's line defense on reef terrain from 30% to 20%.
+        - Reduced 'impfoot' movetype defense on reef terrain from 50% to 40%.
+        - Reduced 'impfoot' movetype defense on shallow water from 40% to 30%.
+        - Reduced 'impfoot' movetype defense on swamp water from 60% to 40%.
+        - Reduced 'demon' movetype defense on reef terrain from 50% to 40%.
+        - Reduced 'demon' movetype defense on shallow water from 40% to 30%.
+        - Reduced 'demon' movetype defense on swamp water from 60% to 50%.
+        - Reduced 'undeadmountedfoot' movetype defense on reef terrain from 40%
+          to 30%.
+        - Reduced 'steppebasic' movetype defense on reef terrain from 40% to
+          30%.
+        - Reduced 'steppelusive' movetype defense on reef terrain from 50% to
+          40%.
+        - Reduced 'steppescout' movetype defense on reef terrain from 40% to
+          30%.
+        - Reduced 'mutantfoot' movetype defense on reef terrain from 50% to 40%.
+        - Removed unused movetype, 'crawlerfoot'.
+        - Reduced Steppe Savage's defense on reef terrain from 50% to 40%.
+        - Reduced Elynia's defense on reef terrain from 50% to 40%.
+    - Gave the Dwarvish Runesmith proper attack icons.
+________________________________________________________________________________
+
+Version 1.10.3:
+- EXPERIMENTAL [U]:
+    - Make Galas, Mal Keshar, Erathan Althurin and Igor use kitty's transparent
+      portraits in 1.5.7.
+
+- Administration and maintenance:
+    - Removed unused, deprecated and/or unmaintained files:
+        - SPOILERS
+        - TEXT_SOURCES
+
+- Graphics:
+    - New portraits: Mal Keshar [D]
+
+- Scenarios:
+    - 3 (Memories from the Depths):
+        - Faerie spirits aren't supposed to be able to take the Ring of
+          Switftness.
+    - 4 (Over the Sands):
+        - Merged from upstream (/trunk/data/campaigns/Under_the_Burning_Suns):
+            - revision 31828 <zookeeper> Added a little overlay icon to
+              dehydrated units.
+              (Tue Dec 30 21:38:13 2008 +0000)
+            - revision 31840 <zookeeper> Allowed villages to rehydrate units.
+              (Wed Dec 31 17:55:05 2008 +0000)
+            - revision 31841 <zookeeper> Fixed rehydration screwing up attack
+              stats of units that leveled up after getting dehydrated.
+              (Wed Dec 31 18:16:45 2008 +0000)
+    - 5a (Crossfire), 5b (Cursed Plateau):
+        - Faerie spirits aren't supposed to be able to take the Ring of
+          Regeneration.
+    - 9 (The Library):
+        - Fixed enemy respawn points.
+    - 10 (The Source of Light):
+        - Faerie and elvish spirits aren't supposed to be able to take the
+          Draining potion.
+        - Text revisions, including a few English variant fixes (e.g. UK
+          English in middle of US English). Also gave Igor more stuff to say.
+    - 14 (Bye and Behold):
+        - Make Igor available when starting episode II on HARD.
+    - 21 (The Heart):
+        - Fix graphic glitches.
+        - Fix an "invalid WML" warning.
+    - 22A (Innuendo):
+        - Blocked entrance to secret scenario.
+        - Fixed spelling mistakes.
+        - Made the filters for objects that may be applied only to living
+          beings exclude Faerie Spirits as well.
+        - Revised dialog and objectives text.
+    - 22B (The Gauntlet):
+        - Revised dialog text.
+    - 22C (The Backyard):
+        - Removed unbalanced and unmaintained scenario, "The Backyard".
+
+- Units:
+    - Made Anlindë's unit line visible in the help engine again.
+    - Removed units: Captain, Commander, Dark General, Swordsman (mainline
+                     override), Man at Arms, Champion, Crossbowman, High Guard,
+                     Deathguard.
+________________________________________________________________________________
+
 Version 1.10.2:
 - Maintenance toolchain:
     - Made build-external-archive.sh use uname instead of GNU distribution-
@@ -271,5 +394,5 @@ Version 1.10.0 (interim release):
     - Simplified Shaxthal's unit_type variation WML
 ________________________________________________________________________________
 
-; $Id: ChangeLog 3113 2008-12-30 11:46:16Z shikadilord $
+; $Id: ChangeLog 3362 2009-01-19 14:53:47Z shikadilord $
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;
