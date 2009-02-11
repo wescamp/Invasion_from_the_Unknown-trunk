@@ -6,6 +6,53 @@ ________________________________________________________________________________
      [D]: definitive | [P]: placeholder | [T]: testing | [U]: unstable
 ________________________________________________________________________________
 
+Version 1.10.5:
+- Administration and maintenance:
+    - Began to use inline formulas in WML to decrease code complexity. This
+      means that this campaign will not work properly in Wesnoth 1.5.6 or
+      earlier.
+    - Saved games of the last boss fight and afterwards may no longer work.
+
+- Graphics:
+    - Updated baseframes: Elynia, Master of Darkness, Elvish Mystic,
+                          Elvish Avatar, Shaxthal Protector Drone.
+    - Updated portraits: Lédinor [D], King Asthorgar [D].
+
+- Scenarios:
+    - 8 (Errand of Hope):
+        - Slight improvements to the initial custscene.
+    - 8 - final cutscene (A Royal Meeting):
+        - Fixed probably the most half-assed dialog sequence in this campaign's
+          history. Damnit, there were even a few plot contradictions in it.
+    - 10 (The Source of Light):
+        - Removed the possibility of giving the draining potion to faerie
+          beings and undead spirits (reported by TheJM).
+    - 22A, 22B, 23A, 23B:
+        - Fixed WML that invoked undefined behavior from the vconfig engine.
+          This change means you've got to restart "Innuendo" or the last turn
+          of The Heart to update your saves, since otherwise the recall list
+          for the last scenarios will be unusable.
+        - Prohibited plagued units (Walking Corpses, Soullesses, Ghouls) from
+          being carried over to next scenarios.
+    - 22A (Innuendo):
+        - Removed one recall/recruitment hex for the player.
+    - 22B (Gauntlet):
+        - Major map revisions.
+
+- Units:
+    - Balancing:
+        - Increased Aragwaith Sorcerer's total movement from 5 to 6.
+        - Increased Chaos Hound's HP from 21 to 22.
+        - Increased Hellhound's HP from 44 to 47.
+    - Fixed glitchy animations:
+        - Bone Knight
+    - Removed unused units:
+        - Bear
+        - Giant Boar
+    - Renamed units:
+        - Sylvan Faerie -> Sylvan Warden
+________________________________________________________________________________
+
 Version 1.10.4:
 - Graphics:
     - Updated portraits: Igor [D], Galas [D], Mal Keshar [D], Anlindë [D],
@@ -394,5 +441,5 @@ Version 1.10.0 (interim release):
     - Simplified Shaxthal's unit_type variation WML
 ________________________________________________________________________________
 
-; $Id: ChangeLog 3362 2009-01-19 14:53:47Z shikadilord $
+; $Id: ChangeLog 3771 2009-02-10 22:39:33Z shikadilord $
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;

@@ -1,0 +1,9 @@
+# "Invasion from the Unknown" package automatically generated on 2009-02-10 - 23:15:17 (UTC)
+# running /usr/bin/build-external-archive under GNU/Linux 2.6.27-11-generic i686 by espreon@espreon-sanctum
+
+# version 1.10.5
+# archive tar
+# comp bzip2
+# generator espreon@espreon-sanctum
+
+# command line: "/usr/bin/build-external-archive -x 1.10.4 /home/espreon/.wesnoth/data/campaigns/Invasion_from_the_Unknown /home/espreon/IFtU-upload --force"
