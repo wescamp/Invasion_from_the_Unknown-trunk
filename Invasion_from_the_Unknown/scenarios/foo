@@ -1,0 +1,12 @@
+
+        {MSG_SPEAKER unit ( _ "I am Elyssa. I used to be a wandering mage who studied the remants of the ancient Empire's history, before stumbling upon the Chaos Empire and their ominous powers. The Shadow Master... he taught me things that you cannot imagine. He showed me the powers of the grand Uria! He... they, they converted me to their side, turning me into a demon... and then, the witch killed me. They resurrected me from the little remains of my body... thanks to the arcane craft mastered by him.")}
+
+        {MSG_UNIT Elynia ( _ "Where does your master hide?")}
+
+        {MSG_SPEAKER unit ( _ "The Halls of the Damned... the gates behind, and the Dark Hive... follow the dark road, and you will find him, in a chamber plenty of his creations...")}
+
+        {MSG_UNIT Elynia ( _ "Now you can pass in peace, Elyssa.")}
+
+        {MSG_NARRATOR ( _ "As Elyssa performed her last breath, her former appearance returned, showing that of a beautiful red-haired human mage.")}
+
+        {MSG_NARRATOR ( _ "But the group could not rest even for a while, nor give the poor victim a proper burial. So they threw her still warm corpse to the lava to be completely consumed, and purposefully headed towards the Halls of the Damned...")}

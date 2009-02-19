@@ -6,6 +6,36 @@ ________________________________________________________________________________
      [D]: definitive | [P]: placeholder | [T]: testing | [U]: unstable
 ________________________________________________________________________________
 
+Version 1.11.0:
+- Graphics:
+    - Updated baseframes: Shaxthal Rayblade, Shaxthal Master Drone (masked and
+                          unmasked), Shaxthal Warlord (masked and unmasked),
+                          Water Serpent.
+    - Updated portraits: Elyssa (masked and unmasked) [D].
+
+- Scenarios:
+    - New scenarios:
+        - 22C (The Dark Hive)
+        - 23A (Frozen Hell)
+    - Removed scenarios:
+        - 23A (Interim)
+    - Scenario 14 (Bye and Behold):
+        - Fixed King Asthorgar not getting his portrait when starting
+          Episode II from scratch.
+
+- Units:
+    - Balancing:
+        - Gave real shaxthal stats to Elyssa.
+            - Replaced "infernal chill" (cold, ranged, magical 15-2) with the
+              more powerful "burning inferno" (fire, ranged, magical 14-3).
+            - Gave her the Submerges ability.
+            - Reduced her "sword" attack strength (melee, blade, drains 12-4) to
+              11-4.
+        - Made the Water Serpent a level 2 unit. 'nuff said.
+    - Merged Elynia's union attack animation into her unit.
+    - Removed Elvish Horseman unit due to artwork requirements and balancing.
+________________________________________________________________________________
+
 Version 1.10.5:
 - Administration and maintenance:
     - Began to use inline formulas in WML to decrease code complexity. This
@@ -441,5 +471,5 @@ Version 1.10.0 (interim release):
     - Simplified Shaxthal's unit_type variation WML
 ________________________________________________________________________________
 
-; $Id: ChangeLog 3771 2009-02-10 22:39:33Z shikadilord $
+; $Id: ChangeLog 3903 2009-02-19 13:57:39Z shikadilord $
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;
