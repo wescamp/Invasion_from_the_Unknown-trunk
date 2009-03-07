@@ -6,6 +6,44 @@ ________________________________________________________________________________
      [D]: definitive | [P]: placeholder | [T]: testing | [U]: unstable
 ________________________________________________________________________________
 
+Version 1.11.1.1:
+- Scenarios:
+    - Applied some more text revisions from Solsword.
+    - Revised some maps.
+
+- Terrains:
+    - Fixed awkward lack of Dirt <-> Hive transitions.
+________________________________________________________________________________
+
+Version 1.11.1:
+- Administration and maintenance:
+    - Bumped minimum Wesnoth version requirement to 1.5.10, and dropped
+      compatibility with IftU 1.10.3 and earlier, and Wesnoth 1.5.9 and earlier.
+
+- Graphics:
+    - Removed portraits: Murlin.
+    - Updated baseframes: Water Serpent.
+
+- Scenarios:
+    - Fixed some plot holes.
+    - Revised some maps.
+    - Applied a user-contributed patch to the English text (from Solsword).
+    - The Ring of Regeneration may not be used by faeries, units of the Elvish
+      Shaman line, or Anlindë.
+    - The Berserk Potion may not be used by faeries, units of the Elvish Shaman
+      line, Anlindë, Mal Keshar, or units of the Walking Corpse or Ghoul lines.
+    - Re-enabled custom AI formulas for dark hive guardians in final scenarios.
+    - 24 (Epilogue):
+        - Fixed a map size issue that caused Wesnoth 1.5.11+ to abort.
+
+- Units:
+    - Balancing:
+        - Force Cockatrices to use only their ranged attack on offensive
+          strikes.
+        - Reduced Elvish Prowler's HP from 62 to 54.
+        - Replaced Elvish Trapper's skirmishing ability with ambush.
+________________________________________________________________________________
+
 Version 1.11.0:
 - Graphics:
     - Updated baseframes: Shaxthal Rayblade, Shaxthal Master Drone (masked and
@@ -471,5 +509,5 @@ Version 1.10.0 (interim release):
     - Simplified Shaxthal's unit_type variation WML
 ________________________________________________________________________________
 
-; $Id: ChangeLog 3903 2009-02-19 13:57:39Z shikadilord $
+; $Id: ChangeLog 4038 2009-03-02 16:47:39Z shikadilord $
 ; kate: indent-mode normal; encoding utf-8; space-indent on; word-wrap on;

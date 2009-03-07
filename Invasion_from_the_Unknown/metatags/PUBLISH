@@ -1,0 +1,9 @@
+# "Invasion from the Unknown" package automatically generated on 2009-03-02 - 17:02:25 (UTC)
+# running /home/shadowm/bin/build-external-archive.sh under GNU/Linux 2.6.28.3-bluecore73 x86_64 by shadowm@bluecore
+
+# version 1.11.1.1
+# archive tar
+# comp bzip2
+# generator shadowm@bluecore
+
+# command line: "/home/shadowm/bin/build-external-archive.sh /home/shadowm/.wesnoth/data/campaigns/Invasion_from_the_Unknown /home/shadowm/IftU-upload/"
